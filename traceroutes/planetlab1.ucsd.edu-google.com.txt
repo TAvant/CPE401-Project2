@@ -1,0 +1,11 @@
+traceroute to google.com (74.125.224.197), 30 hops max, 60 byte packets
+ 1  cse-hazard-gateway.ucsd.edu (132.239.17.1)  0.638 ms  0.621 ms  0.655 ms
+ 2  ebu3b-6509-nodem-core-interconnect-vl910-gw-255-130.ucsd.edu (132.239.255.130)  0.384 ms  0.483 ms  0.467 ms
+ 3  mx0--nodem-core-30ge.ucsd.edu (132.239.254.162)  0.281 ms  0.285 ms  0.263 ms
+ 4  dc-sdg-agg1--ucsd-1.cenic.net (137.164.23.53)  0.422 ms  0.409 ms  0.388 ms
+ 5  dc-riv-core1--sdg-agg1-10ge-2.cenic.net (137.164.47.14)  10.036 ms  10.034 ms  10.013 ms
+ 6  dc-lax-core1--riv-core1-10ge-1.cenic.net (137.164.46.55)  14.607 ms  14.565 ms  14.514 ms
+ 7  72.14.223.85 (72.14.223.85)  9.833 ms  9.869 ms  9.878 ms
+ 8  64.233.174.238 (64.233.174.238)  11.255 ms  11.312 ms  11.201 ms
+ 9  72.14.236.13 (72.14.236.13)  10.470 ms  10.598 ms  10.730 ms
+10  lax02s02-in-f5.1e100.net (74.125.224.197)  9.875 ms  9.912 ms  9.891 ms

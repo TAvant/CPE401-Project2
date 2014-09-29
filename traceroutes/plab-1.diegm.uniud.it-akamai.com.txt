@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.38.93.239), 30 hops max, 60 byte packets
+ 1  158.110.28.254 (158.110.28.254)  7.020 ms  7.008 ms  7.642 ms
+ 2  udccr0.cc.uniud.it (158.110.1.1)  0.590 ms  0.592 ms  0.587 ms
+ 3  ru-uniud-l2-rx1-pd2.pd2.garr.net (193.204.218.101)  4.730 ms  4.802 ms  4.796 ms
+ 4  rx1-pd2-rx1-bo1.bo1.garr.net (90.147.80.13)  18.616 ms  28.798 ms  28.798 ms
+ 5  rx1-bo1-rx1-mi1.mi1.garr.net (90.147.80.109)  13.884 ms rx1-bo1-r-bo1.bo1.garr.net (90.147.80.33)  12.247 ms  12.246 ms
+ 6  r-bo1-r-mi1-l4.mi1.garr.net (90.147.80.5)  10.494 ms  27.471 ms  27.508 ms
+ 7  xe-0-3-2.csr1.lin1.gblx.net (208.50.25.117)  10.710 ms xe-0-3-1.csr1.lin1.gblx.net (64.215.30.89)  12.864 ms xe-0-3-2.csr1.lin1.gblx.net (208.50.25.117)  12.893 ms
+ 8  po4-20G.ar2.MAD1.gblx.net (67.16.133.238)  203.776 ms  199.286 ms  199.275 ms
+ 9  64.208.27.10 (64.208.27.10)  44.895 ms  47.685 ms  44.505 ms
+10  tengige0-6-0-9.auvtr4.Aubervilliers.opentransit.net (193.251.243.41)  54.863 ms tengige0-1-0-5.auvtr4.Aubervilliers.opentransit.net (193.251.128.165)  54.127 ms tengige0-1-0-3.auvtr4.Aubervilliers.opentransit.net (193.251.132.177)  49.396 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

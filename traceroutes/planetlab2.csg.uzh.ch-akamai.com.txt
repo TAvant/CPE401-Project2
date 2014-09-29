@@ -1,0 +1,31 @@
+traceroute to akamai.com (95.101.205.239), 30 hops max, 60 byte packets
+ 1  gw-192-41-136-208.csg.uzh.ch (192.41.136.209)  0.402 ms  1.041 ms  1.235 ms
+ 2  uzhix1-gig2-4.uzh.ch (192.41.136.25)  0.437 ms  0.496 ms  0.555 ms
+ 3  swizh2-ten1-4.uzh.ch (192.41.136.1)  0.396 ms  0.506 ms  0.577 ms
+ 4  swiIX1-10GE-3-3.switch.ch (130.59.36.129)  0.420 ms  0.450 ms  0.450 ms
+ 5  zch-b1-geth3-1.telia.net (213.248.79.189)  0.381 ms  0.376 ms  0.373 ms
+ 6  ffm-bb1-link.telia.net (62.115.136.108)  11.601 ms  11.616 ms  11.610 ms
+ 7  ffm-b12-link.telia.net (213.155.135.107)  11.943 ms ffm-b12-link.telia.net (80.91.246.103)  12.038 ms ffm-b12-link.telia.net (213.155.136.197)  11.954 ms
+ 8  ntt-ic-155239-ffm-b12.c.telia.net (213.248.72.10)  13.565 ms  13.278 ms  12.985 ms
+ 9  ae-2.r20.frnkge04.de.bb.gin.ntt.net (129.250.5.217)  12.827 ms  12.836 ms  12.932 ms
+10  ae-1.r23.amstnl02.nl.bb.gin.ntt.net (129.250.3.179)  23.756 ms  23.958 ms  23.752 ms
+11  ae-1.r03.amstnl02.nl.bb.gin.ntt.net (129.250.2.147)  23.965 ms  24.161 ms  23.975 ms
+12  81.20.67.150 (81.20.67.150)  20.141 ms  23.838 ms  30.401 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

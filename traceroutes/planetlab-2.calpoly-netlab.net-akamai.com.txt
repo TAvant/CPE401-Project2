@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.210.157.239), 30 hops max, 60 byte packets
+ 1  planetlab-gateway.calpoly-netlab.net (208.94.63.198)  0.175 ms  0.181 ms  0.173 ms
+ 2  72.29.183.57 (72.29.183.57)  0.605 ms  0.444 ms  0.430 ms
+ 3  ae-0-19.core02.dwni.pin.sjc1.digitalwest.net (72.29.160.203)  3.915 ms  3.990 ms  3.978 ms
+ 4  te-0-7-0-3.r06.snjsca04.us.bb.gin.ntt.net (131.103.120.5)  4.388 ms  4.534 ms  4.559 ms
+ 5  nlayer.xe-2-3-0.cr1.sjc1.us.scnet.net (69.22.153.178)  80.198 ms  80.376 ms xe-7-0-5.ar2.sjc1.us.nlayer.net (69.22.153.182)  80.363 ms
+ 6  ae0-110g.cr1.sjc1.us.nlayer.net (69.22.143.117)  74.915 ms  74.925 ms  74.987 ms
+ 7  ae0-40g.cr1.sjc2.us.nlayer.net (69.22.142.153)  75.153 ms  75.133 ms xe-5-1-0.cr1.lax1.us.nlayer.net (69.22.142.126)  79.489 ms
+ 8  xe-7-1-2.cr1.lax2.us.nlayer.net (69.22.142.177)  81.881 ms  81.893 ms ae2-50g.ar1.lax1.us.nlayer.net (69.31.127.142)  80.758 ms
+ 9  as20940.ae18.ar1.lax1.us.nlayer.net (69.31.124.78)  79.539 ms ae3-50g.cr1.lax1.us.nlayer.net (69.31.124.113)  81.879 ms as20940.ae18.ar1.lax1.us.nlayer.net (69.31.124.78)  79.543 ms
+10  * ae2-50g.ar1.lax1.us.nlayer.net (69.31.127.142)  83.204 ms *
+11  as20940.ae18.ar1.lax1.us.nlayer.net (69.31.124.78)  82.537 ms * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,31 @@
+traceroute to akamai.com (96.7.109.239), 30 hops max, 60 byte packets
+ 1  cisco-sperim.di.unito.it (130.192.157.190)  802.759 ms  818.736 ms  820.723 ms
+ 2  giga-rete-di.net.unito.it (130.192.150.74)  822.670 ms  824.657 ms  826.646 ms
+ 3  ru-unito-rx1-to1.to1.garr.net (193.206.132.177)  828.634 ms  836.626 ms  838.222 ms
+ 4  rx1-to1-rx2-rm2.rm2.garr.net (90.147.80.213)  840.653 ms  846.645 ms  851.596 ms
+ 5  r-rm2-rx2-rm2.rm2.garr.net (90.147.80.57)  857.588 ms  859.590 ms  877.528 ms
+ 6  te3-1.ccr01.rom01.atlas.cogentco.com (149.6.22.73)  879.569 ms  1536.063 ms  158.635 ms
+ 7  te1-4.ccr01.goa01.atlas.cogentco.com (130.117.3.233)  160.552 ms te1-3.ccr01.goa01.atlas.cogentco.com (130.117.2.9)  162.500 ms te1-4.ccr01.goa01.atlas.cogentco.com (130.117.3.233)  165.314 ms
+ 8  te2-1.ccr01.nce02.atlas.cogentco.com (130.117.48.2)  167.474 ms  169.461 ms  171.452 ms
+ 9  te0-7-0-17.ccr21.mrs01.atlas.cogentco.com (130.117.3.157)  173.431 ms  177.506 ms  180.445 ms
+10  be2238.mpd21.par01.atlas.cogentco.com (154.54.58.141)  185.437 ms be2236.ccr21.par01.atlas.cogentco.com (130.117.1.157)  189.421 ms  192.452 ms
+11  be2271.ccr21.lon13.atlas.cogentco.com (130.117.49.117)  196.441 ms be2273.mpd21.lon13.atlas.cogentco.com (130.117.50.93)  199.426 ms  203.395 ms
+12  be2388.ccr21.bos01.atlas.cogentco.com (154.54.44.177)  183.615 ms be2390.ccr21.bos01.atlas.cogentco.com (154.54.44.221)  359.663 ms  276.879 ms
+13  be2137.ccr41.ord01.atlas.cogentco.com (154.54.43.193)  279.856 ms be2139.ccr41.ord01.atlas.cogentco.com (154.54.43.177)  283.569 ms  286.829 ms
+14  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  289.815 ms be2158.mpd21.mci01.atlas.cogentco.com (154.54.7.129)  293.803 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  296.791 ms
+15  be2256.ccr21.sfo01.atlas.cogentco.com (154.54.6.89)  326.779 ms  333.766 ms be2132.ccr21.sfo01.atlas.cogentco.com (154.54.30.53)  329.755 ms
+16  be2164.ccr21.sjc01.atlas.cogentco.com (154.54.28.34)  336.743 ms  339.730 ms  345.718 ms
+17  be2000.ccr21.sjc03.atlas.cogentco.com (154.54.6.106)  359.705 ms  547.787 ms  551.764 ms
+18  tata.sjc03.atlas.cogentco.com (154.54.12.142)  2707.768 ms  2709.730 ms  2711.702 ms
+19  if-1-2.tcore2.SQN-San-Jose.as6453.net (63.243.205.2)  2837.805 ms  2843.769 ms  2854.725 ms
+20  if-5-2.tcore2.PDI-Palo-Alto.as6453.net (64.86.21.2)  2848.711 ms  2860.702 ms  2865.684 ms
+21  if-9-2.tcore1.TV2-Tokyo.as6453.net (180.87.180.18)  2871.657 ms  2877.648 ms  2882.637 ms
+22  if-3-2.tcore1.HK2-Hong-Kong.as6453.net (180.87.112.5)  2890.556 ms  2888.538 ms  2892.488 ms
+23  * 180.87.112.50 (180.87.112.50)  768.984 ms  2427.704 ms
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

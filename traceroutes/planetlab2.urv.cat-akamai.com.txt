@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.34.189.239), 30 hops max, 60 byte packets
+ 1  193.144.21.129 (193.144.21.129)  0.376 ms  0.377 ms  0.365 ms
+ 2  anella-urv.cesca.cat (84.88.18.29)  3.033 ms  2.984 ms  2.993 ms
+ 3  ANELLA-VAL2.AE2-455.uv.rt1.val.red.rediris.es (130.206.211.73)  7.231 ms  7.241 ms  7.229 ms
+ 4  UV.AE5.telmad.rt4.mad.red.rediris.es (130.206.245.90)  14.740 ms  13.436 ms UV.GE7-1-0.cica.rt1.and.red.rediris.es (130.206.245.33)  20.585 ms
+ 5  CICA.XE0-0-2.ciemat.rt1.mad.red.rediris.es (130.206.245.37)  32.135 ms  32.146 ms TELMADI.AE1.ciemat.rt1.mad.red.rediris.es (130.206.245.1)  23.122 ms
+ 6  nttverio-1.espanix.net (193.149.1.36)  24.115 ms  24.093 ms  33.138 ms
+ 7  81.19.109.134 (81.19.109.134)  45.367 ms  45.224 ms  45.213 ms
+ 8  eth5-7.edge1.fra6.de.atrato.net (78.152.34.202)  71.291 ms  67.422 ms  50.706 ms
+ 9  eth11-1.core1.ams1.nl.atrato.net (78.152.44.246)  59.554 ms  50.634 ms  59.509 ms
+10  eth3-4.edge2.ams5.nl.atrato.net (78.152.44.40)  53.033 ms  51.391 ms  70.804 ms
+11  78.152.38.234 (78.152.38.234)  51.340 ms  60.107 ms  60.078 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.32.77.239), 30 hops max, 60 byte packets
+ 1  alkinoos-gk.ionio.gr (195.130.124.5)  0.346 ms  0.290 ms  0.269 ms
+ 2  ionio-1-gw.eie-2.access-link.grnet.gr (195.251.25.89)  8.575 ms  8.353 ms  8.451 ms
+ 3  grnet.mx2.ath.gr.geant.net (62.40.124.89)  8.577 ms  8.699 ms  8.812 ms
+ 4  ae2.rt1.vie.at.geant.net (62.40.112.165)  37.561 ms  37.317 ms  37.384 ms
+ 5  ae51.bar1.Vienna.Level3.net (212.73.203.101)  37.937 ms  37.789 ms  37.884 ms
+ 6  ae-12-12.ebr3.Frankfurt1.Level3.net (4.69.153.146)  49.470 ms  49.478 ms  49.296 ms
+ 7  ae-93-93.csw4.Frankfurt1.Level3.net (4.69.163.14)  49.341 ms ae-63-63.csw1.Frankfurt1.Level3.net (4.69.163.2)  48.974 ms  49.194 ms
+ 8  ae-2-70.edge6.Frankfurt1.Level3.net (4.69.154.74)  49.271 ms ae-3-80.edge6.Frankfurt1.Level3.net (4.69.154.138)  49.263 ms ae-1-60.edge6.Frankfurt1.Level3.net (4.69.154.10)  49.330 ms
+ 9  ae-25.r02.frnkge03.de.bb.gin.ntt.net (129.250.9.161)  49.870 ms  50.020 ms  50.095 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

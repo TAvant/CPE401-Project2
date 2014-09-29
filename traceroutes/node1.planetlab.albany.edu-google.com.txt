@@ -1,0 +1,10 @@
+traceroute to google.com (74.125.226.169), 30 hops max, 60 byte packets
+ 1  net-planetlab.gw.albany.edu (169.226.40.1)  0.365 ms  0.424 ms  0.488 ms
+ 2  gig0-0-2.edge-2.gw.albany.edu (169.226.13.73)  0.227 ms  0.216 ms  0.201 ms
+ 3  72-0-147-49.tvc-ip.com (72.0.147.49)  2.657 ms  2.678 ms  2.663 ms
+ 4  66-109-38-245.tvc-ip.com (66.109.38.245)  0.807 ms  0.873 ms  0.958 ms
+ 5  voip-phone.tvc-ip.com (66.109.38.42)  0.828 ms  0.927 ms  0.847 ms
+ 6  core1-0-0-8.lga.net.google.com (198.32.118.39)  3.798 ms  3.808 ms  3.793 ms
+ 7  209.85.248.180 (209.85.248.180)  3.912 ms  3.934 ms  3.947 ms
+ 8  209.85.245.183 (209.85.245.183)  4.687 ms  4.871 ms  5.063 ms
+ 9  lga15s45-in-f9.1e100.net (74.125.226.169)  4.006 ms  3.978 ms  4.048 ms

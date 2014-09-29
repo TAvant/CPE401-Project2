@@ -1,0 +1,12 @@
+traceroute to google.com (173.194.34.206), 30 hops max, 60 byte packets
+ 1  lamasa.teseo.uam.es (150.244.56.1)  0.482 ms  0.661 ms  0.752 ms
+ 2  matrix.teseo.uam.es (150.244.1.71)  0.832 ms  0.931 ms  0.923 ms
+ 3  superlopez.teseo.uam.es (150.244.1.209)  1.444 ms  1.338 ms  1.375 ms
+ 4  r01-vlan600-te2-3.net.redimadrid.es (193.145.14.14)  1.979 ms  2.089 ms  2.189 ms
+ 5  193.145.14.130 (193.145.14.130)  2.464 ms  2.575 ms  2.672 ms
+ 6  130.206.212.93 (130.206.212.93)  2.265 ms  2.045 ms  2.089 ms
+ 7  CIEMAT.AE2.telmad.rt4.mad.red.rediris.es (130.206.245.2)  2.673 ms  4.192 ms  4.199 ms
+ 8  google-router.red.rediris.es (130.206.255.2)  2.814 ms  2.813 ms  2.788 ms
+ 9  72.14.235.18 (72.14.235.18)  2.704 ms  2.726 ms  2.977 ms
+10  72.14.237.124 (72.14.237.124)  3.200 ms  3.539 ms  3.360 ms
+11  mad01s08-in-f14.1e100.net (173.194.34.206)  2.893 ms  3.024 ms  2.938 ms

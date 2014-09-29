@@ -1,0 +1,17 @@
+traceroute to google.com (173.194.70.138), 30 hops max, 60 byte packets
+ 1  planetlab-1.e5.ijs.si (193.138.2.1)  0.544 ms  0.760 ms  0.990 ms
+ 2  larnes7-T1-14.arnes.si (178.172.81.141)  2.899 ms  3.322 ms  3.450 ms
+ 3  larnes6-V475.arnes.si (88.200.2.182)  1.188 ms  1.173 ms  1.330 ms
+ 4  rarnes1-I1.arnes.si (88.200.7.240)  1.491 ms  1.652 ms  1.796 ms
+ 5  arnes.mx1.lju.si.geant.net (62.40.124.5)  1.976 ms  2.133 ms  2.423 ms
+ 6  ae2.mx1.vie.at.geant.net (62.40.98.16)  6.724 ms  6.891 ms  6.723 ms
+ 7  ae0.mx1.mil2.it.geant.net (62.40.98.39)  18.091 ms  18.227 ms  18.393 ms
+ 8  ae2.mx1.gen.ch.geant.net (62.40.98.112)  24.997 ms  25.159 ms  25.318 ms
+ 9  ae1.mx1.fra.de.geant.net (62.40.98.109)  25.990 ms  26.150 ms  26.311 ms
+10  ae4.rt1.fra.de.geant.net (62.40.98.135)  69.999 ms  70.158 ms  26.811 ms
+11  google-gw.rt1.fra.de.geant.net (62.40.125.202)  22.894 ms  22.609 ms  22.968 ms
+12  209.85.240.64 (209.85.240.64)  23.135 ms  23.112 ms  23.240 ms
+13  72.14.234.231 (72.14.234.231)  23.444 ms 209.85.250.143 (209.85.250.143)  23.618 ms  24.097 ms
+14  209.85.254.118 (209.85.254.118)  23.665 ms  23.279 ms  23.809 ms
+15  * * *
+16  fa-in-f138.1e100.net (173.194.70.138)  23.344 ms  24.057 ms  23.368 ms

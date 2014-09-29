@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.40.132), 30 hops max, 60 byte packets
+ 1  jcpnrm-237-9.pck.nerim.net (80.65.237.9)  26.280 ms  25.829 ms  25.281 ms
+ 2  lo9-lns951-tip-courbevoie.nerim.net (178.132.16.247)  41.477 ms  42.994 ms  44.706 ms
+ 3  vl131.agr-cbe-1.nerim.net (194.79.131.61)  45.960 ms  47.727 ms  48.524 ms
+ 4  xe0-0-1-179.edg-cbe-3.nerim.net (194.79.128.217)  49.879 ms  50.764 ms  51.830 ms
+ 5  te2-3-173.bbn-cbe-1.nerim.net (194.79.128.126)  53.056 ms  54.261 ms  56.153 ms
+ 6  xe0-0-3.edg-cbe-4.nerim.net (194.79.136.125)  57.113 ms  37.080 ms  37.560 ms
+ 7  nerim-google.nerim.net (194.79.136.126)  38.416 ms  42.089 ms  43.492 ms
+ 8  72.14.238.228 (72.14.238.228)  45.618 ms  46.503 ms  53.162 ms
+ 9  209.85.243.47 (209.85.243.47)  56.790 ms  56.798 ms  58.198 ms
+10  par10s10-in-f4.1e100.net (173.194.40.132)  58.238 ms  59.251 ms  60.471 ms

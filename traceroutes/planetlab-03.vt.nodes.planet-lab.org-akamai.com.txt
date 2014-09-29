@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  isb-118-mlx-1.ve4.cns.vt.edu (198.82.160.1)  0.235 ms  0.295 ms  0.348 ms
+ 2  isb-6509-1.te7-1.cns.vt.edu (128.173.1.129)  0.441 ms  0.667 ms  0.811 ms
+ 3  isb-core.xe-5-0-0.791.cns.vt.edu (128.173.0.245)  0.269 ms  0.259 ms  0.251 ms
+ 4  * * *
+ 5  matp-equ-7609-1.vl155.cns.vt.edu (192.70.187.145)  8.710 ms  8.870 ms  8.854 ms
+ 6  te0-8-0-21.ccr41.iad02.atlas.cogentco.com (38.127.193.145)  8.312 ms  8.334 ms  8.928 ms
+ 7  qwest.iad01.atlas.cogentco.com (154.54.10.26)  13.088 ms  13.140 ms  13.252 ms
+ 8  nyc-edge-04.inet.qwest.net (205.171.30.66)  15.435 ms  15.471 ms  15.451 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

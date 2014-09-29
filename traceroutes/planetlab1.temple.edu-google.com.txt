@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.43.40), 30 hops max, 60 byte packets
+ 1  * 129.32.84.129 (129.32.84.129)  4.069 ms *
+ 2  conwellcore-tu-internalhosts-vs.is.temple.edu (155.247.119.235)  4.825 ms  4.868 ms  5.010 ms
+ 3  tu-internet-vs.is.temple.edu (155.247.119.225)  6.766 ms * *
+ 4  * conwell-internet8600.core.temple.edu (155.247.119.82)  6.780 ms  6.775 ms
+ 5  xe-7-0-0.edge3.Newark1.Level3.net (4.28.6.193)  8.999 ms  8.564 ms  8.647 ms
+ 6  ae-31-51.ebr1.Newark1.Level3.net (4.69.156.30)  9.964 ms  6.128 ms  5.327 ms
+ 7  ae-10-10.ebr2.NewYork1.Level3.net (4.69.132.97)  5.422 ms  5.295 ms  5.160 ms
+ 8  ae-82-82.csw3.NewYork1.Level3.net (4.69.148.42)  5.065 ms ae-92-92.csw4.NewYork1.Level3.net (4.69.148.46)  5.129 ms  6.827 ms
+ 9  ae-2-70.edge1.NewYork1.Level3.net (4.69.155.78)  7.046 ms ae-3-80.edge1.NewYork1.Level3.net (4.69.155.142)  5.636 ms ae-4-90.edge1.NewYork1.Level3.net (4.69.155.206)  10.225 ms
+10  Google-level3-3x10G.NewYork.Level3.net (4.68.70.54)  10.284 ms  10.263 ms  10.154 ms
+11  209.85.248.180 (209.85.248.180)  11.678 ms  9.889 ms  9.996 ms
+12  72.14.237.254 (72.14.237.254)  9.998 ms  10.071 ms  9.830 ms
+13  lga15s35-in-f8.1e100.net (173.194.43.40)  9.066 ms  5.600 ms  5.521 ms

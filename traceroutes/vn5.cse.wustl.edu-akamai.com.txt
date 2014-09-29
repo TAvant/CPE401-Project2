@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  eth7-2-commodity-core.nts.wustl.edu (128.252.100.126)  2.380 ms  2.370 ms *
+ 4  te3-6.ccr01.stl03.atlas.cogentco.com (38.104.162.77)  2.307 ms  2.323 ms  2.562 ms
+ 5  te0-2-0-3.mpd21.mci01.atlas.cogentco.com (154.54.30.105)  8.488 ms te0-4-0-3.ccr22.mci01.atlas.cogentco.com (154.54.28.29)  8.517 ms te0-2-0-3.mpd21.mci01.atlas.cogentco.com (154.54.30.105)  8.482 ms
+ 6  be2064.ccr21.dfw01.atlas.cogentco.com (154.54.5.218)  19.089 ms be2010.ccr22.dfw01.atlas.cogentco.com (154.54.46.218)  17.727 ms *
+ 7  * * be2032.ccr21.dfw03.atlas.cogentco.com (154.54.6.54)  18.384 ms
+ 8  qwest.dfw03.atlas.cogentco.com (154.54.11.166)  17.631 ms  17.668 ms  17.643 ms
+ 9  nyc-edge-04.inet.qwest.net (205.171.30.62)  47.118 ms  47.534 ms  47.800 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

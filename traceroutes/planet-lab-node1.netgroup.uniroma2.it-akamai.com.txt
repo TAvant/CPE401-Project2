@@ -1,0 +1,31 @@
+traceroute to akamai.com (95.101.216.97), 30 hops max, 60 byte packets
+ 1  10.0.5.1 (10.0.5.1)  0.207 ms  0.189 ms  0.201 ms
+ 2  10.0.253.82 (10.0.253.82)  0.699 ms  0.669 ms  0.677 ms
+ 3  160.80.176.1 (160.80.176.1)  18.972 ms  18.876 ms  19.048 ms
+ 4  ru-uniroma2-re1-rm4.rm4.garr.net (193.206.131.45)  0.823 ms  0.904 ms  0.898 ms
+ 5  re1-rm4-re2-rm4.rm4.garr.net (90.147.81.246)  2.234 ms  2.021 ms  2.250 ms
+ 6  re2-rm4-rx2-rm2.rm2.garr.net (90.147.80.121)  1.851 ms rx1-rm1-rx1-rm2.rm2.garr.net (90.147.80.21)  1.522 ms  1.477 ms
+ 7  r-rm2-rx1-rm2.rm2.garr.net (90.147.80.53)  24.665 ms r-rm2-rx2-rm2.rm2.garr.net (90.147.80.57)  24.398 ms  24.386 ms
+ 8  te3-1.ccr01.rom01.atlas.cogentco.com (149.6.22.73)  1.669 ms  1.869 ms  1.864 ms
+ 9  te7-7.ccr01.mil01.atlas.cogentco.com (130.117.1.125)  14.523 ms  13.829 ms te3-4.ccr01.mil01.atlas.cogentco.com (130.117.1.129)  13.728 ms
+10  tinet.mil01.atlas.cogentco.com (130.117.15.30)  14.358 ms 130.117.14.198 (130.117.14.198)  11.568 ms tinet.mil01.atlas.cogentco.com (130.117.15.30)  14.166 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

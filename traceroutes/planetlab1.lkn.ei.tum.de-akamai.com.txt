@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.32.77.239), 30 hops max, 60 byte packets
+ 1  vl-114.csr4-kb1.lrz.de (138.246.99.254)  0.359 ms  0.440 ms  0.566 ms
+ 2  vl-3002.csr1-2wr.lrz.de (129.187.0.133)  0.605 ms  0.743 ms  0.893 ms
+ 3  cr-fra1-be4-147.x-win.dfn.de (188.1.37.89)  9.140 ms  9.338 ms  9.372 ms
+ 4  ae53.edge5.Frankfurt1.Level3.net (212.162.4.5)  8.804 ms  8.842 ms  8.827 ms
+ 5  ae-1-60.edge6.Frankfurt1.Level3.net (4.69.154.10)  8.885 ms ae-3-80.edge6.Frankfurt1.Level3.net (4.69.154.138)  8.859 ms  8.863 ms
+ 6  ae-25.r02.frnkge03.de.bb.gin.ntt.net (129.250.9.161)  30.351 ms  30.505 ms  30.492 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

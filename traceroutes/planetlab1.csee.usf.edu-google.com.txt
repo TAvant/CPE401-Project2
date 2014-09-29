@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.37.137), 30 hops max, 60 byte packets
+ 1  131.247.3.246 (131.247.3.246)  1.120 ms  1.148 ms  1.288 ms
+ 2  vlan254.campus-backbone1.net.usf.edu (131.247.254.45)  0.536 ms  0.615 ms  0.685 ms
+ 3  vlan256.wan-msfc.net.usf.edu (131.247.254.81)  0.733 ms  0.864 ms  0.962 ms
+ 4  131.247.254.230 (131.247.254.230)  0.572 ms  0.456 ms  0.423 ms
+ 5   (198.32.166.177)  1.851 ms  2.050 ms  2.074 ms
+ 6  mia-flrcore-asr9010-1-be1-1.net.flrnet.org (108.59.31.20)  7.998 ms  7.878 ms  7.836 ms
+ 7  peer-google-mia-flrnetcp-1.net.flrnet.org (108.59.27.3)  13.698 ms  13.685 ms  13.660 ms
+ 8  209.85.253.118 (209.85.253.118)  6.080 ms  6.146 ms  6.116 ms
+ 9  209.85.241.145 (209.85.241.145)  6.517 ms  6.684 ms  6.878 ms
+10  mia05s18-in-f9.1e100.net (173.194.37.137)  6.010 ms  6.010 ms  6.013 ms

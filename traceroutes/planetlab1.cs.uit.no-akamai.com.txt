@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.34.189.239), 30 hops max, 60 byte packets
+ 1  ifi-gsw.infra.uit.no (129.242.19.193)  3.026 ms  3.192 ms  3.362 ms
+ 2  munin-gw.infra.uit.no (129.242.24.81)  0.332 ms  0.396 ms  0.451 ms
+ 3  tromso-gw2.uninett.no (129.242.1.9)  0.306 ms  0.354 ms  0.359 ms
+ 4  ma2-gw.uninett.no (128.39.255.97)  0.561 ms  0.579 ms  0.456 ms
+ 5  narvik-gw1.uninett.no (128.39.230.209)  4.094 ms  4.083 ms  4.104 ms
+ 6  narvik-gw3.uninett.no (128.39.255.229)  3.859 ms  3.833 ms  3.807 ms
+ 7  se-lla.nordu.net (109.105.102.69)  9.989 ms  10.021 ms  9.997 ms
+ 8  se-fre.nordu.net (109.105.97.113)  22.408 ms  22.424 ms  22.425 ms
+ 9  dk-ore.nordu.net (109.105.97.6)  31.730 ms  31.695 ms  31.715 ms
+10  nl-sar.nordu.net (109.105.97.25)  42.788 ms  42.796 ms  42.639 ms
+11  amsix-ams8.netarch.akamai.com (195.69.145.208)  43.842 ms  43.789 ms  43.734 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

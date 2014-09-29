@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.40.0), 30 hops max, 60 byte packets
+ 1  cisco-sperim.di.unito.it (130.192.157.190)  22.255 ms  24.141 ms  25.928 ms
+ 2  giga-rete-di.net.unito.it (130.192.150.74)  28.055 ms  30.088 ms  32.195 ms
+ 3  ru-unito-rx1-to1.to1.garr.net (193.206.132.177)  34.944 ms  36.847 ms  38.869 ms
+ 4  rx1-to1-rx1-mi2.mi2.garr.net (90.147.80.217)  40.857 ms  46.818 ms  52.787 ms
+ 5  rx1-mi2-r-mi2.mi2.garr.net (90.147.80.73)  58.729 ms  60.592 ms  62.556 ms
+ 6  r-mi2-google.mi2.garr.net (193.206.129.130)  66.521 ms  9.604 ms  7.057 ms
+ 7  209.85.249.54 (209.85.249.54)  9.517 ms  11.596 ms  13.556 ms
+ 8  64.233.174.245 (64.233.174.245)  15.524 ms  17.497 ms  20.466 ms
+ 9  mil02s06-in-f0.1e100.net (173.194.40.0)  21.943 ms  25.399 ms  30.357 ms

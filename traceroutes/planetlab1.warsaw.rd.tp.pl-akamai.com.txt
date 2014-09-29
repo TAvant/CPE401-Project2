@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.20.157.239), 30 hops max, 60 byte packets
+ 1  gateway.warsaw.rd.tp.pl (195.116.53.1)  0.385 ms  0.483 ms  0.566 ms
+ 2  80.50.233.145 (80.50.233.145)  1.422 ms  1.496 ms  1.366 ms
+ 3  war-r3.tpnet.pl (195.117.0.41)  2.302 ms  2.297 ms  2.104 ms
+ 4  war-b2-link.telia.net (213.248.89.85)  15.762 ms  15.829 ms  15.823 ms
+ 5  hbg-bb1-link.telia.net (213.155.130.104)  15.815 ms  15.804 ms hbg-bb1-link.telia.net (80.91.245.166)  15.784 ms
+ 6  ldn-bb2-link.telia.net (213.155.132.247)  27.843 ms ldn-bb1-link.telia.net (80.91.245.5)  29.661 ms ldn-bb1-link.telia.net (213.155.137.107)  63.220 ms
+ 7  ldn-b3-link.telia.net (213.155.133.31)  29.898 ms ldn-b3-link.telia.net (62.115.137.95)  28.133 ms ldn-b3-link.telia.net (62.115.137.197)  28.890 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

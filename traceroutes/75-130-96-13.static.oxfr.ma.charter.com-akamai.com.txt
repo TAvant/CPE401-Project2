@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.208.141.239), 30 hops max, 60 byte packets
+ 1  RTR-WOR1-CSRESEARCH.INF.WPI.EDU (75.130.96.1)  0.535 ms  0.583 ms  0.648 ms
+ 2  gi1-1.ccr01.orh01.atlas.cogentco.com (38.104.218.5)  1.052 ms  1.120 ms  1.186 ms
+ 3  te0-4-0-16.ccr21.alb02.atlas.cogentco.com (154.54.27.53)  4.355 ms  4.473 ms  4.571 ms
+ 4  be2107.ccr22.jfk02.atlas.cogentco.com (154.54.3.93)  7.675 ms  7.802 ms be2106.ccr21.jfk02.atlas.cogentco.com (154.54.3.49)  8.089 ms
+ 5  be2148.ccr21.dca01.atlas.cogentco.com (154.54.31.117)  15.005 ms be2150.mpd21.dca01.atlas.cogentco.com (154.54.31.129)  14.889 ms be2148.ccr21.dca01.atlas.cogentco.com (154.54.31.117)  14.661 ms
+ 6  be2171.mpd22.atl01.atlas.cogentco.com (154.54.31.109)  25.611 ms be2169.ccr22.atl01.atlas.cogentco.com (154.54.31.97)  24.878 ms be2168.ccr21.atl01.atlas.cogentco.com (154.54.31.93)  24.475 ms
+ 7  be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  39.272 ms be2174.mpd21.iah01.atlas.cogentco.com (154.54.29.202)  39.368 ms be2175.mpd22.iah01.atlas.cogentco.com (154.54.29.222)  39.069 ms
+ 8  be2065.ccr21.lax01.atlas.cogentco.com (154.54.5.66)  75.208 ms be2067.mpd21.lax01.atlas.cogentco.com (154.54.7.162)  74.996 ms be2068.mpd22.lax01.atlas.cogentco.com (154.54.7.158)  75.011 ms
+ 9  be2181.ccr23.lax05.atlas.cogentco.com (154.54.41.114)  75.022 ms be2178.ccr23.lax05.atlas.cogentco.com (154.54.41.118)  75.261 ms be2179.ccr23.lax05.atlas.cogentco.com (154.54.41.82)  74.670 ms
+10  telia.lax05.atlas.cogentco.com (154.54.10.10)  73.771 ms  73.734 ms  73.801 ms
+11  dls-bb1-link.telia.net (213.155.134.125)  78.824 ms  79.545 ms dls-bb1-link.telia.net (213.248.80.14)  79.157 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

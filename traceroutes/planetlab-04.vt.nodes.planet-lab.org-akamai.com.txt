@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.189.239), 30 hops max, 60 byte packets
+ 1  isb-118-mlx-1.ve4.cns.vt.edu (198.82.160.1)  0.238 ms  0.285 ms  0.350 ms
+ 2  isb-6509-1.te7-1.cns.vt.edu (128.173.1.129)  1.650 ms  1.731 ms  1.821 ms
+ 3  isb-core.xe-5-0-0.791.cns.vt.edu (128.173.0.245)  0.268 ms  0.262 ms  0.249 ms
+ 4  * * *
+ 5  matp-equ-7609-1.vl155.cns.vt.edu (192.70.187.145)  8.443 ms  10.249 ms  10.232 ms
+ 6  te0-8-0-21.ccr41.iad02.atlas.cogentco.com (38.127.193.145)  8.294 ms  8.288 ms  8.292 ms
+ 7  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  9.708 ms  9.301 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  9.477 ms
+ 8  be2170.mpd21.atl01.atlas.cogentco.com (154.54.31.105)  20.431 ms be2171.mpd22.atl01.atlas.cogentco.com (154.54.31.109)  23.461 ms be2168.ccr21.atl01.atlas.cogentco.com (154.54.31.93)  20.419 ms
+ 9  be2173.ccr22.iah01.atlas.cogentco.com (154.54.29.118)  34.970 ms be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  34.696 ms be2173.ccr22.iah01.atlas.cogentco.com (154.54.29.118)  34.678 ms
+10  be2068.mpd22.lax01.atlas.cogentco.com (154.54.7.158)  70.329 ms be2065.ccr21.lax01.atlas.cogentco.com (154.54.5.66)  70.202 ms  70.458 ms
+11  be2181.ccr23.lax05.atlas.cogentco.com (154.54.41.114)  70.721 ms be2179.ccr23.lax05.atlas.cogentco.com (154.54.41.82)  70.697 ms  70.443 ms
+12  telia.lax05.atlas.cogentco.com (154.54.12.218)  81.816 ms telia.lax05.atlas.cogentco.com (154.54.10.10)  81.925 ms telia.lax05.atlas.cogentco.com (154.54.12.218)  81.816 ms
+13  nyk-bb2-link.telia.net (80.91.252.166)  95.466 ms ash-bb4-link.telia.net (213.155.137.112)  81.504 ms nyk-bb2-link.telia.net (80.91.252.166)  95.337 ms
+14  ldn-bb1-link.telia.net (80.91.246.67)  156.064 ms ldn-bb1-link.telia.net (213.155.135.68)  164.092 ms ldn-bb1-link.telia.net (80.91.246.67)  156.236 ms
+15  ldn-b3-link.telia.net (213.155.136.203)  156.878 ms ldn-b3-link.telia.net (213.155.133.3)  168.017 ms  167.906 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

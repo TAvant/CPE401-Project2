@@ -1,0 +1,7 @@
+traceroute to google.com (173.194.113.174), 30 hops max, 60 byte packets
+ 1  gr-gwdg1-umin-ext.gwdg.de (134.76.249.238)  0.471 ms  0.519 ms  0.572 ms
+ 2  cr-han1-te0-0-0-16.x-win.dfn.de (188.1.231.125)  2.218 ms  2.258 ms  2.342 ms
+ 3  kr-hws3.x-win.dfn.de (188.1.236.76)  6.395 ms  6.466 ms  6.454 ms
+ 4  209.85.249.124 (209.85.249.124)  5.859 ms  6.075 ms  5.852 ms
+ 5  72.14.235.213 (72.14.235.213)  6.417 ms  6.593 ms  6.781 ms
+ 6  ham02s12-in-f14.1e100.net (173.194.113.174)  5.875 ms  5.851 ms  5.855 ms

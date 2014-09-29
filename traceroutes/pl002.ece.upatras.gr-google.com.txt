@@ -1,0 +1,16 @@
+traceroute to google.com (173.194.112.1), 30 hops max, 60 byte packets
+ 1  r12-vl374.upatras.gr (150.140.184.225)  1.518 ms  1.778 ms  1.975 ms
+ 2  r29-vl1000.upnet.gr (150.140.128.50)  0.391 ms  0.390 ms  0.423 ms
+ 3  R29A-R29.upnet.gr (150.140.128.106)  0.359 ms  0.428 ms  0.506 ms
+ 4  upatras-2-gw.koletti-1.access-link.grnet.gr (195.251.24.45)  3.194 ms  3.184 ms  3.180 ms
+ 5  eie2-to-koletti1.backbone.grnet.gr (195.251.27.46)  3.334 ms  3.323 ms  3.306 ms
+ 6  grnet.mx2.ath.gr.geant.net (62.40.124.89)  3.368 ms  3.375 ms  3.363 ms
+ 7  ae1.mx1.ath.gr.geant.net (62.40.112.215)  3.436 ms  3.426 ms  3.439 ms
+ 8  ae2.mx1.mil2.it.geant.net (62.40.98.150)  30.791 ms  30.786 ms  33.017 ms
+ 9  ae2.mx1.gen.ch.geant.net (62.40.98.112)  40.011 ms  42.276 ms  42.308 ms
+10  ae1.mx1.fra.de.geant.net (62.40.98.109)  50.675 ms  50.673 ms  50.667 ms
+11  ae4.rt1.fra.de.geant.net (62.40.98.135)  48.374 ms  46.139 ms  48.375 ms
+12  google-gw.rt1.fra.de.geant.net (62.40.125.202)  48.490 ms  48.484 ms  48.471 ms
+13  209.85.241.110 (209.85.241.110)  51.376 ms  51.321 ms  49.103 ms
+14  66.249.95.11 (66.249.95.11)  47.192 ms  47.094 ms  49.528 ms
+15  fra07s27-in-f1.1e100.net (173.194.112.1)  49.068 ms  46.855 ms  46.829 ms

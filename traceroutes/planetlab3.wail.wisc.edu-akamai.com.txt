@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  svi-303.cisco1.cs.wisc.edu (198.133.224.130)  0.367 ms  0.456 ms  0.506 ms
+ 2  ge-5-1.cisco-border1.cs.wisc.edu (128.105.1.1)  1.082 ms  1.094 ms  1.537 ms
+ 3  r-cssc-b280c-7-core-vlan-493.net.wisc.edu (144.92.128.194)  2.023 ms  2.555 ms  2.543 ms
+ 4  r-uwmadison-isp-xe-1-2-0-945.wiscnet.net (216.56.60.225)  0.965 ms  0.948 ms  0.938 ms
+ 5  te-3-4-412.car2.KansasCity1.Level3.net (4.53.34.5)  15.736 ms  15.730 ms  15.719 ms
+ 6  ae-4-4.ebr2.Denver1.Level3.net (4.69.135.238)  35.704 ms  35.829 ms  35.936 ms
+ 7  ae-2-52.edge3.Denver1.Level3.net (4.69.147.104)  35.928 ms  35.917 ms  35.894 ms
+ 8  dvr-brdr-02.inet.qwest.net (63.146.26.133)  79.852 ms  81.015 ms  80.916 ms
+ 9  nyc-edge-04.inet.qwest.net (205.171.30.62)  64.743 ms  63.717 ms  65.125 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.189.239), 30 hops max, 60 byte packets
+ 1  141.20.100.1 (141.20.100.1)  0.227 ms  0.264 ms  0.313 ms
+ 2  mlxe-mlxu.mgmt.hu-berlin.de (172.19.10.33)  0.717 ms  0.822 ms  0.895 ms
+ 3  FortiA-Back.mgmt.hu-berlin.de (141.20.0.209)  0.806 ms  0.783 ms  0.778 ms
+ 4  xr-adh1-te2-3.x-win.dfn.de (188.1.236.69)  2.185 ms  1.991 ms  1.985 ms
+ 5  xr-hub1-te1-1.x-win.dfn.de (188.1.144.18)  1.715 ms  1.955 ms  1.690 ms
+ 6  xr-tub2-te2-1.x-win.dfn.de (188.1.144.14)  1.941 ms  1.485 ms  1.433 ms
+ 7  cr-tub1-be5-50.x-win.dfn.de (188.1.144.157)  1.906 ms  2.393 ms  3.371 ms
+ 8  hbg-b1-link.telia.net (80.239.128.181)  5.831 ms  5.892 ms  5.876 ms
+ 9  hbg-bb2-link.telia.net (213.155.135.88)  5.871 ms hbg-bb1-link.telia.net (80.91.253.55)  6.220 ms hbg-bb2-link.telia.net (213.155.135.84)  6.195 ms
+10  ldn-bb2-link.telia.net (213.155.132.249)  17.672 ms ldn-bb1-link.telia.net (213.155.137.107)  32.397 ms ldn-bb1-link.telia.net (80.91.247.43)  19.872 ms
+11  ldn-b3-link.telia.net (80.91.254.17)  23.287 ms ldn-b3-link.telia.net (62.115.137.197)  22.304 ms ldn-b3-link.telia.net (80.91.245.29)  23.032 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

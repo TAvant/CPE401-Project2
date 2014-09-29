@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.51.93.239), 30 hops max, 60 byte packets
+ 1  subnet-40-gw.net.wsu.edu (134.121.71.254)  0.409 ms  0.467 ms  0.553 ms
+ 2  192.168.8.33 (192.168.8.33)  0.430 ms  0.514 ms  0.557 ms
+ 3  192.168.8.5 (192.168.8.5)  0.451 ms  0.503 ms  0.622 ms
+ 4  69.166.46.97 (69.166.46.97)  0.605 ms  0.632 ms  0.621 ms
+ 5  xe-1-1-0--0.wsu-pullman-1.infra.wa-k20.net (66.96.65.17)  0.755 ms  1.003 ms  0.985 ms
+ 6  xe-0-0-6--0.pdxcore2.infra.wa-k20.net (68.179.211.56)  18.549 ms  18.573 ms  18.512 ms
+ 7  ae1--0.olydiscore2.infra.wa-k20.net (68.179.211.28)  20.854 ms  20.942 ms  21.001 ms
+ 8  ae0--0.olydiscore1.infra.wa-k20.net (68.179.203.4)  20.987 ms  20.946 ms  20.950 ms
+ 9  ae2--0.seawescore1.infra.wa-k20.net (68.179.211.24)  23.004 ms  22.541 ms  22.945 ms
+10  ae1--311.iccr-sttlwa01-02.infra.pnw-gigapop.net (209.124.188.182)  22.623 ms  22.923 ms  22.891 ms
+11  xe-0-5-0-5.r05.sttlwa01.us.ce.gin.ntt.net (198.104.202.6)  22.729 ms  22.633 ms  22.872 ms
+12  xe-0-5-0-5.r05.sttlwa01.us.bb.gin.ntt.net (198.104.202.5)  23.317 ms  23.485 ms  23.125 ms
+13  ae-7.r20.sttlwa01.us.bb.gin.ntt.net (129.250.5.46)  26.157 ms  26.141 ms  26.095 ms
+14  ae-6.r20.tokyjp05.jp.bb.gin.ntt.net (129.250.3.13)  108.817 ms  118.885 ms  110.606 ms
+15  ae-19.r24.tokyjp05.jp.bb.gin.ntt.net (129.250.6.209)  109.732 ms  120.328 ms  116.792 ms
+16  ae-1.r01.tokyjp03.jp.bb.gin.ntt.net (129.250.6.166)  130.990 ms  128.948 ms  120.534 ms
+17  ae-2.akamai.tokyjp03.jp.bb.gin.ntt.net (203.105.72.78)  126.062 ms  124.781 ms  111.848 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

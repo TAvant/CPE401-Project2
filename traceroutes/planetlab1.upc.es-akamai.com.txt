@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.23.205.239), 30 hops max, 60 byte packets
+ 1  arenys0-2.ac.upc.es (147.83.30.130)  0.464 ms  0.489 ms  0.535 ms
+ 2  10.10.100.13 (10.10.100.13)  0.622 ms  0.696 ms  0.740 ms
+ 3  10.10.124.50 (10.10.124.50)  0.819 ms  0.878 ms  0.853 ms
+ 4  10.10.124.14 (10.10.124.14)  0.900 ms  0.950 ms  0.999 ms
+ 5  anella-upc.cesca.cat (84.88.18.17)  5.046 ms  5.093 ms  5.117 ms
+ 6  ANELLA-VAL1.AE2-454.uv.rt1.val.red.rediris.es (130.206.211.69)  6.242 ms  5.572 ms  5.639 ms
+ 7  UV.AE5.telmad.rt4.mad.red.rediris.es (130.206.245.90)  11.829 ms  11.880 ms  11.928 ms
+ 8  213.242.113.77 (213.242.113.77)  12.010 ms  12.058 ms  12.163 ms
+ 9  vl-3502-ve-116.ebr1.Paris1.Level3.net (4.69.158.193)  28.328 ms vl-3503-ve-117.ebr1.Paris1.Level3.net (4.69.158.197)  28.466 ms vl-3504-ve-118.ebr1.Paris1.Level3.net (4.69.158.201)  28.605 ms
+10  ae-61-61.csw1.Paris1.Level3.net (4.69.161.78)  28.744 ms ae-71-71.csw2.Paris1.Level3.net (4.69.161.82)  28.107 ms ae-61-61.csw1.Paris1.Level3.net (4.69.161.78)  28.060 ms
+11  ae-3-80.edge5.Paris1.Level3.net (4.69.168.136)  28.102 ms * *
+12  CABLE-WIREL.edge5.Paris1.Level3.net (212.73.200.42)  40.244 ms CABLE-WIREL.edge5.Paris1.Level3.net (212.73.200.78)  30.961 ms CABLE-WIREL.edge5.Paris1.Level3.net (212.73.200.42)  40.054 ms
+13  195.2.9.193 (195.2.9.193)  49.565 ms  52.045 ms  52.181 ms
+14  ae13-xcr1.lnd.cw.net (195.2.10.241)  64.490 ms  52.322 ms  49.847 ms
+15  ae15-xcr1.lns.cw.net (195.2.30.114)  39.372 ms  69.123 ms  39.490 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

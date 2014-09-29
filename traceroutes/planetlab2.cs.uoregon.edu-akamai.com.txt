@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.74.77.239), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.676 ms  0.897 ms  1.064 ms
+ 2  vl-3.uonet9-gw.uoregon.edu (128.223.3.9)  0.322 ms  0.541 ms  0.528 ms
+ 3  vl-675.core0-gw.pdx.oregon-gigapop.net (198.32.163.217)  2.649 ms  2.653 ms  2.666 ms
+ 4  xe-1-1-0.691.lsan0.tr-cps.internet2.edu (137.164.131.45)  24.093 ms  24.093 ms  24.083 ms
+ 5  xe-0-0-0.0.paix0.tr-cps.internet2.edu (64.57.20.224)  31.913 ms  32.075 ms  32.061 ms
+ 6  xe-0-2-0.0.sttl0.tr-cps.internet2.edu (64.57.20.223)  28.705 ms  28.700 ms  28.706 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

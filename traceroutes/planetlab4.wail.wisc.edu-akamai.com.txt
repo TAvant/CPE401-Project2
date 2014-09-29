@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.63.189.239), 30 hops max, 60 byte packets
+ 1  svi-303.cisco1.cs.wisc.edu (198.133.224.130)  0.415 ms  0.471 ms  0.510 ms
+ 2  ge-5-1.cisco-border1.cs.wisc.edu (128.105.1.1)  1.090 ms  1.191 ms  1.457 ms
+ 3  r-cssc-b280c-7-core-vlan-493.net.wisc.edu (144.92.128.194)  1.975 ms  1.963 ms  1.945 ms
+ 4  r-uwmadison-isp-xe-1-2-0-945.wiscnet.net (216.56.60.225)  1.035 ms  0.935 ms  0.918 ms
+ 5  r-equinix-isp-xe-0-0-0-3946.wiscnet.net (140.189.9.30)  19.132 ms r-equinix-isp-xe-3-1-0-2234.wiscnet.net (140.189.8.118)  19.119 ms r-equinix-isp-xe-3-0-0-3997.wiscnet.net (140.189.8.2)  19.040 ms
+ 6  equinix-ord.netarch.akamai.com (206.223.119.102)  19.548 ms  19.173 ms  19.153 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

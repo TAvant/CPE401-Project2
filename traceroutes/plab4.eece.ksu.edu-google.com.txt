@@ -1,0 +1,11 @@
+traceroute to google.com (74.125.227.105), 30 hops max, 60 byte packets
+ 1  129.130.252.137 (129.130.252.137)  0.775 ms  0.799 ms  1.043 ms
+ 2  129.130.18.4 (129.130.18.4)  0.751 ms  0.738 ms  1.475 ms
+ 3  kanren-ksu-pplant-border.peer.net.kanren.net (164.113.212.5)  1.447 ms  1.419 ms  2.370 ms
+ 4  bb-ksu-hale-e2-1.bb.net.kanren.net (164.113.193.22)  5.345 ms  5.313 ms  5.304 ms
+ 5  bb-kc-walnut-e2-4.bb.net.kanren.net (164.113.193.53)  4.080 ms  4.072 ms  4.059 ms
+ 6  xe-2-0-0.508.dlls0.tr-cps.internet2.edu (64.57.21.125)  47.579 ms  46.644 ms  46.608 ms
+ 7  72.14.222.118 (72.14.222.118)  47.043 ms  47.837 ms  47.424 ms
+ 8  72.14.233.65 (72.14.233.65)  54.710 ms  54.679 ms  54.679 ms
+ 9  209.85.240.91 (209.85.240.91)  47.351 ms  47.339 ms  48.382 ms
+10  dfw06s16-in-f9.1e100.net (74.125.227.105)  46.605 ms  46.821 ms  46.546 ms

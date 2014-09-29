@@ -1,0 +1,12 @@
+traceroute to google.com (74.125.228.195), 30 hops max, 60 byte packets
+ 1  mudd-edge-1.net.columbia.edu (128.59.16.1)  0.394 ms  0.351 ms  0.380 ms
+ 2  cc-core-1-x-mudd-edge-1.net.columbia.edu (128.59.255.85)  0.303 ms  0.332 ms  0.358 ms
+ 3  nyser32-gw-1-x-cc-core-1.net.columbia.edu (128.59.255.6)  0.937 ms  1.029 ms  1.038 ms
+ 4  te0-2-1-2.rcr22.jfk01.atlas.cogentco.com (38.122.8.209)  1.034 ms  1.028 ms  1.023 ms
+ 5  be2356.ccr22.jfk02.atlas.cogentco.com (154.54.43.97)  1.230 ms  1.246 ms  1.035 ms
+ 6  be2151.mpd22.dca01.atlas.cogentco.com (154.54.40.73)  9.178 ms  7.572 ms  7.816 ms
+ 7  be2177.ccr41.iad02.atlas.cogentco.com (154.54.41.205)  8.621 ms be2112.ccr41.iad02.atlas.cogentco.com (154.54.5.233)  8.789 ms  8.597 ms
+ 8  38.88.214.50 (38.88.214.50)  8.112 ms  8.315 ms  8.192 ms
+ 9  209.85.252.46 (209.85.252.46)  8.988 ms  9.118 ms  9.133 ms
+10  72.14.233.91 (72.14.233.91)  9.980 ms  10.125 ms  10.268 ms
+11  iad23s23-in-f3.1e100.net (74.125.228.195)  9.345 ms  9.276 ms  9.418 ms

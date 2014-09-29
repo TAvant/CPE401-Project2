@@ -1,0 +1,9 @@
+traceroute to google.com (74.125.224.34), 30 hops max, 60 byte packets
+ 1  206.117.37.1 (206.117.37.1)  0.188 ms  0.115 ms  0.136 ms
+ 2  198.32.16.81 (198.32.16.81)  0.320 ms  0.322 ms  0.349 ms
+ 3  lax-dc1--losnettos-dc.cenic.net (137.164.23.225)  2.200 ms  2.472 ms  2.425 ms
+ 4  dc-lax-core1--lax-agg6-10ge-2.cenic.net (137.164.46.220)  2.376 ms dc-lax-core1--lax-agg6-10ge-3.cenic.net (137.164.46.222)  2.290 ms dc-lax-core1--lax-agg6-10ge-4.cenic.net (137.164.46.250)  2.235 ms
+ 5  72.14.223.85 (72.14.223.85)  1.466 ms  1.505 ms  1.450 ms
+ 6  216.239.46.40 (216.239.46.40)  13.856 ms *  4.087 ms
+ 7  209.85.252.149 (209.85.252.149)  1.923 ms  1.953 ms  1.993 ms
+ 8  lax17s01-in-f2.1e100.net (74.125.224.34)  1.491 ms  1.613 ms  1.480 ms

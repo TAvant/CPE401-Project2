@@ -1,0 +1,12 @@
+traceroute to google.com (74.125.239.142), 30 hops max, 60 byte packets
+ 1  planetlab-gw.Millennium.Berkeley.EDU (169.229.50.1)  0.484 ms  0.406 ms  0.378 ms
+ 2  * * *
+ 3  t1-2.inr-202-reccev.Berkeley.EDU (128.32.255.57)  2.238 ms  2.214 ms t1-2.inr-201-sut.Berkeley.EDU (128.32.255.53)  2.162 ms
+ 4  xe-4-1-0.inr-001-sut.Berkeley.EDU (128.32.0.64)  0.339 ms  0.309 ms xe-5-1-0.inr-001-sut.Berkeley.EDU (128.32.0.66)  0.284 ms
+ 5  dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  0.966 ms  0.948 ms  0.925 ms
+ 6  oak-agg2--sfo-agg1-10g.cenic.net (137.164.22.25)  7.134 ms  6.118 ms  6.080 ms
+ 7  dc-paix-px1--oak-core1-ge.cenic.net (137.164.47.18)  2.995 ms  2.979 ms  2.955 ms
+ 8  google--paix-px1-2.cenic.net (198.32.251.130)  3.347 ms  3.360 ms  3.339 ms
+ 9  209.85.240.114 (209.85.240.114)  3.769 ms  3.692 ms  16.861 ms
+10  66.249.95.31 (66.249.95.31)  3.838 ms  3.867 ms  4.028 ms
+11  nuq05s02-in-f14.1e100.net (74.125.239.142)  3.491 ms  3.502 ms  3.481 ms

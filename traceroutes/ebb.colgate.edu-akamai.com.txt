@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  149.43.80.2 (149.43.80.2)  0.442 ms  0.502 ms  0.562 ms
+ 2  172.16.1.10 (172.16.1.10)  1.097 ms  1.074 ms  1.062 ms
+ 3  gi0-0-1-1.agr11.alb02.atlas.cogentco.com (38.104.52.97)  5.191 ms  5.268 ms  5.178 ms
+ 4  te0-6-0-0.ccr21.alb02.atlas.cogentco.com (154.54.5.162)  5.147 ms te0-7-0-0.ccr21.alb02.atlas.cogentco.com (154.54.28.81)  4.985 ms  5.613 ms
+ 5  be2108.mpd21.jfk02.atlas.cogentco.com (154.54.3.133)  8.911 ms  8.594 ms be2106.ccr21.jfk02.atlas.cogentco.com (154.54.3.49)  8.754 ms
+ 6  be2326.ccr21.jfk04.atlas.cogentco.com (154.54.44.70)  8.656 ms be2327.ccr21.jfk04.atlas.cogentco.com (154.54.1.162)  8.500 ms be2324.ccr21.jfk04.atlas.cogentco.com (154.54.47.18)  8.575 ms
+ 7  qwest.jfk04.atlas.cogentco.com (154.54.9.2)  8.053 ms qwest.jfk04.atlas.cogentco.com (154.54.11.182)  8.219 ms  8.294 ms
+ 8  nyc-edge-04.inet.qwest.net (205.171.30.66)  8.225 ms  8.260 ms nyc-edge-04.inet.qwest.net (205.171.30.62)  8.247 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

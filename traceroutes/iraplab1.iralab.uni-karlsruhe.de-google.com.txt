@@ -1,0 +1,9 @@
+traceroute to google.com (173.194.113.14), 30 hops max, 60 byte packets
+ 1  iralabgw.iralab.uni-karlsruhe.de (193.196.39.14)  0.761 ms  1.105 ms  1.345 ms
+ 2  tr-v901-rircs1.scc.kit.edu (129.13.70.201)  0.590 ms  0.680 ms  0.738 ms
+ 3  Karlsruhe-RZ-1-10GE-0-1-0-3.belwue.net (129.143.166.141)  0.982 ms  1.018 ms  1.061 ms
+ 4  Frankfurt-DECIX-1-10GE-0-2-0-1.belwue.net (129.143.59.218)  2.830 ms Frankfurt-DECIX-1-10GE-0-1-0-1.belwue.net (129.143.57.178)  2.920 ms Frankfurt-DECIX-1-10GE-0-2-0-1.belwue.net (129.143.59.218)  2.874 ms
+ 5  de-cix20.net.google.com (80.81.193.108)  2.839 ms  2.843 ms  2.856 ms
+ 6  72.14.238.44 (72.14.238.44)  3.033 ms  3.049 ms  6.557 ms
+ 7  209.85.242.185 (209.85.242.185)  8.488 ms  8.786 ms  8.879 ms
+ 8  fra02s19-in-f14.1e100.net (173.194.113.14)  3.062 ms  3.029 ms  3.070 ms

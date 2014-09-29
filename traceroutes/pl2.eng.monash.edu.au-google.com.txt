@@ -1,0 +1,11 @@
+traceroute to google.com (74.125.237.166), 30 hops max, 60 byte packets
+ 1  west1-gw-v252.net.monash.edu.au (130.194.252.253)  0.837 ms  0.815 ms  0.815 ms
+ 2  clay0-gw-t2-3.net.monash.edu.au (130.194.28.226)  0.792 ms  0.793 ms  1.083 ms
+ 3  monash1-gw-v591.net.monash.edu.au (130.194.29.146)  0.737 ms  0.739 ms  0.733 ms
+ 4  gigabitethernet1.er1.monash.cpe.aarnet.net.au (202.158.200.233)  0.563 ms  0.677 ms  0.675 ms
+ 5  ge-2-1-0.bb1.a.mel.aarnet.net.au (202.158.207.249)  0.992 ms  0.977 ms  0.965 ms
+ 6  xe-0-0-0.pe1.a.mel.aarnet.net.au (202.158.200.12)  0.941 ms  1.042 ms  1.140 ms
+ 7  gw1.xe-0-0-2.pe1.a.mel.aarnet.net.au (202.158.210.41)  14.485 ms  14.558 ms  14.550 ms
+ 8  66.249.95.232 (66.249.95.232)  21.743 ms  13.044 ms  21.842 ms
+ 9  72.14.232.31 (72.14.232.31)  13.413 ms  13.713 ms  13.722 ms
+10  syd01s18-in-f6.1e100.net (74.125.237.166)  13.314 ms  13.352 ms  13.329 ms

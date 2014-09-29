@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.55.221.239), 30 hops max, 60 byte packets
+ 1  planetlab-gw.Millennium.Berkeley.EDU (169.229.50.1)  0.366 ms  0.301 ms  0.447 ms
+ 2  * * *
+ 3  t1-2.inr-202-reccev.Berkeley.EDU (128.32.255.57)  17.060 ms  17.049 ms t1-2.inr-201-sut.Berkeley.EDU (128.32.255.53)  17.258 ms
+ 4  xe-4-1-0.inr-001-sut.Berkeley.EDU (128.32.0.64)  0.332 ms  0.299 ms xe-5-1-0.inr-001-sut.Berkeley.EDU (128.32.0.66)  0.265 ms
+ 5  dc-sfo-agg-1--ucb-10ge.cenic.net (137.164.50.16)  0.963 ms  0.951 ms  0.906 ms
+ 6  svl-agg2--sfo-agg1-10g.cenic.net (137.164.22.27)  5.350 ms  4.283 ms  4.232 ms
+ 7  dc-svl-isp1--svl-core1-10ge.cenic.net (137.164.47.132)  2.183 ms  2.127 ms  2.102 ms
+ 8  xe-4-1-2.edge1.SanJose1.Level3.net (4.53.16.185)  2.273 ms  2.245 ms  2.282 ms
+ 9  ae-4-90.edge1.SanJose3.Level3.net (4.69.152.208)  2.802 ms ae-1-60.edge1.SanJose3.Level3.net (4.69.152.16)  2.759 ms  2.729 ms
+10  NTT-level3-4x10G.SanJose.Level3.net (4.68.62.206)  3.420 ms  3.610 ms  3.592 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

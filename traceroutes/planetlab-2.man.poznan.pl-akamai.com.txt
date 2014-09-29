@@ -1,0 +1,31 @@
+traceroute to akamai.com (95.101.205.239), 30 hops max, 60 byte packets
+ 1  css11-GE0-3-1661.man.poznan.pl (150.254.212.158)  0.380 ms  0.336 ms  0.326 ms
+ 2  mx-pcss-1-XE0-1-0-99.man.poznan.pl (150.254.162.245)  48.805 ms  48.760 ms  48.707 ms
+ 3  z-pozmana.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.17)  0.303 ms  0.271 ms  0.341 ms
+ 4  port-channel203.car1.Berlin1.Level3.net (212.162.10.81)  5.546 ms  5.533 ms  5.539 ms
+ 5  vl-3204-ve-134.ebr2.Berlin1.Level3.net (4.69.161.5)  19.661 ms  19.665 ms  19.665 ms
+ 6  ae-26-26.ebr2.Dusseldorf1.Level3.net (4.69.200.165)  19.669 ms ae-25-25.ebr2.Dusseldorf1.Level3.net (4.69.200.161)  19.737 ms ae-28-28.ebr2.Dusseldorf1.Level3.net (4.69.200.173)  41.063 ms
+ 7  ae-22-22.ebr1.Dusseldorf1.Level3.net (4.69.143.185)  19.684 ms ae-23-23.ebr1.Dusseldorf1.Level3.net (4.69.143.189)  19.645 ms  30.624 ms
+ 8  ae-47-47.ebr3.Frankfurt1.Level3.net (4.69.143.174)  19.642 ms ae-45-45.ebr3.Frankfurt1.Level3.net (4.69.143.166)  19.671 ms ae-47-47.ebr3.Frankfurt1.Level3.net (4.69.143.174)  19.623 ms
+ 9  ae-83-83.csw3.Frankfurt1.Level3.net (4.69.163.10)  19.623 ms ae-63-63.csw1.Frankfurt1.Level3.net (4.69.163.2)  19.723 ms ae-93-93.csw4.Frankfurt1.Level3.net (4.69.163.14)  19.712 ms
+10  ae-3-80.edge4.Frankfurt1.Level3.net (4.69.154.136)  29.225 ms ae-4-90.edge4.Frankfurt1.Level3.net (4.69.154.200)  19.657 ms ae-3-80.edge4.Frankfurt1.Level3.net (4.69.154.136)  25.662 ms
+11  ix-18-0.tcore1.FR0-Frankfurt.as6453.net (195.219.50.49)  19.952 ms  19.911 ms  19.962 ms
+12  if-7-2.tcore1.FNM-Frankfurt.as6453.net (195.219.50.2)  23.231 ms  24.265 ms  23.247 ms
+13  if-6-2.tcore1.AV2-Amsterdam.as6453.net (195.219.194.149)  22.836 ms  22.973 ms if-5-2.tcore1.AV2-Amsterdam.as6453.net (195.219.194.13)  22.972 ms
+14  195.219.194.106 (195.219.194.106)  24.093 ms  27.037 ms  27.031 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

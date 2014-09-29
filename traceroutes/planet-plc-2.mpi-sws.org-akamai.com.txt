@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.16.19.182), 30 hops max, 60 byte packets
+ 1  139.19.158.252 (139.19.158.252)  0.976 ms  1.099 ms  1.229 ms
+ 2  cat65-vs-inf-01-0-138.mpi-sb.mpg.de (139.19.0.138)  1.097 ms  1.220 ms  1.333 ms
+ 3  rz2mpi-neu.net.uni-saarland.de (134.96.6.25)  0.302 ms  0.300 ms  0.305 ms
+ 4  xr-saa1-pc1.x-win.dfn.de (188.1.234.37)  0.749 ms  0.852 ms  0.957 ms
+ 5  xr-kai1-te2-1.x-win.dfn.de (188.1.145.98)  1.947 ms  2.117 ms  2.237 ms
+ 6  xr-fzk1-te2-4.x-win.dfn.de (188.1.145.101)  6.278 ms  6.118 ms  6.262 ms
+ 7  cr-fra1-te0-7-0-3.x-win.dfn.de (188.1.144.121)  6.289 ms  6.249 ms  6.312 ms
+ 8  ae53.edge5.Frankfurt1.Level3.net (212.162.4.5)  6.031 ms  6.091 ms  5.953 ms
+ 9  212.162.41.42 (212.162.41.42)  22.008 ms CABLE-WIREL.edge5.Frankfurt1.Level3.net (212.162.4.238)  22.113 ms CABLE-WIREL.edge5.Frankfurt1.Level3.net (212.162.4.246)  21.570 ms
+10  195.2.9.238 (195.2.9.238)  21.426 ms  21.360 ms  21.365 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

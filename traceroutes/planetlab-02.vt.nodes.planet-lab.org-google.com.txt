@@ -1,0 +1,10 @@
+traceroute to google.com (74.125.228.69), 30 hops max, 60 byte packets
+ 1  isb-118-mlx-1.ve4.cns.vt.edu (198.82.160.1)  0.226 ms  0.278 ms  0.345 ms
+ 2  isb-6509-1.te7-1.cns.vt.edu (128.173.1.129)  0.328 ms  0.417 ms  0.459 ms
+ 3  isb-core.xe-5-0-0.791.cns.vt.edu (128.173.0.245)  1.212 ms  1.200 ms  1.187 ms
+ 4  * * *
+ 5  matp-equ-7609-1.vl9.cns.vt.edu (192.70.187.137)  8.390 ms  8.427 ms  8.464 ms
+ 6  eqixva-google-gige.google.com (206.126.236.21)  8.102 ms  8.098 ms  8.114 ms
+ 7  209.85.252.46 (209.85.252.46)  18.416 ms  18.434 ms  18.422 ms
+ 8  72.14.238.247 (72.14.238.247)  9.939 ms  10.132 ms  10.352 ms
+ 9  iad23s07-in-f5.1e100.net (74.125.228.69)  9.495 ms  9.563 ms  9.548 ms

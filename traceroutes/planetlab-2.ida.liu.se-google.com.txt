@@ -1,0 +1,13 @@
+traceroute to google.com (74.125.232.98), 30 hops max, 60 byte packets
+ 1  planetlab-gw.net.liu.se (192.36.94.1)  2.479 ms  2.651 ms  2.827 ms
+ 2  a-ida.ida.liu.se (130.236.190.249)  0.305 ms  0.366 ms  0.422 ms
+ 3  green-a.net.liu.se (130.236.9.6)  0.210 ms  0.207 ms  0.218 ms
+ 4  liu-br2.sunet.se (193.11.0.21)  0.258 ms  0.251 ms  0.264 ms
+ 5  m1tug-xe-7-3-3.sunet.se (130.242.85.173)  3.329 ms  3.308 ms  3.291 ms
+ 6  t1tug-ae1-v1.sunet.se (130.242.83.41)  3.315 ms  3.322 ms  3.326 ms
+ 7  se-tug.nordu.net (109.105.102.17)  3.344 ms  3.361 ms  3.341 ms
+ 8  se-tug2.nordu.net (109.105.97.18)  8.128 ms  3.381 ms  8.108 ms
+ 9  google-gw.nordu.net (109.105.98.6)  3.510 ms  3.517 ms  3.523 ms
+10  216.239.43.122 (216.239.43.122)  3.792 ms * *
+11  209.85.253.149 (209.85.253.149)  4.272 ms  4.446 ms  4.598 ms
+12  arn02s05-in-f2.1e100.net (74.125.232.98)  3.756 ms  3.732 ms  3.733 ms

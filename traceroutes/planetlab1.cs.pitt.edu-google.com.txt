@@ -1,0 +1,8 @@
+traceroute to google.com (74.125.228.198), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  0.992 ms  0.979 ms  1.277 ms
+ 2  xe-1-0-0-713.externals-cl.gw.pitt.edu (136.142.2.169)  0.387 ms  0.459 ms  0.449 ms
+ 3  packetnet.pitt.3rox.net (147.73.16.169)  1.726 ms  1.716 ms  1.703 ms
+ 4  72.14.213.79 (72.14.213.79)  7.778 ms  7.743 ms  7.746 ms
+ 5  216.239.46.248 (216.239.46.248)  8.588 ms  8.559 ms  8.558 ms
+ 6  72.14.233.91 (72.14.233.91)  9.418 ms  9.562 ms  9.339 ms
+ 7  iad23s23-in-f6.1e100.net (74.125.228.198)  9.089 ms  9.003 ms  8.982 ms

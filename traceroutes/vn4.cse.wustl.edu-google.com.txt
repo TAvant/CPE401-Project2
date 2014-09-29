@@ -1,0 +1,11 @@
+traceroute to google.com (74.125.225.71), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  eth7-2-commodity-core.nts.wustl.edu (128.252.100.126)  2.555 ms  2.797 ms  2.824 ms
+ 4  te3-6.ccr01.stl03.atlas.cogentco.com (38.104.162.77)  2.458 ms  2.455 ms  2.443 ms
+ 5  te0-1-0-28.ccr41.ord01.atlas.cogentco.com (154.54.2.218)  10.561 ms  11.127 ms te0-17-0-28.ccr41.ord01.atlas.cogentco.com (154.54.88.25)  9.826 ms
+ 6  be2004.ccr21.ord03.atlas.cogentco.com (154.54.5.10)  10.462 ms * be2006.ccr21.ord03.atlas.cogentco.com (154.54.5.18)  8.921 ms
+ 7  * * 38.88.204.78 (38.88.204.78)  8.314 ms
+ 8  * 209.85.254.128 (209.85.254.128)  25.613 ms  9.109 ms
+ 9  209.85.250.30 (209.85.250.30)  9.470 ms *  9.512 ms
+10  ord08s07-in-f7.1e100.net (74.125.225.71)  8.553 ms  8.503 ms  8.611 ms

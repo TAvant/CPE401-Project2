@@ -1,0 +1,8 @@
+traceroute to google.com (173.194.37.134), 30 hops max, 60 byte packets
+ 1  132.170.3.2 (132.170.3.2)  0.508 ms  0.503 ms  0.490 ms
+ 2   (198.32.155.89)  1.555 ms  2.016 ms  2.005 ms
+ 3  mia-flrcore-asr9010-1-be2-1.net.flrnet.org (108.59.31.19)  6.527 ms  6.870 ms  6.858 ms
+ 4  peer-google-mia-flrnetcp-1.net.flrnet.org (108.59.27.3)  5.586 ms  5.578 ms  5.565 ms
+ 5  209.85.253.118 (209.85.253.118)  5.553 ms  62.830 ms  5.525 ms
+ 6  209.85.241.145 (209.85.241.145)  5.914 ms  15.355 ms  15.336 ms
+ 7  mia05s18-in-f6.1e100.net (173.194.37.134)  5.557 ms  5.581 ms  5.562 ms

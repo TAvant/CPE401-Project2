@@ -1,0 +1,8 @@
+traceroute to google.com (173.194.116.70), 30 hops max, 60 byte packets
+ 1  gw-192-41-136-208.csg.uzh.ch (192.41.136.209)  0.513 ms  0.729 ms  0.881 ms
+ 2  uzhix1-gig2-4.uzh.ch (192.41.136.25)  0.395 ms  0.455 ms  0.677 ms
+ 3  swizh2-ten1-4.uzh.ch (192.41.136.1)  0.433 ms  0.638 ms  0.629 ms
+ 4  swiIX1-10GE-3-3.switch.ch (130.59.36.129)  0.621 ms  0.613 ms  0.601 ms
+ 5  equinix-zurich.net.google.com (194.42.48.58)  0.921 ms  0.922 ms  0.914 ms
+ 6  209.85.244.127 (209.85.244.127)  1.236 ms  1.288 ms  1.171 ms
+ 7  zrh04s08-in-f6.1e100.net (173.194.116.70)  0.854 ms  0.873 ms  0.866 ms

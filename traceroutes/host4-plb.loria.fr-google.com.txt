@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.34.4), 30 hops max, 60 byte packets
+ 1  new-gw.loria.fr (152.81.30.18)  1.196 ms  1.013 ms  1.106 ms
+ 2  gw1.nancy.gw.lothaire.net (193.50.80.13)  0.925 ms  1.029 ms  1.006 ms
+ 3  * * *
+ 4  te0-0-0-2-paris1-rtr-001.noc.renater.fr (193.51.189.161)  70.338 ms  70.358 ms  70.305 ms
+ 5  te0-0-0-0-paris2-rtr-001.noc.renater.fr (193.51.189.6)  7.061 ms  7.133 ms  10.307 ms
+ 6  * * *
+ 7  193.51.182.197 (193.51.182.197)  6.318 ms  6.437 ms  6.412 ms
+ 8  72.14.238.234 (72.14.238.234)  6.429 ms  6.379 ms  6.394 ms
+ 9  209.85.242.45 (209.85.242.45)  6.756 ms  6.886 ms  7.036 ms
+10  par03s02-in-f4.1e100.net (173.194.34.4)  6.396 ms  6.457 ms  6.392 ms

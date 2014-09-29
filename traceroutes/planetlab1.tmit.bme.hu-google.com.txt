@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.39.99), 30 hops max, 60 byte packets
+ 1  projectgw.tmit.bme.hu (152.66.245.190)  0.203 ms  0.193 ms  0.193 ms
+ 2  vl121.ixion.net.bme.hu (152.66.245.254)  0.652 ms  0.655 ms  0.841 ms
+ 3  xge10-2.taz.net.bme.hu (152.66.0.121)  0.832 ms  0.821 ms  0.815 ms
+ 4  tg0-1-0-1.rtr.bme.hbone.hu (152.66.0.126)  1.017 ms  1.012 ms  1.098 ms
+ 5  tg0-1-0-6.rtr1.vh.hbone.hu (195.111.97.101)  1.307 ms  1.311 ms  1.335 ms
+ 6  bix.google.com (193.188.137.163)  1.025 ms  1.045 ms  1.151 ms
+ 7  209.85.243.121 (209.85.243.121)  15.527 ms  15.570 ms  15.536 ms
+ 8  72.14.234.255 (72.14.234.255)  16.503 ms  16.292 ms  16.896 ms
+ 9  bud02s02-in-f3.1e100.net (173.194.39.99)  15.502 ms  15.527 ms  15.528 ms

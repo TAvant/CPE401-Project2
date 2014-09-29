@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.116.197), 30 hops max, 60 byte packets
+ 1  ml-noc-gw.di.uoa.gr (88.197.20.1)  2.465 ms  2.544 ms  2.626 ms
+ 2  uoa-2-gw.koletti-1.access-link.grnet.gr (194.177.209.97)  2.815 ms  2.957 ms  3.025 ms
+ 3  eie2-to-kol1.backbone.grnet.gr (195.251.27.54)  3.125 ms  3.196 ms  3.256 ms
+ 4  grnet.mx2.ath.gr.geant.net (62.40.124.89)  3.349 ms  3.371 ms  3.404 ms
+ 5  ae1.mx1.ath.gr.geant.net (62.40.112.215)  3.517 ms  3.587 ms  3.679 ms
+ 6  ae2.mx1.mil2.it.geant.net (62.40.98.150)  44.956 ms  42.166 ms  40.708 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.112)  40.081 ms  40.401 ms  38.770 ms
+ 8  ae1.mx1.fra.de.geant.net (62.40.98.109)  48.729 ms  46.613 ms  45.967 ms
+ 9  ae4.rt1.fra.de.geant.net (62.40.98.135)  78.634 ms  78.720 ms  78.797 ms
+10  google-gw.rt1.fra.de.geant.net (62.40.125.202)  48.842 ms  48.972 ms  48.988 ms
+11  209.85.241.110 (209.85.241.110)  47.030 ms  49.201 ms  46.501 ms
+12  66.249.94.143 (66.249.94.143)  46.803 ms  45.049 ms  47.159 ms
+13  173.194.116.197 (173.194.116.197)  49.101 ms  48.927 ms  49.206 ms

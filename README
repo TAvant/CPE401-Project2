@@ -1,0 +1,28 @@
+I created this program using an iPython notebook. In order to run the program 
+you will need to install iPython notebook on your machine then navagate to 
+the directory with the .ipynb file (via your terminal) and enter: 
+
+	ipython notebook
+
+If you do not want to install the iPython notebook and just want to review my results, please see the file 'traceroutes.html'
+
+The program has been well documented throughout the notebook 'planetlab.ipynb,'
+so I won't go over ever detail in the README, please review the notebook if 
+you have any questions as to the details of the implementation.
+
+In addition to the iPython notebook you will find the file 'traceroute.py' this
+is the program that was deployed to all of the nodes and is what executed the 
+traceroute on each of the Planet-Lab nodes and stored the traces into their 
+respective files at each node.
+
+You'll find a dirctory named 'data' in which there are two files for the 
+nodes: 'nodes.txt' and 'clean-nodes.txt' I copied the nodes associeated with 
+my slice from Planet Lab's website and stored them in the file 'nodes.txt' 
+I then needed to clean them up before using this data, this is what you will 
+find in 'clean-nodes.txt' Last you will find 'traceroutes.csv' This file 
+sontains all of the pertinent information extracted from each of the traces. 
+
+The directory 'traceroutes' holds all of the traces, from the nodes, for both 
+google.com and akamai.com The filename format is as such:
+
+	nodename-url.txt 

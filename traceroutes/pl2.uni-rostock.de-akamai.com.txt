@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.61.239), 30 hops max, 60 byte packets
+ 1  139.30.240.131 (139.30.240.131)  1.087 ms  1.084 ms  1.133 ms
+ 2  dfn-gate.uni-rostock.de (139.30.0.17)  0.398 ms  0.446 ms  0.412 ms
+ 3  xr-ros2-pc1.x-win.dfn.de (188.1.233.101)  1.141 ms  1.254 ms  0.994 ms
+ 4  xr-ham1-te2-1.x-win.dfn.de (188.1.146.190)  3.664 ms  3.984 ms  3.833 ms
+ 5  xr-des1-te3-4.x-win.dfn.de (188.1.144.173)  3.902 ms  4.044 ms  4.182 ms
+ 6  cr-tub1-te0-0-0-7.x-win.dfn.de (188.1.146.161)  8.421 ms  8.378 ms  8.421 ms
+ 7  hbg-b1-link.telia.net (80.239.128.181)  12.271 ms  14.860 ms  14.036 ms
+ 8  hbg-bb1-link.telia.net (213.155.135.82)  12.375 ms hbg-bb2-link.telia.net (213.155.135.88)  12.386 ms  12.399 ms
+ 9  adm-bb4-link.telia.net (62.115.136.128)  19.364 ms adm-bb4-link.telia.net (213.155.136.150)  19.466 ms adm-bb4-link.telia.net (80.91.245.56)  19.336 ms
+10  adm-b5-link.telia.net (213.155.134.43)  19.047 ms adm-b5-link.telia.net (213.155.130.43)  19.561 ms adm-b5-link.telia.net (80.91.246.101)  18.632 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

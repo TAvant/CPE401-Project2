@@ -1,0 +1,8 @@
+traceroute to google.com (173.194.32.233), 30 hops max, 60 byte packets
+ 1  sn-049.gate.tu-berlin.de (130.149.49.1)  0.368 ms  0.402 ms  0.446 ms
+ 2  en-hft.gate.tu-berlin.de (130.149.126.57)  0.485 ms  0.587 ms  0.667 ms
+ 3  cr-tub1-te0-0-0-15.x-win.dfn.de (188.1.235.117)  0.835 ms  0.953 ms  0.860 ms
+ 4  google.bcix.de (193.178.185.100)  1.320 ms  1.343 ms  1.333 ms
+ 5  209.85.249.184 (209.85.249.184)  1.309 ms  8.730 ms  1.281 ms
+ 6  72.14.232.27 (72.14.232.27)  1.656 ms  2.055 ms  2.008 ms
+ 7  ber01s09-in-f9.1e100.net (173.194.32.233)  1.929 ms  1.412 ms  1.415 ms

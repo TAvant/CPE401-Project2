@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.55.221.239), 30 hops max, 60 byte packets
+ 1  cse-hazard-gateway.ucsd.edu (132.239.17.1)  0.521 ms  0.593 ms  0.619 ms
+ 2  ebu3b-6509-nodem-core-interconnect-vl910-gw-255-130.ucsd.edu (132.239.255.130)  0.405 ms  0.410 ms  0.486 ms
+ 3  mx0--nodem-core-30ge.ucsd.edu (132.239.254.162)  0.303 ms  0.300 ms  0.282 ms
+ 4  mx1--mx0-p2p.ucsd.edu (132.239.254.149)  0.301 ms  0.312 ms  0.300 ms
+ 5  riv-agg1--ucsd-2.cenic.net (137.164.23.57)  5.462 ms  5.440 ms  5.408 ms
+ 6  dc-lax-core2--riv-agg1-10ge.cenic.net (137.164.46.8)  9.747 ms  10.681 ms  10.682 ms
+ 7  dc-lax-isp2--lax-core2-10ge.cenic.net (137.164.47.138)  7.067 ms  7.048 ms  7.026 ms
+ 8  xe-9-3-0.edge5.LosAngeles1.Level3.net (4.59.48.177)  7.110 ms  7.119 ms  7.155 ms
+ 9  * * ae-4-90.edge3.LosAngeles1.Level3.net (4.69.144.201)  7.179 ms
+10  xe-0-3-0-3.r04.lsanca03.us.bb.gin.ntt.net (129.250.9.201)  7.664 ms xe-0-3-0-8.r04.lsanca03.us.bb.gin.ntt.net (129.250.9.25)  7.642 ms xe-0-3-0-4.r04.lsanca03.us.bb.gin.ntt.net (129.250.9.225)  7.697 ms
+11  ae-6.r21.lsanca03.us.bb.gin.ntt.net (129.250.5.69)  7.484 ms  7.483 ms  7.548 ms
+12  * ae-1.r20.snjsca04.us.bb.gin.ntt.net (129.250.6.11)  60.552 ms *
+13  ae-1.r07.snjsca04.us.bb.gin.ntt.net (129.250.5.53)  17.633 ms  17.246 ms  18.080 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

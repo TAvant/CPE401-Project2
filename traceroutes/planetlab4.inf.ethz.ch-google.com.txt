@@ -1,0 +1,8 @@
+traceroute to google.com (173.194.40.78), 30 hops max, 60 byte packets
+ 1  rou-open-net-systems-group-open.ethz.ch (192.33.90.65)  131.593 ms  131.833 ms  132.058 ms
+ 2  swiez2-open.ethz.ch (192.33.92.166)  0.320 ms  0.371 ms  0.360 ms
+ 3  swiIX2-P1.switch.ch (130.59.36.250)  0.409 ms  0.428 ms  0.424 ms
+ 4  swiIX1-10GE-1-4.switch.ch (130.59.36.41)  0.411 ms  0.400 ms  0.417 ms
+ 5  equinix-zurich.net.google.com (194.42.48.58)  0.894 ms  0.897 ms  0.881 ms
+ 6  66.249.94.157 (66.249.94.157)  1.007 ms  1.081 ms  1.194 ms
+ 7  zrh04s06-in-f14.1e100.net (173.194.40.78)  0.699 ms  0.698 ms  0.691 ms

@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  206.117.37.1 (206.117.37.1)  0.246 ms  0.098 ms  0.164 ms
+ 2  198.32.16.81 (198.32.16.81)  3.235 ms  3.285 ms  3.317 ms
+ 3  lax-dc1--losnettos-dc.cenic.net (137.164.23.225)  2.663 ms  2.888 ms  2.854 ms
+ 4  dc-lax-core1--lax-agg6-10ge-1.cenic.net (137.164.46.218)  2.620 ms dc-lax-core1--lax-agg6-10ge-2.cenic.net (137.164.46.220)  2.012 ms dc-lax-core1--lax-agg6-10ge-4.cenic.net (137.164.46.250)  1.956 ms
+ 5  dc-lax-isp2--lax-core1-10ge.cenic.net (137.164.47.136)  1.378 ms  1.294 ms  1.336 ms
+ 6  los-edge-05.inet.qwest.net (63.147.28.181)  1.556 ms  1.548 ms  1.514 ms
+ 7  nyc-edge-04.inet.qwest.net (205.171.30.62)  73.993 ms  73.894 ms  74.054 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

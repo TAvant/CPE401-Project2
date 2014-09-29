@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.33.137), 30 hops max, 60 byte packets
+ 1  142.103.2.253 (142.103.2.253)  0.442 ms  0.405 ms  0.381 ms
+ 2  a0-a1.net.ubc.ca (142.103.78.250)  0.360 ms  0.444 ms  0.520 ms
+ 3  anguborder-a0.net.ubc.ca (137.82.123.137)  0.692 ms  0.437 ms  0.483 ms
+ 4  345-IX-cr1-UBCAb.vncv1.BC.net (134.87.0.58)  0.431 ms  0.433 ms  0.422 ms
+ 5  vncv1rtr2.canarie.ca (199.212.24.64)  0.480 ms  0.471 ms  0.459 ms
+ 6  google-1-lo-std-707.sttlwa.pacificwave.net (207.231.242.20)  3.904 ms  3.950 ms  4.003 ms
+ 7  209.85.249.32 (209.85.249.32)  3.992 ms  3.983 ms  3.985 ms
+ 8  209.85.244.61 (209.85.244.61)  4.399 ms  4.552 ms  4.684 ms
+ 9  sea09s17-in-f9.1e100.net (173.194.33.137)  3.906 ms  3.901 ms  3.906 ms

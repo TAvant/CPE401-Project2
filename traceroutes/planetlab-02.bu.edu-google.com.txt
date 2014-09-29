@@ -1,0 +1,31 @@
+traceroute to google.com (4.53.56.104), 30 hops max, 60 byte packets
+ 1  comm730-0401net-gw.bu.edu (204.8.155.225)  3.725 ms  3.759 ms  3.746 ms
+ 2  comm595-tunnel-gw01-tu18-cumm111-dist-aca01-tu1.bu.edu (192.5.208.73)  1.119 ms  1.192 ms  1.181 ms
+ 3  bent300-bdr-gw01-tu1-comm595-tunnel-gw01-tu27.bu.edu (192.5.208.110)  1.252 ms  1.237 ms  1.225 ms
+ 4  ge-4-11.car2.Boston1.Level3.net (4.53.50.109)  88.073 ms  88.064 ms  88.050 ms
+ 5  ae-2-5.bar2.Boston1.Level3.net (4.69.132.250)  0.972 ms  0.958 ms  0.942 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

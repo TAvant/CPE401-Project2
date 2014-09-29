@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.34.231), 30 hops max, 60 byte packets
+ 1  73-40-97.uoc.es (213.73.40.97)  2.783 ms  2.884 ms  2.891 ms
+ 2  10.10.2.29 (10.10.2.29)  1.800 ms  2.131 ms  2.145 ms
+ 3  192.168.136.5 (192.168.136.5)  24.860 ms  25.006 ms  24.994 ms
+ 4  anella-in3.cesca.cat (84.88.18.41)  6.549 ms  6.631 ms  6.505 ms
+ 5  ANELLA-VAL1.AE2-454.uv.rt1.val.red.rediris.es (130.206.211.69)  10.762 ms  10.678 ms  11.320 ms
+ 6  UV.AE5.telmad.rt4.mad.red.rediris.es (130.206.245.90)  16.697 ms  17.141 ms  17.600 ms
+ 7  google-router.red.rediris.es (130.206.255.2)  16.760 ms  16.935 ms  16.923 ms
+ 8  72.14.235.20 (72.14.235.20)  17.889 ms  16.674 ms  17.663 ms
+ 9  72.14.237.126 (72.14.237.126)  27.343 ms  27.334 ms  27.066 ms
+10  mad01s09-in-f7.1e100.net (173.194.34.231)  16.608 ms  16.810 ms  16.729 ms

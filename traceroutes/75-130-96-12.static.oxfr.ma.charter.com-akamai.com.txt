@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  RTR-WOR1-CSRESEARCH.INF.WPI.EDU (75.130.96.1)  0.555 ms  0.607 ms  0.670 ms
+ 2  gi1-1.ccr01.orh01.atlas.cogentco.com (38.104.218.5)  48.006 ms  48.070 ms  48.201 ms
+ 3  te0-4-0-16.ccr21.alb02.atlas.cogentco.com (154.54.27.53)  4.386 ms  4.592 ms  4.690 ms
+ 4  be2107.ccr22.jfk02.atlas.cogentco.com (154.54.3.93)  7.685 ms be2106.ccr21.jfk02.atlas.cogentco.com (154.54.3.49)  7.732 ms be2108.mpd21.jfk02.atlas.cogentco.com (154.54.3.133)  7.823 ms
+ 5  be2326.ccr21.jfk04.atlas.cogentco.com (154.54.44.70)  8.066 ms be2327.ccr21.jfk04.atlas.cogentco.com (154.54.1.162)  8.340 ms be2324.ccr21.jfk04.atlas.cogentco.com (154.54.47.18)  8.218 ms
+ 6  qwest.jfk04.atlas.cogentco.com (154.54.11.182)  8.099 ms qwest.jfk04.atlas.cogentco.com (154.54.9.2)  7.018 ms  7.137 ms
+ 7  nyc-edge-04.inet.qwest.net (205.171.30.62)  7.311 ms  7.123 ms  7.140 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

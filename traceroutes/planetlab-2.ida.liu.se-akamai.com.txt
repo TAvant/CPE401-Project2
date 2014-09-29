@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.54.77.239), 30 hops max, 60 byte packets
+ 1  planetlab-gw.net.liu.se (192.36.94.1)  2.973 ms  3.114 ms  3.224 ms
+ 2  a-ida.ida.liu.se (130.236.190.249)  0.287 ms  0.345 ms  0.401 ms
+ 3  green-a.net.liu.se (130.236.9.6)  0.202 ms  0.198 ms  0.220 ms
+ 4  liu-br2.sunet.se (193.11.0.21)  52.778 ms  52.767 ms  52.754 ms
+ 5  m1tug-xe-7-3-3.sunet.se (130.242.85.173)  3.347 ms  3.337 ms  3.363 ms
+ 6  t1tug-ae1-v1.sunet.se (130.242.83.41)  3.426 ms  3.371 ms  5.478 ms
+ 7  se-tug.nordu.net (109.105.102.17)  3.394 ms  3.388 ms  3.372 ms
+ 8  se-fre.nordu.net (109.105.97.1)  4.063 ms  3.366 ms  3.373 ms
+ 9  s-b3-link.telia.net (213.248.97.17)  3.793 ms  3.920 ms  4.001 ms
+10  s-bb4-link.telia.net (80.91.249.216)  3.866 ms s-bb3-link.telia.net (62.115.137.158)  3.994 ms s-bb4-link.telia.net (80.91.253.226)  3.943 ms
+11  hbg-bb2-link.telia.net (62.115.136.11)  16.533 ms hbg-bb1-link.telia.net (62.115.136.180)  90.364 ms hbg-bb2-link.telia.net (80.91.247.147)  16.581 ms
+12  hbg-b1-link.telia.net (213.155.135.83)  19.250 ms hbg-b1-link.telia.net (80.91.249.201)  17.785 ms hbg-b1-link.telia.net (80.91.253.54)  19.134 ms
+13  194.25.208.233 (194.25.208.233)  20.556 ms  20.548 ms 80.150.168.161 (80.150.168.161)  16.966 ms
+14  217.239.43.69 (217.239.43.69)  37.397 ms 217.239.43.45 (217.239.43.45)  37.282 ms 217.239.43.61 (217.239.43.61)  35.105 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

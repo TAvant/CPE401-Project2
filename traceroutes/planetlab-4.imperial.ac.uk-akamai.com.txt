@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.189.239), 30 hops max, 60 byte packets
+ 1  planetlab-hsrp-master.net.ic.ac.uk (193.63.75.30)  0.492 ms  0.567 ms  0.624 ms
+ 2  rachael-dcrt1.net.ic.ac.uk (194.82.153.120)  0.441 ms  0.532 ms  0.666 ms
+ 3  te0-4-0-1.londic-rbr1.ja.net (146.97.137.153)  0.915 ms  0.955 ms  1.013 ms
+ 4  ae24.londpg-sbr1.ja.net (146.97.37.197)  0.705 ms  0.693 ms  0.680 ms
+ 5  ae29.londhx-sbr1.ja.net (146.97.33.1)  5.164 ms  5.152 ms  5.153 ms
+ 6  ldn-b3-link.telia.net (213.248.79.145)  1.071 ms  1.075 ms  1.069 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

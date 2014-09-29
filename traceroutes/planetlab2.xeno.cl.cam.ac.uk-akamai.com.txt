@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.20.157.239), 30 hops max, 60 byte packets
+ 1  gatwick.net.cl.cam.ac.uk (128.232.103.194)  1.112 ms  1.475 ms  1.764 ms
+ 2  cl-wgb.route-west.net.cam.ac.uk (193.60.89.1)  0.365 ms  0.419 ms  0.505 ms
+ 3  route-west.route-mill.net.cam.ac.uk (192.84.5.97)  0.403 ms  0.468 ms  0.500 ms
+ 4  route-mill.route-enet.net.cam.ac.uk (192.84.5.94)  0.486 ms  0.661 ms  0.651 ms
+ 5  xe-11-3-0.camb-rbr1.eastern.ja.net (146.97.130.1)  0.253 ms  0.277 ms  0.265 ms
+ 6  ae24.lowdss-sbr1.ja.net (146.97.37.185)  2.635 ms  2.650 ms  2.629 ms
+ 7  ae31.londtw-sbr1.ja.net (146.97.33.30)  5.950 ms  5.937 ms  5.888 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  13.222 ms  13.201 ms  13.238 ms
+ 9  ldn-b4-link.telia.net (213.248.84.177)  13.017 ms  13.081 ms  12.854 ms
+10  ldn-bb2-link.telia.net (80.91.249.181)  5.923 ms ldn-bb1-link.telia.net (213.155.136.74)  5.922 ms ldn-bb1-link.telia.net (80.91.246.144)  5.892 ms
+11  ldn-b3-link.telia.net (80.91.247.27)  5.966 ms ldn-b3-link.telia.net (213.155.133.33)  6.032 ms ldn-b3-link.telia.net (213.155.136.203)  5.984 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

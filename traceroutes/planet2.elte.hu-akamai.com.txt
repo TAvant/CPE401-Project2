@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.200.173.239), 30 hops max, 60 byte packets
+ 1  157.181.175.254 (157.181.175.254)  0.329 ms  0.372 ms  0.419 ms
+ 2  taurus.taurus-leo.elte.hu (157.181.126.45)  0.388 ms  0.474 ms  0.509 ms
+ 3  sup720.hbone-elte.elte.hu (157.181.141.9)  0.645 ms  0.730 ms  0.817 ms
+ 4  tg0-2-0-6.rtr2.vh.hbone.hu (195.111.97.181)  0.996 ms  0.991 ms  1.069 ms
+ 5  be1.rtr1.vh.hbone.hu (195.111.96.56)  1.855 ms  1.844 ms  1.124 ms
+ 6  te3-2.ccr01.bud03.atlas.cogentco.com (149.11.10.9)  1.060 ms  0.826 ms  0.909 ms
+ 7  te0-2-0-5.ccr21.bud01.atlas.cogentco.com (154.54.37.134)  1.439 ms te0-3-0-5.ccr21.bud01.atlas.cogentco.com (130.117.3.73)  1.223 ms  1.309 ms
+ 8  be2197.ccr22.bts01.atlas.cogentco.com (130.117.1.97)  7.735 ms  7.610 ms  7.555 ms
+ 9  be2225.ccr22.muc01.atlas.cogentco.com (154.54.37.97)  15.322 ms  15.109 ms  15.245 ms
+10  be2231.mpd22.fra03.atlas.cogentco.com (154.54.38.189)  20.873 ms be2229.ccr22.fra03.atlas.cogentco.com (154.54.38.57)  20.897 ms be2231.mpd22.fra03.atlas.cogentco.com (154.54.38.189)  21.014 ms
+11  be2264.ccr42.ams03.atlas.cogentco.com (154.54.6.209)  27.380 ms be2262.ccr42.ams03.atlas.cogentco.com (154.54.37.33)  27.910 ms  27.598 ms
+12  be2276.ccr22.lon13.atlas.cogentco.com (154.54.36.57)  34.923 ms  34.981 ms  35.414 ms
+13  be2315.ccr22.lon01.atlas.cogentco.com (154.54.73.110)  35.301 ms be2317.ccr22.lon01.atlas.cogentco.com (154.54.73.178)  35.373 ms  34.910 ms
+14  francetelecom.lon01.atlas.cogentco.com (130.117.14.66)  36.785 ms  34.937 ms  34.826 ms
+15  * * *
+16  tengige1-8-0-8.auvtr4.Aubervilliers.opentransit.net (193.251.242.115)  38.634 ms  39.332 ms  37.485 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

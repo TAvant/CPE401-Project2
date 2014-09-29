@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.116.2), 30 hops max, 60 byte packets
+ 1  160.78.253.254 (160.78.253.254)  0.305 ms  0.374 ms  0.502 ms
+ 2  ru-unipr-rx2-bo1.bo1.garr.net (193.204.219.93)  1.395 ms  1.394 ms  1.397 ms
+ 3  rx1-bo1-rx1-mi1.mi1.garr.net (90.147.80.109)  5.153 ms rx1-bo1-r-bo1.bo1.garr.net (90.147.80.33)  5.997 ms  6.012 ms
+ 4  rx1-mi1-rx1-mi2.mi2.garr.net (90.147.80.82)  6.012 ms r-bo1-r-mi1-l4.mi1.garr.net (90.147.80.5)  5.579 ms rx1-mi1-rx1-mi2.mi2.garr.net (90.147.80.82)  5.166 ms
+ 5  r-mi1-r-mi2.mi2.garr.net (90.147.80.17)  4.987 ms  4.869 ms rx1-mi2-r-mi2.mi2.garr.net (90.147.80.73)  5.887 ms
+ 6  r-mi2-google.mi2.garr.net (193.206.129.130)  5.014 ms  4.953 ms  4.956 ms
+ 7  209.85.249.54 (209.85.249.54)  6.057 ms  18.480 ms  18.487 ms
+ 8  209.85.244.75 (209.85.244.75)  6.386 ms  5.566 ms  5.721 ms
+ 9  mil01s19-in-f2.1e100.net (173.194.116.2)  5.059 ms  5.107 ms  5.099 ms

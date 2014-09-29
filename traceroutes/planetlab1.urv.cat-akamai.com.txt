@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.23.205.239), 30 hops max, 60 byte packets
+ 1  193.144.21.129 (193.144.21.129)  1.076 ms  1.084 ms  1.059 ms
+ 2  anella-urv.cesca.cat (84.88.18.29)  6.499 ms  6.508 ms  6.495 ms
+ 3  ANELLA-VAL2.AE2-455.uv.rt1.val.red.rediris.es (130.206.211.73)  7.694 ms  7.681 ms  7.685 ms
+ 4  UV.AE5.telmad.rt4.mad.red.rediris.es (130.206.245.90)  14.104 ms  14.057 ms  14.072 ms
+ 5  213.242.113.77 (213.242.113.77)  14.058 ms  14.014 ms  14.009 ms
+ 6  vl-3501-ve-115.ebr1.Paris1.Level3.net (4.69.158.189)  29.946 ms vl-3502-ve-116.ebr1.Paris1.Level3.net (4.69.158.193)  29.977 ms vl-3503-ve-117.ebr1.Paris1.Level3.net (4.69.158.197)  29.951 ms
+ 7  ae-81-81.csw3.Paris1.Level3.net (4.69.161.86)  29.925 ms ae-71-71.csw2.Paris1.Level3.net (4.69.161.82)  29.778 ms ae-81-81.csw3.Paris1.Level3.net (4.69.161.86)  29.748 ms
+ 8  ae-4-90.edge5.Paris1.Level3.net (4.69.168.200)  29.742 ms  29.590 ms ae-3-80.edge5.Paris1.Level3.net (4.69.168.136)  29.873 ms
+ 9  CABLE-WIREL.edge5.Paris1.Level3.net (212.73.200.42)  41.866 ms  41.639 ms  41.626 ms
+10  195.2.9.193 (195.2.9.193)  41.325 ms  40.759 ms  40.748 ms
+11  ae13-xcr1.lnd.cw.net (195.2.10.241)  49.296 ms  41.174 ms  43.036 ms
+12  ae15-xcr1.lns.cw.net (195.2.30.114)  43.024 ms  43.012 ms  42.482 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

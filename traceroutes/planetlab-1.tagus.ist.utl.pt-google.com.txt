@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.41.198), 30 hops max, 60 byte packets
+ 1  193.136.166.124 (193.136.166.124)  0.337 ms  0.300 ms  0.278 ms
+ 2  router2-alameda.ist.utl.pt (193.136.134.181)  1.549 ms  3.235 ms  3.403 ms
+ 3  gatekeeper2.ist.utl.pt (193.136.134.158)  1.307 ms  1.519 ms  1.364 ms
+ 4  brites1.utl.pt (193.136.134.10)  1.446 ms  1.436 ms  1.396 ms
+ 5  gt3.fccn.pt (193.136.1.93)  2.048 ms  2.039 ms  1.999 ms
+ 6  ROUTER10.10GE.CR1.Lisboa.fccn.pt (193.137.0.8)  2.210 ms  1.859 ms  1.913 ms
+ 7  Google.AS15169.gigapix.pt (193.136.250.20)  2.142 ms  2.320 ms  2.446 ms
+ 8  209.85.254.68 (209.85.254.68)  2.743 ms  2.941 ms  3.049 ms
+ 9  lis01s05-in-f6.1e100.net (173.194.41.198)  2.126 ms  2.208 ms  2.158 ms

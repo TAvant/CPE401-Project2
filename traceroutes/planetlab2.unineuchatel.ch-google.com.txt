@@ -1,0 +1,8 @@
+traceroute to google.com (173.194.116.32), 30 hops max, 60 byte packets
+ 1  accessa-v300a.unine.ch (192.42.42.18)  0.539 ms  0.564 ms  0.632 ms
+ 2  swine2-10ge-3-2.switch.ch (192.42.42.33)  1.212 ms  0.465 ms  0.472 ms
+ 3  swizh2-10ge-4-3.switch.ch (130.59.36.98)  2.494 ms  2.577 ms  2.628 ms
+ 4  swiix1-10ge-3-3.switch.ch (130.59.36.129)  2.505 ms  2.482 ms  2.469 ms
+ 5  equinix-zurich.net.google.com (194.42.48.58)  2.856 ms  2.837 ms  2.817 ms
+ 6  209.85.244.125 (209.85.244.125)  3.303 ms  3.686 ms  3.869 ms
+ 7  zrh04s07-in-f0.1e100.net (173.194.116.32)  2.952 ms  2.934 ms  2.944 ms

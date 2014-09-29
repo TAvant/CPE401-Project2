@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  time.eecs.harvard.edu (140.247.60.1)  0.431 ms  0.567 ms  0.561 ms
+ 2  core-ne-gw-vl408.fas.harvard.edu (140.247.2.33)  0.595 ms  0.735 ms  0.935 ms
+ 3  bdrgw1-te-4-7-core.net.harvard.edu (128.103.0.146)  2.040 ms  2.071 ms  2.059 ms
+ 4  bdrgw2-te-4-4-core.net.harvard.edu (192.5.66.17)  1.030 ms  1.001 ms  1.035 ms
+ 5  bst-edge-05.inet.qwest.net (63.145.1.133)  0.571 ms  0.570 ms  0.557 ms
+ 6  nyc-edge-04.inet.qwest.net (205.171.30.62)  5.990 ms  6.014 ms  5.996 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

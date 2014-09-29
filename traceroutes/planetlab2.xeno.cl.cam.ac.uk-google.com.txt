@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.34.132), 30 hops max, 60 byte packets
+ 1  gatwick.net.cl.cam.ac.uk (128.232.103.194)  1.079 ms  1.375 ms  1.902 ms
+ 2  cl-wgb.route-west.net.cam.ac.uk (193.60.89.1)  0.647 ms * *
+ 3  * * *
+ 4  * * route-mill.route-enet.net.cam.ac.uk (192.84.5.94)  9.792 ms
+ 5  xe-11-3-0.camb-rbr1.eastern.ja.net (146.97.130.1)  0.524 ms  0.513 ms  0.583 ms
+ 6  ae24.lowdss-sbr1.ja.net (146.97.37.185)  2.949 ms  2.633 ms  2.596 ms
+ 7  ae31.londtw-sbr1.ja.net (146.97.33.30)  5.852 ms  10.773 ms  10.777 ms
+ 8  ae29.londtn-sbr1.ja.net (146.97.33.10)  6.070 ms  6.031 ms  5.992 ms
+ 9  po1.lond-ban4.ja.net (146.97.35.110)  6.186 ms  6.330 ms  5.942 ms
+10  72.14.198.193 (72.14.198.193)  5.963 ms  5.951 ms  5.916 ms
+11  209.85.246.242 (209.85.246.242)  19.994 ms  21.640 ms  19.819 ms
+12  209.85.253.115 (209.85.253.115)  6.437 ms  6.642 ms  6.801 ms
+13  lhr14s21-in-f4.1e100.net (173.194.34.132)  6.236 ms  6.224 ms  6.212 ms

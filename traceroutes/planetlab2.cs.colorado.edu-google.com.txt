@@ -1,0 +1,13 @@
+traceroute to google.com (74.125.225.165), 30 hops max, 60 byte packets
+ 1  purple-dirk.cs.colorado.edu (128.138.207.1)  0.266 ms  0.508 ms  0.505 ms
+ 2  engr-cs.colorado.edu (128.138.81.41)  0.485 ms  0.479 ms  0.467 ms
+ 3  engr-engrgw.colorado.edu (128.138.81.32)  0.455 ms  0.443 ms  0.430 ms
+ 4  hut-engr.colorado.edu (128.138.81.134)  0.418 ms  0.407 ms  0.621 ms
+ 5  fw-hut.colorado.edu (128.138.81.250)  0.693 ms  0.682 ms  0.670 ms
+ 6  juniper-fw.colorado.edu (128.138.81.193)  1.127 ms  1.095 ms  0.953 ms
+ 7  frgp-i1-ucb.colorado.edu (198.59.55.10)  2.169 ms  2.150 ms  2.081 ms
+ 8  xe-0-0-1.core-910.frgp.net (192.43.217.170)  2.128 ms  2.119 ms  2.100 ms
+ 9  72.14.194.239 (72.14.194.239)  2.339 ms  2.331 ms  2.315 ms
+10  72.14.234.59 (72.14.234.59)  2.196 ms  2.182 ms  2.170 ms
+11  209.85.251.9 (209.85.251.9)  2.782 ms  3.066 ms  3.568 ms
+12  den03s05-in-f5.1e100.net (74.125.225.165)  2.702 ms  2.716 ms  2.703 ms

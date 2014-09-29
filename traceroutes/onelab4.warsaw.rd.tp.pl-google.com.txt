@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.116.110), 30 hops max, 60 byte packets
+ 1  gateway.warsaw.rd.tp.pl (195.116.53.1)  0.438 ms  0.483 ms  0.569 ms
+ 2  80.50.233.145 (80.50.233.145)  1.092 ms  1.119 ms  1.047 ms
+ 3  war-r3.tpnet.pl (195.117.0.41)  3.697 ms  3.687 ms  3.690 ms
+ 4  war-b2-link.telia.net (213.248.89.85)  15.745 ms  15.788 ms  15.779 ms
+ 5  ffm-bb2-link.telia.net (80.91.245.250)  24.101 ms ffm-bb2-link.telia.net (213.155.133.90)  82.585 ms ffm-bb1-link.telia.net (213.155.133.88)  23.455 ms
+ 6  ffm-b7-link.telia.net (80.91.251.234)  24.047 ms ffm-b7-link.telia.net (80.91.254.93)  23.455 ms ffm-b7-link.telia.net (80.91.254.101)  24.048 ms
+ 7  google-ic-127674-ffm-b7.c.telia.net (213.248.89.38)  20.453 ms  20.472 ms  20.491 ms
+ 8  72.14.238.44 (72.14.238.44)  20.790 ms  20.771 ms  20.746 ms
+ 9  64.233.175.143 (64.233.175.143)  21.037 ms  20.990 ms  21.043 ms
+10  173.194.116.110 (173.194.116.110)  20.680 ms  20.696 ms  20.684 ms

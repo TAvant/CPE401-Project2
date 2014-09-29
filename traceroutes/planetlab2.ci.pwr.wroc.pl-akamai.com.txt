@@ -1,0 +1,31 @@
+traceroute to akamai.com (95.101.205.239), 30 hops max, 60 byte packets
+ 1  156.17.10.254 (156.17.10.254)  0.501 ms  1.046 ms  1.299 ms
+ 2  z-W08-do-pwr2core.pwrnet.pwr.wroc.pl (156.17.18.18)  0.384 ms  0.443 ms  0.490 ms
+ 3  * * *
+ 4  z-pwr2-do-wask2.pwrnet.pwr.wroc.pl (156.17.18.253)  1.965 ms  3.476 ms  3.642 ms
+ 5  centrum3-centrum.wask.wroc.pl (156.17.254.117)  0.562 ms  0.591 ms  0.569 ms
+ 6  z-wroclawia.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.105)  4.870 ms  4.958 ms  4.852 ms
+ 7  port-channel203.car1.Berlin1.Level3.net (212.162.10.81)  10.209 ms  10.199 ms  10.186 ms
+ 8  vl-3204-ve-134.ebr2.Berlin1.Level3.net (4.69.161.5)  24.408 ms  24.376 ms  24.375 ms
+ 9  ae-25-25.ebr2.Dusseldorf1.Level3.net (4.69.200.161)  24.347 ms  24.374 ms ae-26-26.ebr2.Dusseldorf1.Level3.net (4.69.200.165)  24.373 ms
+10  ae-23-23.ebr1.Dusseldorf1.Level3.net (4.69.143.189)  24.315 ms ae-24-24.ebr1.Dusseldorf1.Level3.net (4.69.143.193)  24.413 ms ae-21-21.ebr1.Dusseldorf1.Level3.net (4.69.143.181)  24.395 ms
+11  ae-46-46.ebr3.Frankfurt1.Level3.net (4.69.143.170)  24.338 ms ae-48-48.ebr3.Frankfurt1.Level3.net (4.69.143.178)  24.394 ms ae-46-46.ebr3.Frankfurt1.Level3.net (4.69.143.170)  24.352 ms
+12  ae-63-63.csw1.Frankfurt1.Level3.net (4.69.163.2)  24.355 ms ae-93-93.csw4.Frankfurt1.Level3.net (4.69.163.14)  24.320 ms ae-63-63.csw1.Frankfurt1.Level3.net (4.69.163.2)  24.277 ms
+13  ae-4-90.edge4.Frankfurt1.Level3.net (4.69.154.200)  24.288 ms  24.295 ms ae-3-80.edge4.Frankfurt1.Level3.net (4.69.154.136)  24.229 ms
+14  ix-18-0.tcore1.FR0-Frankfurt.as6453.net (195.219.50.49)  24.453 ms  24.470 ms  24.414 ms
+15  if-7-2.tcore1.FNM-Frankfurt.as6453.net (195.219.50.2)  27.738 ms  28.397 ms  27.504 ms
+16  if-6-3.tcore1.AV2-Amsterdam.as6453.net (195.219.194.77)  27.506 ms if-5-2.tcore1.AV2-Amsterdam.as6453.net (195.219.194.13)  27.475 ms if-6-2.tcore1.AV2-Amsterdam.as6453.net (195.219.194.149)  27.910 ms
+17  195.219.194.106 (195.219.194.106)  28.747 ms  28.877 ms  28.479 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

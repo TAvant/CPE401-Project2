@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.23.205.239), 30 hops max, 60 byte packets
+ 1  vl-355.pswitch-esat.extern.kuleuven.be (193.190.168.54)  1.528 ms  1.734 ms  1.942 ms
+ 2  10.255.2.54 (10.255.2.54)  1.212 ms  1.435 ms  1.632 ms
+ 3  10.255.2.57 (10.255.2.57)  1.301 ms  1.518 ms  1.743 ms
+ 4  10.255.2.6 (10.255.2.6)  9.796 ms  10.190 ms  10.392 ms
+ 5  10.255.2.42 (10.255.2.42)  0.840 ms  0.932 ms  1.037 ms
+ 6  10.47.0.3 (10.47.0.3)  0.263 ms  0.243 ms  0.253 ms
+ 7  rhmccoy1-vlan248.kulnet.kuleuven.be (134.58.252.82)  0.764 ms  0.731 ms  0.714 ms
+ 8  vl-174.lrswitch-access-1.kulnet.kuleuven.be (134.58.253.61)  1.307 ms  1.342 ms  1.223 ms
+ 9  10ge.cr1.brueve.belnet.net (193.191.2.45)  1.232 ms  1.521 ms  1.004 ms
+10  10ge.cr2.brueve.belnet.net (193.191.16.26)  1.976 ms  1.973 ms  1.965 ms
+11  xe-10-3-0.bar2.Brussels1.Level3.net (212.3.237.13)  1.952 ms  1.943 ms  1.936 ms
+12  ae-0-11.bar1.Brussels1.Level3.net (4.69.148.177)  2.288 ms  2.285 ms  2.279 ms
+13  ae-6-6.ebr1.Amsterdam1.Level3.net (4.69.148.174)  4.667 ms  4.664 ms  4.654 ms
+14  ae-59-114.csw1.Amsterdam1.Level3.net (4.69.153.198)  4.652 ms ae-57-112.csw1.Amsterdam1.Level3.net (4.69.153.190)  4.715 ms ae-58-113.csw1.Amsterdam1.Level3.net (4.69.153.194)  4.487 ms
+15  ae-115-3501.edge5.Amsterdam1.Level3.net (4.69.162.130)  17.392 ms ae-117-3503.edge5.Amsterdam1.Level3.net (4.69.162.138)  4.977 ms ae-115-3501.edge5.Amsterdam1.Level3.net (4.69.162.130)  4.485 ms
+16  CABLE-WIREL.edge5.Amsterdam1.Level3.net (212.72.41.234)  6.048 ms  6.005 ms  6.007 ms
+17  ae8-xcr1.lsw.cw.net (195.2.25.93)  14.435 ms  14.410 ms  13.834 ms
+18  ae12-xcr1.lns.cw.net (195.2.28.26)  23.393 ms  14.470 ms  23.378 ms
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

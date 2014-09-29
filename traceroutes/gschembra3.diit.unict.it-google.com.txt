@@ -1,0 +1,13 @@
+traceroute to google.com (173.194.35.38), 30 hops max, 60 byte packets
+ 1  ing-gw2.cdc.unict.it (151.97.6.6)  5.703 ms  5.680 ms  5.665 ms
+ 2  151.97.19.161 (151.97.19.161)  6.563 ms  6.940 ms  7.056 ms
+ 3  192.168.255.73 (192.168.255.73)  6.093 ms  6.208 ms  6.318 ms
+ 4  ru-uni-logical-ip-ct.ct1.garr.net (193.206.137.66)  6.037 ms  6.022 ms  6.007 ms
+ 5  rx1-ct1-rx1-bo1.bo1.garr.net (90.147.80.189)  26.810 ms  27.439 ms  27.023 ms
+ 6  rx1-bo1-rx1-mi1.mi1.garr.net (90.147.80.109)  28.825 ms  27.682 ms  29.443 ms
+ 7  rx1-mi1-r-mi1.mi1.garr.net (90.147.80.93)  28.005 ms rx1-mi1-rx1-mi2.mi2.garr.net (90.147.80.82)  26.820 ms  29.501 ms
+ 8  r-mi1-r-mi2.mi2.garr.net (90.147.80.17)  28.294 ms rx1-mi2-r-mi2.mi2.garr.net (90.147.80.73)  28.284 ms r-mi1-r-mi2.mi2.garr.net (90.147.80.17)  30.191 ms
+ 9  r-mi2-google.mi2.garr.net (193.206.129.130)  31.843 ms  31.837 ms  31.813 ms
+10  216.239.47.128 (216.239.47.128)  32.550 ms  27.738 ms  30.259 ms
+11  209.85.241.67 (209.85.241.67)  33.292 ms  33.402 ms  28.179 ms
+12  mil01s17-in-f6.1e100.net (173.194.35.38)  29.588 ms  29.552 ms  30.411 ms

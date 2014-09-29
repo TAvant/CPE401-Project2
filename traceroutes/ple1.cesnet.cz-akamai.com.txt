@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.189.239), 30 hops max, 60 byte packets
+ 1  195.113.161.1 (195.113.161.1)  1.428 ms  1.532 ms  1.619 ms
+ 2  prag-b3-pos4-0.telia.net (213.248.77.117)  0.608 ms  0.726 ms  0.717 ms
+ 3  prag-bb1-link.telia.net (80.91.249.225)  0.705 ms prag-bb1-link.telia.net (213.155.131.64)  0.692 ms  0.738 ms
+ 4  hbg-bb1-link.telia.net (62.115.136.58)  13.931 ms hbg-bb2-link.telia.net (213.155.136.126)  25.829 ms hbg-bb1-link.telia.net (213.155.136.132)  13.977 ms
+ 5  ldn-bb1-link.telia.net (80.91.245.5)  27.900 ms  27.967 ms ldn-bb1-link.telia.net (80.91.250.221)  27.877 ms
+ 6  ldn-b3-link.telia.net (213.155.133.3)  32.398 ms ldn-b3-link.telia.net (80.91.249.170)  32.389 ms ldn-b3-link.telia.net (80.91.251.237)  37.032 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,885 @@
+,Planet-Lab Node, Domain Name, IP Address, RTT (ms)
+1,75-130-96-12.static.oxfr.ma.charter.com,akamai.com,23.66.173.239,N/A
+2,75-130-96-12.static.oxfr.ma.charter.com,google.com,173.194.121.9,2 8 . 8 2 4
+3,75-130-96-13.static.oxfr.ma.charter.com,akamai.com,23.208.141.239,N/A
+4,75-130-96-13.static.oxfr.ma.charter.com,google.com,173.194.121.0,2 9 . 0 5 4
+5,aguila1.lsi.upc.edu,akamai.com,23.204.253.239,N/A
+6,aguila1.lsi.upc.edu,google.com,91.213.30.173,N/A
+7,aguila2.lsi.upc.edu,akamai.com,23.52.189.239,N/A
+8,aguila2.lsi.upc.edu,google.com,91.213.30.151,N/A
+9,dfn-ple1.x-win.dfn.de,akamai.com,95.101.205.239,N/A
+10,dfn-ple1.x-win.dfn.de,google.com,173.194.69.102,1 6 . 2 5 9
+11,dplanet1.uoc.edu,akamai.com,23.52.189.239,N/A
+12,dplanet1.uoc.edu,google.com,173.194.34.231,1 6 . 7 2 9
+13,dplanet2.uoc.edu,akamai.com,23.67.13.239,N/A
+14,dplanet2.uoc.edu,google.com,173.194.34.232,1 7 . 7 1 4
+15,ebb.colgate.edu,akamai.com,23.66.173.239,N/A
+16,ebb.colgate.edu,google.com,74.125.228.78,1 6 . 3 3 3
+17,gschembra3.diit.unict.it,akamai.com,23.55.157.239,N/A
+18,gschembra3.diit.unict.it,google.com,173.194.35.38,3 0 . 4 1 1
+19,gschembra4.diit.unict.it,akamai.com,23.66.173.239,N/A
+20,gschembra4.diit.unict.it,google.com,173.194.35.33,2 3 . 6 5 1
+21,host1.planetlab.informatik.tu-darmstadt.de,akamai.com,23.34.189.239,N/A
+22,host1.planetlab.informatik.tu-darmstadt.de,google.com,173.194.116.206,2 . 1 6 5
+23,host2.planetlab.informatik.tu-darmstadt.de,akamai.com,23.34.189.239,N/A
+24,host2.planetlab.informatik.tu-darmstadt.de,google.com,173.194.112.195,1 . 7 4 5
+25,host3-plb.loria.fr,akamai.com,23.206.237.239,N/A
+26,host3-plb.loria.fr,google.com,173.194.34.2,6 . 3 7 8
+27,host4-plb.loria.fr,akamai.com,95.100.157.239,N/A
+28,host4-plb.loria.fr,google.com,173.194.34.4,6 . 3 9 2
+29,inriarennes1.irisa.fr,akamai.com,23.54.141.239,N/A
+30,inriarennes1.irisa.fr,google.com,74.125.196.101,1 0 0 . 4 8 8
+31,inriarennes2.irisa.fr,akamai.com,23.40.205.239,N/A
+32,inriarennes2.irisa.fr,google.com,74.125.21.102,1 0 0 . 5 7 0
+33,iraplab1.iralab.uni-karlsruhe.de,akamai.com,23.200.173.239,N/A
+34,iraplab1.iralab.uni-karlsruhe.de,google.com,173.194.113.14,3 . 0 7 0
+35,iraplab2.iralab.uni-karlsruhe.de,akamai.com,23.200.173.239,N/A
+36,iraplab2.iralab.uni-karlsruhe.de,google.com,173.194.113.0,3 . 0 4 7
+37,jupiter.cs.brown.edu,akamai.com,23.66.173.239,N/A
+38,jupiter.cs.brown.edu,google.com,4.53.56.109,N/A
+39,jupiter.planetlab.carleton.ca,akamai.com,23.197.173.239,N/A
+40,jupiter.planetlab.carleton.ca,google.com,74.125.226.110,5 . 5 7 5
+41,kc-sce-plab1.umkc.edu,akamai.com,23.66.173.239,N/A
+42,kc-sce-plab1.umkc.edu,google.com,74.125.198.138,2 0 . 8 6 8
+43,kc-sce-plab2.umkc.edu,akamai.com,23.1.125.239,N/A
+44,kc-sce-plab2.umkc.edu,google.com,74.125.198.102,3 3 . 1 3 9
+45,kostis.di.uoa.gr,akamai.com,23.52.61.239,N/A
+46,kostis.di.uoa.gr,google.com,173.194.116.133,4 8 . 4 8 2
+47,kupl1.ittc.ku.edu,akamai.com,23.63.189.239,N/A
+48,kupl1.ittc.ku.edu,google.com,173.194.46.71,3 9 . 5 4 1
+49,kupl2.ittc.ku.edu,akamai.com,23.7.125.239,N/A
+50,kupl2.ittc.ku.edu,google.com,173.194.46.66,3 9 . 4 7 0
+51,lefthand.eecs.harvard.edu,akamai.com,23.59.205.239,N/A
+52,lefthand.eecs.harvard.edu,google.com,4.53.56.109,N/A
+53,lim-planetlab-1.univ-reunion.fr,akamai.com,95.100.157.239,N/A
+54,lim-planetlab-1.univ-reunion.fr,google.com,194.199.78.15,N/A
+55,lim-planetlab-2.univ-reunion.fr,akamai.com,23.212.205.239,N/A
+56,lim-planetlab-2.univ-reunion.fr,google.com,194.199.78.15,N/A
+57,mars.planetlab.haw-hamburg.de,akamai.com,23.212.205.239,N/A
+58,mars.planetlab.haw-hamburg.de,google.com,173.194.113.128,8 . 4 8 2
+59,mercury.silicon-valley.ru,akamai.com,23.34.189.239,N/A
+60,mercury.silicon-valley.ru,google.com,173.194.32.160,N/A
+61,merkur.planetlab.haw-hamburg.de,akamai.com,23.212.205.239,N/A
+62,merkur.planetlab.haw-hamburg.de,google.com,173.194.113.128,8 . 4 6 3
+63,miranda.planetlab.cs.umd.edu,akamai.com,23.66.173.239,N/A
+64,miranda.planetlab.cs.umd.edu,google.com,74.125.228.228,3 . 9 6 5
+65,mtuplanetlab1.cs.mtu.edu,akamai.com,23.66.173.239,N/A
+66,mtuplanetlab1.cs.mtu.edu,google.com,192.122.185.27,N/A
+67,mtuplanetlab2.cs.mtu.edu,akamai.com,23.63.189.239,N/A
+68,mtuplanetlab2.cs.mtu.edu,google.com,192.122.185.53,N/A
+69,netapp6.cs.kookmin.ac.kr,akamai.com,23.38.173.239,N/A
+70,netapp6.cs.kookmin.ac.kr,google.com,74.125.235.142,1 3 4 . 2 3 2
+71,netapp7.cs.kookmin.ac.kr,akamai.com,96.7.109.239,N/A
+72,netapp7.cs.kookmin.ac.kr,google.com,74.125.235.71,6 1 . 3 3 5
+73,node1.planetlab.albany.edu,akamai.com,23.79.77.239,N/A
+74,node1.planetlab.albany.edu,google.com,74.125.226.169,4 . 0 4 8
+75,node1pl.planet-lab.telecom-lille1.eu,akamai.com,23.54.141.239,N/A
+76,node1pl.planet-lab.telecom-lille1.eu,google.com,173.194.40.192,5 . 7 9 6
+77,node2.planetlab.mathcs.emory.edu,akamai.com,23.66.173.239,N/A
+78,node2.planetlab.mathcs.emory.edu,google.com,143.215.193.245,N/A
+79,node2pl.planet-lab.telecom-lille1.eu,akamai.com,23.38.93.239,N/A
+80,node2pl.planet-lab.telecom-lille1.eu,google.com,173.194.40.196,3 9 . 5 1 8
+81,onelab1.info.ucl.ac.be,akamai.com,23.212.205.239,N/A
+82,onelab1.info.ucl.ac.be,google.com,173.194.41.164,1 6 . 0 3 2
+83,onelab2.warsaw.rd.tp.pl,akamai.com,23.44.221.239,N/A
+84,onelab2.warsaw.rd.tp.pl,google.com,173.194.116.105,2 2 . 1 4 7
+85,onelab3.info.ucl.ac.be,akamai.com,23.212.205.239,N/A
+86,onelab3.info.ucl.ac.be,google.com,173.194.41.135,2 0 . 4 2 6
+87,onelab3.warsaw.rd.tp.pl,akamai.com,95.101.205.239,N/A
+88,onelab3.warsaw.rd.tp.pl,google.com,173.194.113.35,2 0 . 7 0 7
+89,onelab4.warsaw.rd.tp.pl,akamai.com,95.100.157.239,N/A
+90,onelab4.warsaw.rd.tp.pl,google.com,173.194.116.110,2 0 . 6 8 4
+91,ops.ii.uam.es,akamai.com,23.200.173.239,N/A
+92,ops.ii.uam.es,google.com,173.194.41.238,2 . 8 3 0
+93,orval.infonet.fundp.ac.be,akamai.com,23.212.205.239,N/A
+94,orval.infonet.fundp.ac.be,google.com,74.125.136.101,1 4 . 3 9 8
+95,osiris.planetlab.cs.umd.edu,akamai.com,23.66.173.239,N/A
+96,osiris.planetlab.cs.umd.edu,google.com,74.125.228.231,3 . 5 5 5
+98,pandora.we.po.opole.pl,google.com,212.191.227.91,N/A
+99,peeramide.irisa.fr,akamai.com,95.101.216.97,N/A
+100,peeramide.irisa.fr,google.com,74.125.21.101,9 9 . 5 9 4
+101,peeramidion.irisa.fr,akamai.com,23.198.93.239,N/A
+102,peeramidion.irisa.fr,google.com,74.125.196.138,1 0 1 . 1 0 1
+103,pl-node-0.csl.sri.com,akamai.com,23.66.173.239,N/A
+104,pl-node-0.csl.sri.com,google.com,74.125.239.133,4 . 3 5 5
+105,pl-node-1.csl.sri.com,akamai.com,23.66.173.239,N/A
+106,pl-node-1.csl.sri.com,google.com,74.125.239.7,1 2 . 6 4 7
+107,pl001.ece.upatras.gr,akamai.com,23.34.189.239,N/A
+108,pl001.ece.upatras.gr,google.com,173.194.113.41,5 1 . 0 8 6
+109,pl002.ece.upatras.gr,akamai.com,23.34.189.239,N/A
+110,pl002.ece.upatras.gr,google.com,173.194.112.1,4 6 . 8 2 9
+111,pl01.comp.polyu.edu.hk,akamai.com,96.7.109.239,N/A
+112,pl01.comp.polyu.edu.hk,google.com,173.194.127.228,2 . 0 1 8
+113,pl1.6test.edu.cn,akamai.com,96.7.109.239,N/A
+114,pl1.6test.edu.cn,google.com,173.194.127.71,1 7 5 . 9 3 4
+115,pl1.bell-labs.fr,akamai.com,23.52.189.239,N/A
+116,pl1.bell-labs.fr,google.com,173.194.40.194,2 . 7 5 8
+117,pl1.cis.uab.edu,akamai.com,23.66.173.239,N/A
+118,pl1.cis.uab.edu,google.com,74.125.21.113,4 . 1 9 3
+119,pl1.cs.montana.edu,akamai.com,23.55.221.239,N/A
+120,pl1.cs.montana.edu,google.com,173.194.33.101,1 6 . 0 4 4
+121,pl1.cs.yale.edu,akamai.com,23.9.29.239,N/A
+122,pl1.cs.yale.edu,google.com,173.194.121.4,1 0 . 8 5 4
+123,pl1.csl.utoronto.ca,akamai.com,23.74.77.239,N/A
+124,pl1.csl.utoronto.ca,google.com,74.125.226.103,0 . 6 3 8
+125,pl1.eecs.utk.edu,akamai.com,23.79.77.239,N/A
+126,pl1.eecs.utk.edu,google.com,143.215.193.217,N/A
+127,pl1.eng.monash.edu.au,akamai.com,23.52.189.239,N/A
+128,pl1.eng.monash.edu.au,google.com,74.125.237.161,1 3 . 4 7 7
+129,pl1.rcc.uottawa.ca,akamai.com,23.210.157.239,N/A
+130,pl1.rcc.uottawa.ca,google.com,74.125.225.130,3 2 . 6 1 4
+131,pl1.sos.info.hiroshima-cu.ac.jp,akamai.com,23.67.189.239,N/A
+132,pl1.sos.info.hiroshima-cu.ac.jp,google.com,173.194.38.36,9 . 0 4 5
+133,pl2.6test.edu.cn,akamai.com,96.7.109.239,N/A
+134,pl2.6test.edu.cn,google.com,173.194.127.228,1 7 6 . 5 6 7
+135,pl2.bell-labs.fr,akamai.com,95.101.205.239,N/A
+136,pl2.bell-labs.fr,google.com,173.194.40.195,2 . 6 7 1
+137,pl2.ccsrfi.net,akamai.com,23.212.205.239,N/A
+138,pl2.ccsrfi.net,google.com,173.194.41.136,2 . 8 1 7
+139,pl2.cis.uab.edu,akamai.com,23.66.173.239,N/A
+140,pl2.cis.uab.edu,google.com,74.125.21.139,4 . 1 7 2
+141,pl2.cs.montana.edu,akamai.com,23.66.173.239,N/A
+142,pl2.cs.montana.edu,google.com,173.194.33.99,1 6 . 3 5 7
+143,pl2.cs.yale.edu,akamai.com,23.63.189.239,N/A
+144,pl2.cs.yale.edu,google.com,74.125.228.104,1 0 . 3 3 7
+145,pl2.eecs.utk.edu,akamai.com,23.66.173.239,N/A
+146,pl2.eecs.utk.edu,google.com,143.215.193.238,N/A
+147,pl2.eng.monash.edu.au,akamai.com,2.23.205.239,N/A
+148,pl2.eng.monash.edu.au,google.com,74.125.237.166,1 3 . 3 2 9
+149,pl2.rcc.uottawa.ca,akamai.com,23.33.237.239,N/A
+150,pl2.rcc.uottawa.ca,google.com,74.125.225.105,2 1 . 0 6 1
+151,pl2.sos.info.hiroshima-cu.ac.jp,akamai.com,23.44.141.239,N/A
+152,pl2.sos.info.hiroshima-cu.ac.jp,google.com,173.194.38.41,9 . 0 5 0
+153,pl2.uni-rostock.de,akamai.com,23.52.61.239,N/A
+155,pl2.zju.edu.cn,akamai.com,23.67.189.239,N/A
+156,pl2.zju.edu.cn,google.com,74.125.128.100,2 7 0 . 0 4 3
+157,plab-1.diegm.uniud.it,akamai.com,23.38.93.239,N/A
+158,plab-1.diegm.uniud.it,google.com,173.194.35.4,1 3 . 2 0 2
+159,plab1.create-net.org,akamai.com,23.14.205.239,N/A
+160,plab1.create-net.org,google.com,173.194.35.8,1 1 . 5 0 3
+161,plab1.cs.msu.ru,akamai.com,23.34.189.239,N/A
+162,plab1.cs.msu.ru,google.com,173.194.32.168,1 . 5 6 9
+163,plab1.engr.sjsu.edu,akamai.com,23.75.109.239,N/A
+164,plab1.engr.sjsu.edu,google.com,74.125.239.103,3 . 5 0 5
+165,plab2.create-net.org,akamai.com,23.51.189.239,N/A
+166,plab2.create-net.org,google.com,193.206.135.23,N/A
+167,plab2.ple.silweb.pl,akamai.com,23.34.189.239,N/A
+168,plab2.ple.silweb.pl,google.com,195.149.238.216,N/A
+169,plab3.eece.ksu.edu,akamai.com,23.52.189.239,N/A
+170,plab3.eece.ksu.edu,google.com,74.125.227.96,4 9 . 8 3 5
+171,plab4.eece.ksu.edu,akamai.com,23.38.173.239,N/A
+172,plab4.eece.ksu.edu,google.com,74.125.227.105,4 6 . 5 4 6
+173,plab4.ple.silweb.pl,akamai.com,23.212.205.239,N/A
+174,plab4.ple.silweb.pl,google.com,195.149.238.245,N/A
+175,planck227ple.test.ibbt.be,akamai.com,95.101.205.239,N/A
+176,planck227ple.test.ibbt.be,google.com,173.194.34.129,1 6 . 9 6 7
+177,planet-lab-node1.netgroup.uniroma2.it,akamai.com,95.101.216.97,N/A
+178,planet-lab-node1.netgroup.uniroma2.it,google.com,173.194.40.7,1 1 . 9 3 7
+179,planet-lab-node2.netgroup.uniroma2.it,akamai.com,23.55.157.239,N/A
+180,planet-lab-node2.netgroup.uniroma2.it,google.com,173.194.40.1,1 2 . 1 2 3
+181,planet-lab1.cs.ucr.edu,akamai.com,23.205.157.239,N/A
+182,planet-lab1.cs.ucr.edu,google.com,74.125.224.70,N/A
+183,planet-lab1.uba.ar,akamai.com,23.66.173.239,N/A
+184,planet-lab1.uba.ar,google.com,173.194.42.1,2 . 3 9 8
+185,planet-lab2.cs.ucr.edu,akamai.com,23.47.109.239,N/A
+186,planet-lab2.cs.ucr.edu,google.com,74.125.224.64,N/A
+187,planet-lab2.uba.ar,akamai.com,23.66.173.239,N/A
+188,planet-lab2.uba.ar,google.com,173.194.42.14,2 . 5 7 3
+189,planet-lab3.uba.ar,akamai.com,23.66.173.239,N/A
+190,planet-lab3.uba.ar,google.com,173.194.42.7,1 . 3 2 5
+191,planet-lab4.uba.ar,akamai.com,23.66.173.239,N/A
+192,planet-lab4.uba.ar,google.com,173.194.42.8,1 . 5 1 3
+193,planet-plc-1.mpi-sws.org,akamai.com,2.20.125.239,N/A
+194,planet-plc-1.mpi-sws.org,google.com,173.194.112.227,6 . 4 0 4
+195,planet-plc-2.mpi-sws.org,akamai.com,2.16.19.182,N/A
+196,planet-plc-2.mpi-sws.org,google.com,173.194.112.227,6 . 2 2 2
+197,planet-plc-3.mpi-sws.org,akamai.com,2.20.125.239,N/A
+198,planet-plc-3.mpi-sws.org,google.com,173.194.113.6,6 . 2 6 8
+199,planet-plc-4.mpi-sws.org,akamai.com,2.20.125.239,N/A
+200,planet-plc-4.mpi-sws.org,google.com,173.194.112.228,6 . 2 0 5
+201,planet-plc-5.mpi-sws.org,akamai.com,2.16.19.182,N/A
+202,planet-plc-5.mpi-sws.org,google.com,173.194.112.229,6 . 2 3 6
+203,planet1.cc.gt.atl.ga.us,akamai.com,23.66.173.239,N/A
+204,planet1.cc.gt.atl.ga.us,google.com,74.125.21.100,1 . 2 3 1
+205,planet1.dsp.ac.cn,akamai.com,23.47.189.239,N/A
+206,planet1.dsp.ac.cn,google.com,74.125.128.113,4 2 . 0 9 7
+207,planet1.elte.hu,akamai.com,23.212.205.239,N/A
+208,planet1.elte.hu,google.com,173.194.39.96,1 5 . 3 9 7
+209,planet1.ku.edu.tr,akamai.com,2.16.19.182,N/A
+210,planet1.ku.edu.tr,google.com,64.15.117.120,N/A
+211,planet1.l3s.uni-hannover.de,akamai.com,2.20.157.239,N/A
+212,planet1.l3s.uni-hannover.de,google.com,173.194.70.102,1 4 . 0 7 1
+213,planet1.pnl.nitech.ac.jp,akamai.com,23.44.157.239,N/A
+214,planet1.pnl.nitech.ac.jp,google.com,74.125.235.66,9 . 3 2 1
+215,planet1.servers.ua.pt,akamai.com,23.52.189.239,N/A
+216,planet1.servers.ua.pt,google.com,173.194.45.7,5 . 7 5 3
+217,planet1.unipr.it,akamai.com,95.101.205.239,N/A
+218,planet1.unipr.it,google.com,173.194.116.5,5 . 9 9 3
+219,planet2.cc.gt.atl.ga.us,akamai.com,23.55.221.239,N/A
+220,planet2.cc.gt.atl.ga.us,google.com,74.125.21.100,7 . 9 6 9
+221,planet2.dsp.ac.cn,akamai.com,23.194.173.239,N/A
+222,planet2.dsp.ac.cn,google.com,173.194.127.167,4 0 . 8 0 1
+223,planet2.elte.hu,akamai.com,23.200.173.239,N/A
+224,planet2.elte.hu,google.com,173.194.39.101,1 5 . 1 1 0
+225,planet2.inf.tu-dresden.de,akamai.com,2.16.19.182,N/A
+226,planet2.inf.tu-dresden.de,google.com,173.194.32.196,1 4 . 4 3 9
+227,planet2.ku.edu.tr,akamai.com,23.34.189.239,N/A
+228,planet2.ku.edu.tr,google.com,173.194.112.102,7 4 . 0 5 4
+229,planet2.l3s.uni-hannover.de,akamai.com,23.54.77.239,N/A
+230,planet2.l3s.uni-hannover.de,google.com,173.194.70.139,1 3 . 9 4 5
+231,planet2.pnl.nitech.ac.jp,akamai.com,23.44.141.239,N/A
+232,planet2.pnl.nitech.ac.jp,google.com,74.125.235.72,9 . 5 5 9
+233,planet2.servers.ua.pt,akamai.com,23.52.189.239,N/A
+234,planet2.servers.ua.pt,google.com,173.194.45.14,5 . 7 6 4
+235,planet2.unipr.it,akamai.com,23.55.157.239,N/A
+236,planet2.unipr.it,google.com,173.194.116.2,5 . 0 9 9
+237,planet3.cs.ucsb.edu,akamai.com,23.210.157.239,N/A
+238,planet3.cs.ucsb.edu,google.com,74.125.224.164,3 . 2 9 0
+239,planet4.cc.gt.atl.ga.us,akamai.com,23.66.173.239,N/A
+240,planet4.cc.gt.atl.ga.us,google.com,74.125.21.102,3 . 2 8 1
+241,planet4.cs.ucsb.edu,akamai.com,184.85.73.124,N/A
+242,planet4.cs.ucsb.edu,google.com,74.125.224.199,3 . 3 7 7
+243,planetlab-01.bu.edu,akamai.com,23.66.173.239,N/A
+244,planetlab-01.bu.edu,google.com,4.53.56.123,N/A
+245,planetlab-01.cs.princeton.edu,akamai.com,23.63.189.239,N/A
+246,planetlab-01.cs.princeton.edu,google.com,206.111.13.22,N/A
+247,planetlab-01.vt.nodes.planet-lab.org,akamai.com,69.192.248.97,N/A
+248,planetlab-01.vt.nodes.planet-lab.org,google.com,74.125.228.64,9 . 6 7 7
+249,planetlab-02.bu.edu,akamai.com,23.66.173.239,N/A
+250,planetlab-02.bu.edu,google.com,4.53.56.104,N/A
+251,planetlab-02.vt.nodes.planet-lab.org,akamai.com,23.202.68.188,N/A
+252,planetlab-02.vt.nodes.planet-lab.org,google.com,74.125.228.69,9 . 5 4 8
+253,planetlab-03.cs.princeton.edu,akamai.com,23.66.173.239,N/A
+254,planetlab-03.cs.princeton.edu,google.com,206.111.13.55,N/A
+255,planetlab-03.vt.nodes.planet-lab.org,akamai.com,23.66.173.239,N/A
+256,planetlab-03.vt.nodes.planet-lab.org,google.com,74.125.228.2,9 . 6 4 2
+257,planetlab-04.cs.princeton.edu,akamai.com,23.55.221.239,N/A
+258,planetlab-04.cs.princeton.edu,google.com,206.111.13.23,N/A
+259,planetlab-04.vt.nodes.planet-lab.org,akamai.com,23.52.189.239,N/A
+260,planetlab-04.vt.nodes.planet-lab.org,google.com,74.125.228.5,9 . 5 0 4
+261,planetlab-1.cau.ac.kr,akamai.com,23.51.93.239,N/A
+262,planetlab-1.cau.ac.kr,google.com,173.194.117.199,3 4 . 7 5 8
+263,planetlab-1.cs.auckland.ac.nz,akamai.com,96.7.109.239,N/A
+264,planetlab-1.cs.auckland.ac.nz,google.com,74.125.237.169,3 5 . 6 1 9
+265,planetlab-1.cs.colostate.edu,akamai.com,23.74.77.239,N/A
+266,planetlab-1.cs.colostate.edu,google.com,74.125.225.169,2 . 8 8 2
+267,planetlab-1.cs.ucy.ac.cy,akamai.com,95.100.157.239,N/A
+268,planetlab-1.cs.ucy.ac.cy,google.com,173.194.70.102,N/A
+269,planetlab-1.cs.uic.edu,akamai.com,23.66.173.239,N/A
+270,planetlab-1.cs.uic.edu,google.com,74.125.225.135,2 . 2 0 9
+271,planetlab-1.cse.ohio-state.edu,akamai.com,23.7.125.239,N/A
+272,planetlab-1.cse.ohio-state.edu,google.com,173.194.46.72,2 5 . 3 3 8
+273,planetlab-1.imperial.ac.uk,akamai.com,2.23.205.239,N/A
+274,planetlab-1.imperial.ac.uk,google.com,173.194.41.128,1 . 3 6 2
+275,planetlab-1.research.netlab.hut.fi,akamai.com,23.52.189.239,N/A
+276,planetlab-1.research.netlab.hut.fi,google.com,74.125.143.100,1 7 . 1 1 5
+277,planetlab-1.scie.uestc.edu.cn,akamai.com,96.7.109.239,N/A
+278,planetlab-1.scie.uestc.edu.cn,google.com,173.194.127.199,N/A
+279,planetlab-1.sjtu.edu.cn,akamai.com,96.7.109.239,N/A
+280,planetlab-1.sjtu.edu.cn,google.com,173.194.127.37,3 3 7 . 4 0 3
+281,planetlab-1.tagus.ist.utl.pt,akamai.com,23.34.189.239,N/A
+282,planetlab-1.tagus.ist.utl.pt,google.com,173.194.41.198,2 . 1 5 8
+283,planetlab-12.e5.ijs.si,akamai.com,23.55.237.239,N/A
+284,planetlab-12.e5.ijs.si,google.com,173.194.70.138,2 3 . 3 6 8
+285,planetlab-2.calpoly-netlab.net,akamai.com,23.210.157.239,N/A
+286,planetlab-2.calpoly-netlab.net,google.com,74.125.28.100,2 8 . 0 4 0
+287,planetlab-2.cau.ac.kr,akamai.com,23.47.189.239,N/A
+288,planetlab-2.cau.ac.kr,google.com,173.194.117.196,3 4 . 5 4 8
+289,planetlab-2.cmcl.cs.cmu.edu,akamai.com,23.66.173.239,N/A
+290,planetlab-2.cmcl.cs.cmu.edu,google.com,74.125.228.197,8 . 7 8 7
+291,planetlab-2.cs.auckland.ac.nz,akamai.com,23.204.253.239,N/A
+292,planetlab-2.cs.auckland.ac.nz,google.com,74.125.237.165,3 5 . 2 5 8
+293,planetlab-2.cs.colostate.edu,akamai.com,23.74.77.239,N/A
+294,planetlab-2.cs.colostate.edu,google.com,74.125.225.174,3 . 0 4 7
+295,planetlab-2.cs.uic.edu,akamai.com,23.63.189.239,N/A
+296,planetlab-2.cs.uic.edu,google.com,74.125.225.110,2 . 0 7 5
+297,planetlab-2.cse.ohio-state.edu,akamai.com,23.66.173.239,N/A
+298,planetlab-2.cse.ohio-state.edu,google.com,173.194.46.64,3 3 . 1 9 4
+299,planetlab-2.ida.liu.se,akamai.com,23.54.77.239,N/A
+300,planetlab-2.ida.liu.se,google.com,74.125.232.98,3 . 7 3 3
+301,planetlab-2.imperial.ac.uk,akamai.com,2.22.141.239,N/A
+302,planetlab-2.imperial.ac.uk,google.com,173.194.41.142,1 . 2 7 8
+303,planetlab-2.ing.unimo.it,akamai.com,95.101.205.239,N/A
+304,planetlab-2.ing.unimo.it,google.com,74.125.232.137,8 . 6 4 5
+305,planetlab-2.man.poznan.pl,akamai.com,95.101.205.239,N/A
+306,planetlab-2.man.poznan.pl,google.com,173.194.70.139,2 1 . 2 9 9
+307,planetlab-2.research.netlab.hut.fi,akamai.com,23.54.77.239,N/A
+308,planetlab-2.research.netlab.hut.fi,google.com,74.125.143.139,1 7 . 4 5 1
+309,planetlab-2.scie.uestc.edu.cn,akamai.com,95.100.157.239,N/A
+310,planetlab-2.scie.uestc.edu.cn,google.com,173.194.127.70,N/A
+311,planetlab-2.sjtu.edu.cn,akamai.com,96.7.109.239,N/A
+312,planetlab-2.sjtu.edu.cn,google.com,74.125.128.113,3 4 3 . 8 5 5
+313,planetlab-2.sysu.edu.cn,akamai.com,23.66.173.239,N/A
+314,planetlab-2.sysu.edu.cn,google.com,74.125.128.113,3 6 2 . 5 7 2
+315,planetlab-2.tagus.ist.utl.pt,akamai.com,23.34.189.239,N/A
+316,planetlab-2.tagus.ist.utl.pt,google.com,173.194.41.199,2 . 2 5 5
+317,planetlab-2.usask.ca,akamai.com,23.66.173.239,N/A
+318,planetlab-2.usask.ca,google.com,142.165.4.152,*
+319,planetlab-3.cmcl.cs.cmu.edu,akamai.com,23.66.173.239,N/A
+320,planetlab-3.cmcl.cs.cmu.edu,google.com,74.125.228.197,8 . 7 7 7
+321,planetlab-3.cs.ucy.ac.cy,akamai.com,23.54.77.239,N/A
+322,planetlab-3.cs.ucy.ac.cy,google.com,173.194.70.102,N/A
+323,planetlab-3.imperial.ac.uk,akamai.com,2.22.141.239,N/A
+324,planetlab-3.imperial.ac.uk,google.com,173.194.41.137,1 . 2 7 4
+325,planetlab-4.cs.ucy.ac.cy,akamai.com,2.19.125.239,N/A
+326,planetlab-4.cs.ucy.ac.cy,google.com,173.194.70.100,N/A
+327,planetlab-4.eecs.cwru.edu,akamai.com,23.55.221.239,N/A
+328,planetlab-4.eecs.cwru.edu,google.com,173.194.46.71,1 4 . 8 3 8
+329,planetlab-4.imperial.ac.uk,akamai.com,23.52.189.239,N/A
+330,planetlab-4.imperial.ac.uk,google.com,173.194.41.131,1 . 2 7 8
+331,planetlab-5.eecs.cwru.edu,akamai.com,23.66.173.239,N/A
+332,planetlab-5.eecs.cwru.edu,google.com,74.125.225.130,1 3 . 7 1 6
+333,planetlab-coffee.ait.ie,akamai.com,23.54.77.239,N/A
+334,planetlab-coffee.ait.ie,google.com,74.125.24.113,2 . 7 4 4
+335,planetlab-node-01.ucd.ie,akamai.com,184.86.184.97,N/A
+336,planetlab-node-01.ucd.ie,google.com,74.125.24.139,0 . 7 8 5
+337,planetlab-node1.it-sudparis.eu,akamai.com,23.55.157.239,N/A
+338,planetlab-node1.it-sudparis.eu,google.com,173.194.34.9,2 . 7 3 5
+339,planetlab-node3.it-sudparis.eu,akamai.com,23.55.157.239,N/A
+340,planetlab-node3.it-sudparis.eu,google.com,173.194.34.8,2 . 6 6 6
+341,planetlab-tea.ait.ie,akamai.com,23.34.189.239,N/A
+342,planetlab-tea.ait.ie,google.com,74.125.24.113,2 . 7 9 1
+343,planetlab-um00.di.uminho.pt,akamai.com,2.20.157.239,N/A
+344,planetlab-um00.di.uminho.pt,google.com,173.194.41.201,6 . 6 3 3
+345,planetlab0.otemachi.wide.ad.jp,akamai.com,23.44.141.239,N/A
+346,planetlab0.otemachi.wide.ad.jp,google.com,74.125.235.96,0 . 8 9 9
+347,planetlab01.alucloud.com,akamai.com,23.66.173.239,N/A
+348,planetlab01.alucloud.com,google.com,74.125.142.138,1 5 . 7 8 5
+349,planetlab01.cs.washington.edu,akamai.com,23.47.189.239,N/A
+350,planetlab01.cs.washington.edu,google.com,173.194.33.131,1 . 0 0 7
+351,planetlab01.tkn.tu-berlin.de,akamai.com,23.44.221.239,N/A
+352,planetlab01.tkn.tu-berlin.de,google.com,173.194.32.233,1 . 4 1 5
+353,planetlab02.alucloud.com,akamai.com,23.40.205.239,N/A
+354,planetlab02.alucloud.com,google.com,74.125.142.100,1 3 . 2 3 3
+355,planetlab02.cs.washington.edu,akamai.com,23.74.77.239,N/A
+356,planetlab02.cs.washington.edu,google.com,173.194.33.128,0 . 9 5 3
+357,planetlab02.just.edu.jo,akamai.com,23.37.157.239,N/A
+358,planetlab02.just.edu.jo,google.com,213.139.49.82,N/A
+359,planetlab02.tkn.tu-berlin.de,akamai.com,23.52.61.239,N/A
+360,planetlab02.tkn.tu-berlin.de,google.com,173.194.32.226,1 . 4 6 5
+361,planetlab03.cs.washington.edu,akamai.com,23.74.77.239,N/A
+362,planetlab03.cs.washington.edu,google.com,173.194.33.134,1 . 2 8 3
+363,planetlab04.cs.washington.edu,akamai.com,23.55.221.239,N/A
+364,planetlab04.cs.washington.edu,google.com,173.194.33.142,1 . 2 1 0
+365,planetlab1.acis.ufl.edu,akamai.com,23.1.125.239,N/A
+366,planetlab1.acis.ufl.edu,google.com,173.194.37.136,1 4 . 5 1 3
+367,planetlab1.arizona-gigapop.net,akamai.com,23.66.173.239,N/A
+368,planetlab1.arizona-gigapop.net,google.com,74.125.227.165,2 4 . 6 0 6
+369,planetlab1.bgu.ac.il,akamai.com,23.34.189.239,N/A
+370,planetlab1.bgu.ac.il,google.com,173.194.70.139,7 7 . 5 7 5
+371,planetlab1.buaa.edu.cn,akamai.com,23.51.93.239,N/A
+372,planetlab1.buaa.edu.cn,google.com,173.194.127.136,N/A
+373,planetlab1.c3sl.ufpr.br,akamai.com,23.66.173.239,N/A
+374,planetlab1.c3sl.ufpr.br,google.com,173.194.118.169,2 4 . 0 6 9
+375,planetlab1.cesnet.cz,akamai.com,23.34.189.239,N/A
+376,planetlab1.cesnet.cz,google.com,173.194.33.168,1 5 0 . 7 7 6
+377,planetlab1.ci.pwr.wroc.pl,akamai.com,23.212.205.239,N/A
+378,planetlab1.ci.pwr.wroc.pl,google.com,173.194.65.113,2 6 . 5 3 7
+379,planetlab1.cis.upenn.edu,akamai.com,23.67.205.239,N/A
+380,planetlab1.cis.upenn.edu,google.com,173.194.43.33,3 . 0 4 9
+381,planetlab1.clemson.edu,akamai.com,23.79.77.239,N/A
+382,planetlab1.clemson.edu,google.com,143.215.193.244,N/A
+383,planetlab1.cnds.jhu.edu,akamai.com,23.43.205.239,N/A
+384,planetlab1.cnds.jhu.edu,google.com,74.125.228.78,5 . 1 7 2
+385,planetlab1.cnis.nyit.edu,akamai.com,23.66.173.239,N/A
+386,planetlab1.cnis.nyit.edu,google.com,74.125.226.224,1 0 . 3 2 4
+387,planetlab1.comp.nus.edu.sg,akamai.com,96.7.109.239,N/A
+388,planetlab1.comp.nus.edu.sg,google.com,74.125.200.101,3 . 8 1 2
+389,planetlab1.cqupt.edu.cn,akamai.com,23.44.157.239,N/A
+390,planetlab1.cqupt.edu.cn,google.com,173.194.127.196,3 5 3 . 3 1 3
+391,planetlab1.cs.colorado.edu,akamai.com,23.59.205.239,N/A
+392,planetlab1.cs.colorado.edu,google.com,74.125.225.169,2 . 6 7 4
+393,planetlab1.cs.du.edu,akamai.com,23.44.157.239,N/A
+394,planetlab1.cs.du.edu,google.com,74.125.225.192,1 . 5 1 7
+395,planetlab1.cs.okstate.edu,akamai.com,23.66.173.239,N/A
+396,planetlab1.cs.okstate.edu,google.com,164.58.87.16,N/A
+397,planetlab1.cs.otago.ac.nz,akamai.com,23.62.253.239,N/A
+398,planetlab1.cs.otago.ac.nz,google.com,202.124.127.20,N/A
+399,planetlab1.cs.pitt.edu,akamai.com,23.1.125.239,N/A
+400,planetlab1.cs.pitt.edu,google.com,74.125.228.198,8 . 9 8 2
+401,planetlab1.cs.purdue.edu,akamai.com,23.63.189.239,N/A
+402,planetlab1.cs.purdue.edu,google.com,74.125.225.142,7 . 3 5 0
+403,planetlab1.cs.stevens-tech.edu,akamai.com,23.194.173.239,N/A
+404,planetlab1.cs.stevens-tech.edu,google.com,74.125.228.228,7 . 9 1 5
+405,planetlab1.cs.ubc.ca,akamai.com,23.74.77.239,N/A
+406,planetlab1.cs.ubc.ca,google.com,173.194.33.137,3 . 9 0 6
+407,planetlab1.cs.uit.no,akamai.com,23.34.189.239,N/A
+408,planetlab1.cs.uit.no,google.com,173.194.40.225,2 3 . 6 8 6
+409,planetlab1.cs.uiuc.edu,akamai.com,23.66.173.239,N/A
+410,planetlab1.cs.uiuc.edu,google.com,74.125.225.64,3 . 6 7 3
+411,planetlab1.cs.umass.edu,akamai.com,23.66.173.239,N/A
+412,planetlab1.cs.umass.edu,google.com,192.189.138.238,N/A
+413,planetlab1.cs.uml.edu,akamai.com,23.1.125.239,N/A
+414,planetlab1.cs.uml.edu,google.com,74.125.194.113,4 8 . 0 7 0
+415,planetlab1.cs.unc.edu,akamai.com,23.52.189.239,N/A
+416,planetlab1.cs.unc.edu,google.com,74.125.228.2,3 0 . 4 9 5
+417,planetlab1.cs.uoi.gr,akamai.com,23.56.61.239,N/A
+418,planetlab1.cs.uoi.gr,google.com,194.177.211.124,N/A
+419,planetlab1.cs.uoregon.edu,akamai.com,23.74.77.239,N/A
+420,planetlab1.cs.uoregon.edu,google.com,173.194.33.136,6 . 2 2 6
+421,planetlab1.cs.vu.nl,akamai.com,23.34.189.239,N/A
+422,planetlab1.cs.vu.nl,google.com,173.194.65.139,4 . 4 6 1
+423,planetlab1.csee.usf.edu,akamai.com,23.7.125.239,N/A
+424,planetlab1.csee.usf.edu,google.com,173.194.37.137,6 . 0 1 3
+425,planetlab1.csg.uzh.ch,akamai.com,23.34.189.239,N/A
+426,planetlab1.csg.uzh.ch,google.com,173.194.116.72,0 . 8 8 4
+427,planetlab1.csie.nuk.edu.tw,akamai.com,96.7.109.239,N/A
+428,planetlab1.csie.nuk.edu.tw,google.com,202.169.173.246,N/A
+429,planetlab1.csuohio.edu,akamai.com,23.66.173.239,N/A
+430,planetlab1.csuohio.edu,google.com,74.125.225.46,1 2 . 6 2 4
+431,planetlab1.cti.espol.edu.ec,akamai.com,23.66.173.239,N/A
+432,planetlab1.cti.espol.edu.ec,google.com,181.198.79.95,N/A
+433,planetlab1.di.unito.it,akamai.com,23.198.93.239,N/A
+434,planetlab1.di.unito.it,google.com,173.194.40.0,3 0 . 3 5 7
+435,planetlab1.dojima.wide.ad.jp,akamai.com,23.194.173.239,N/A
+436,planetlab1.dojima.wide.ad.jp,google.com,74.125.235.101,9 . 0 5 2
+437,planetlab1.ecs.vuw.ac.nz,akamai.com,23.74.77.239,N/A
+438,planetlab1.ecs.vuw.ac.nz,google.com,74.125.237.110,3 6 . 0 2 5
+439,planetlab1.eecs.jacobs-university.de,akamai.com,2.20.125.239,N/A
+440,planetlab1.eecs.jacobs-university.de,google.com,173.194.113.136,6 . 7 9 7
+441,planetlab1.eecs.ucf.edu,akamai.com,23.66.173.239,N/A
+442,planetlab1.eecs.ucf.edu,google.com,173.194.37.134,5 . 5 6 2
+443,planetlab1.eecs.umich.edu,akamai.com,23.66.173.239,N/A
+444,planetlab1.eecs.umich.edu,google.com,192.122.185.42,N/A
+445,planetlab1.eecs.wsu.edu,akamai.com,23.51.93.239,N/A
+446,planetlab1.eecs.wsu.edu,google.com,173.194.33.70,8 . 9 8 3
+447,planetlab1.esprit-tn.com,akamai.com,2.22.141.239,N/A
+448,planetlab1.esprit-tn.com,google.com,173.194.39.40,N/A
+449,planetlab1.eurecom.fr,akamai.com,23.206.237.239,N/A
+450,planetlab1.eurecom.fr,google.com,173.194.35.100,2 . 9 4 2
+451,planetlab1.exp-math.uni-essen.de,akamai.com,23.51.189.239,N/A
+452,planetlab1.exp-math.uni-essen.de,google.com,173.194.39.5,1 1 . 2 9 5
+453,planetlab1.extern.kuleuven.be,akamai.com,23.52.189.239,N/A
+454,planetlab1.extern.kuleuven.be,google.com,74.125.136.102,9 . 6 7 1
+455,planetlab1.fct.ualg.pt,akamai.com,95.101.205.239,N/A
+456,planetlab1.fct.ualg.pt,google.com,173.194.45.3,6 . 1 5 3
+457,planetlab1.fit.vutbr.cz,akamai.com,23.34.189.239,N/A
+458,planetlab1.fit.vutbr.cz,google.com,173.194.70.100,1 2 . 5 5 1
+459,planetlab1.ie.cuhk.edu.hk,akamai.com,23.34.189.239,N/A
+460,planetlab1.ie.cuhk.edu.hk,google.com,74.125.128.102,3 . 0 8 7
+461,planetlab1.ifi.uio.no,akamai.com,2.19.125.239,N/A
+462,planetlab1.ifi.uio.no,google.com,74.125.232.101,8 . 5 8 1
+463,planetlab1.informatik.uni-erlangen.de,akamai.com,95.101.205.239,N/A
+464,planetlab1.informatik.uni-erlangen.de,google.com,173.194.69.139,1 4 . 7 0 8
+465,planetlab1.informatik.uni-goettingen.de,akamai.com,23.52.61.239,N/A
+466,planetlab1.informatik.uni-goettingen.de,google.com,173.194.113.174,5 . 8 5 5
+467,planetlab1.informatik.uni-wuerzburg.de,akamai.com,2.22.141.239,N/A
+468,planetlab1.informatik.uni-wuerzburg.de,google.com,173.194.70.139,4 . 0 0 4
+469,planetlab1.ionio.gr,akamai.com,23.32.77.239,N/A
+470,planetlab1.ionio.gr,google.com,194.177.211.122,N/A
+471,planetlab1.jcp-consult.net,akamai.com,23.52.189.239,N/A
+472,planetlab1.jcp-consult.net,google.com,173.194.40.133,5 2 . 1 0 5
+473,planetlab1.jhu.edu,akamai.com,23.52.189.239,N/A
+474,planetlab1.jhu.edu,google.com,74.125.228.1,4 . 5 6 8
+475,planetlab1.just.edu.jo,akamai.com,23.51.93.239,N/A
+476,planetlab1.just.edu.jo,google.com,213.139.49.109,N/A
+477,planetlab1.lkn.ei.tum.de,akamai.com,23.32.77.239,N/A
+478,planetlab1.lkn.ei.tum.de,google.com,173.194.112.1,9 . 3 7 5
+479,planetlab1.mini.pw.edu.pl,akamai.com,23.59.125.239,N/A
+480,planetlab1.mini.pw.edu.pl,google.com,173.194.116.99,2 5 . 3 1 4
+481,planetlab1.montefiore.ulg.ac.be,akamai.com,95.101.205.239,N/A
+482,planetlab1.montefiore.ulg.ac.be,google.com,173.194.41.131,1 6 . 1 8 5
+483,planetlab1.mta.ac.il,akamai.com,2.16.19.182,N/A
+484,planetlab1.mta.ac.il,google.com,212.199.205.222,N/A
+485,planetlab1.netlab.uky.edu,akamai.com,23.204.253.239,N/A
+486,planetlab1.netlab.uky.edu,google.com,74.125.225.69,3 8 . 3 5 1
+487,planetlab1.nrl.eecs.qmul.ac.uk,akamai.com,23.34.189.239,N/A
+488,planetlab1.nrl.eecs.qmul.ac.uk,google.com,173.194.34.130,1 1 . 4 3 9
+489,planetlab1.otemachi.wide.ad.jp,akamai.com,23.44.157.239,N/A
+490,planetlab1.otemachi.wide.ad.jp,google.com,74.125.235.100,0 . 9 2 5
+491,planetlab1.pjwstk.edu.pl,akamai.com,23.59.125.239,N/A
+492,planetlab1.pjwstk.edu.pl,google.com,173.194.70.138,N/A
+493,planetlab1.polito.it,akamai.com,2.22.141.239,N/A
+494,planetlab1.polito.it,google.com,173.194.116.2,N/A
+495,planetlab1.pop-mg.rnp.br,akamai.com,23.44.177.150,N/A
+496,planetlab1.pop-mg.rnp.br,google.com,173.194.118.8,4 8 . 0 8 2
+497,planetlab1.pop-pa.rnp.br,akamai.com,96.7.109.239,N/A
+498,planetlab1.pop-pa.rnp.br,google.com,173.194.42.227,1 3 0 . 0 7 4
+499,planetlab1.postel.org,akamai.com,23.74.77.239,N/A
+500,planetlab1.postel.org,google.com,74.125.224.34,1 . 4 8 0
+501,planetlab1.rd.tut.fi,akamai.com,23.54.13.239,N/A
+502,planetlab1.rd.tut.fi,google.com,74.125.232.102,1 0 . 9 0 7
+503,planetlab1.rutgers.edu,akamai.com,23.66.173.239,N/A
+504,planetlab1.rutgers.edu,google.com,74.125.226.66,4 . 1 6 1
+505,planetlab1.s3.kth.se,akamai.com,23.34.189.239,N/A
+506,planetlab1.s3.kth.se,google.com,74.125.232.102,2 . 4 4 5
+507,planetlab1.science.unitn.it,akamai.com,23.14.205.239,N/A
+508,planetlab1.science.unitn.it,google.com,173.194.113.238,8 . 0 7 5
+509,planetlab1.sfc.wide.ad.jp,akamai.com,23.47.189.239,N/A
+510,planetlab1.sfc.wide.ad.jp,google.com,173.194.117.226,2 . 1 6 5
+511,planetlab1.sics.se,akamai.com,23.12.29.239,N/A
+512,planetlab1.sics.se,google.com,173.194.40.229,1 . 2 5 3
+513,planetlab1.temple.edu,akamai.com,23.39.141.239,N/A
+514,planetlab1.temple.edu,google.com,173.194.43.40,5 . 5 2 1
+515,planetlab1.thlab.net,akamai.com,23.52.189.239,N/A
+516,planetlab1.thlab.net,google.com,173.194.41.136,1 2 . 8 9 9
+517,planetlab1.tlm.unavarra.es,akamai.com,23.67.13.239,N/A
+518,planetlab1.tlm.unavarra.es,google.com,173.194.34.233,1 6 . 9 1 6
+519,planetlab1.tmit.bme.hu,akamai.com,23.54.77.239,N/A
+520,planetlab1.tmit.bme.hu,google.com,173.194.39.99,1 5 . 5 2 8
+521,planetlab1.tsuniv.edu,akamai.com,23.7.125.239,N/A
+522,planetlab1.tsuniv.edu,google.com,74.125.21.113,1 9 . 5 0 3
+523,planetlab1.ucsd.edu,akamai.com,23.55.221.239,N/A
+524,planetlab1.ucsd.edu,google.com,74.125.224.197,9 . 8 9 1
+525,planetlab1.unineuchatel.ch,akamai.com,23.51.189.239,N/A
+526,planetlab1.unineuchatel.ch,google.com,173.194.116.40,2 . 7 8 8
+527,planetlab1.unl.edu,akamai.com,23.63.189.239,N/A
+528,planetlab1.unl.edu,google.com,74.125.225.103,N/A
+529,planetlab1.unr.edu,akamai.com,23.66.173.239,N/A
+530,planetlab1.unr.edu,google.com,74.125.25.113,4 2 . 4 0 7
+531,planetlab1.upc.es,akamai.com,2.23.205.239,N/A
+532,planetlab1.upc.es,google.com,91.213.30.143,N/A
+534,planetlab1.upm.ro,google.com,217.73.160.249,N/A
+535,planetlab1.urv.cat,akamai.com,2.23.205.239,N/A
+536,planetlab1.urv.cat,google.com,173.194.34.224,2 3 . 9 6 8
+537,planetlab1.uta.edu,akamai.com,23.75.109.239,N/A
+538,planetlab1.uta.edu,google.com,74.125.227.103,1 . 1 5 6
+539,planetlab1.utdallas.edu,akamai.com,23.66.173.239,N/A
+540,planetlab1.utdallas.edu,google.com,208.76.225.20,N/A
+541,planetlab1.utt.fr,akamai.com,95.101.216.97,N/A
+542,planetlab1.utt.fr,google.com,193.51.224.154,N/A
+543,planetlab1.virtues.fi,akamai.com,23.54.13.239,N/A
+544,planetlab1.virtues.fi,google.com,173.194.32.4,1 2 . 9 5 2
+545,planetlab1.warsaw.rd.tp.pl,akamai.com,2.20.157.239,N/A
+546,planetlab1.warsaw.rd.tp.pl,google.com,173.194.113.36,2 1 . 1 4 3
+547,planetlab1.williams.edu,akamai.com,23.7.125.239,N/A
+548,planetlab1.williams.edu,google.com,74.125.226.34,9 . 7 8 8
+549,planetlab1.wiwi.hu-berlin.de,akamai.com,2.16.19.182,N/A
+550,planetlab1.wiwi.hu-berlin.de,google.com,173.194.69.113,2 . 8 3 1
+551,planetlab1.xeno.cl.cam.ac.uk,akamai.com,23.54.77.239,N/A
+552,planetlab1.xeno.cl.cam.ac.uk,google.com,173.194.34.104,5 . 9 3 2
+553,planetlab2.acis.ufl.edu,akamai.com,23.7.93.239,N/A
+554,planetlab2.acis.ufl.edu,google.com,74.125.229.164,1 4 . 2 1 8
+555,planetlab2.arizona-gigapop.net,akamai.com,172.226.61.239,N/A
+556,planetlab2.arizona-gigapop.net,google.com,74.125.227.163,2 4 . 6 7 6
+557,planetlab2.bgu.ac.il,akamai.com,23.52.189.239,N/A
+558,planetlab2.bgu.ac.il,google.com,173.194.70.102,7 8 . 2 6 4
+559,planetlab2.buaa.edu.cn,akamai.com,23.51.93.239,N/A
+560,planetlab2.buaa.edu.cn,google.com,173.194.127.130,N/A
+561,planetlab2.c3sl.ufpr.br,akamai.com,23.194.173.239,N/A
+562,planetlab2.c3sl.ufpr.br,google.com,173.194.118.196,2 4 . 1 7 9
+563,planetlab2.cesnet.cz,akamai.com,96.7.109.239,N/A
+564,planetlab2.cesnet.cz,google.com,173.194.33.168,1 5 1 . 0 6 4
+565,planetlab2.ci.pwr.wroc.pl,akamai.com,95.101.205.239,N/A
+566,planetlab2.ci.pwr.wroc.pl,google.com,173.194.65.102,2 6 . 2 2 0
+567,planetlab2.cis.upenn.edu,akamai.com,23.66.173.239,N/A
+568,planetlab2.cis.upenn.edu,google.com,173.194.43.7,2 . 6 6 7
+569,planetlab2.clemson.edu,akamai.com,69.192.248.97,N/A
+570,planetlab2.clemson.edu,google.com,143.215.193.251,N/A
+571,planetlab2.cnds.jhu.edu,akamai.com,23.54.77.239,N/A
+572,planetlab2.cnds.jhu.edu,google.com,74.125.228.71,4 . 9 5 9
+573,planetlab2.cnis.nyit.edu,akamai.com,23.66.173.239,N/A
+574,planetlab2.cnis.nyit.edu,google.com,74.125.226.196,8 . 1 2 9
+575,planetlab2.cqupt.edu.cn,akamai.com,23.38.173.239,N/A
+576,planetlab2.cqupt.edu.cn,google.com,74.125.128.113,3 4 7 . 1 7 5
+577,planetlab2.cs.aueb.gr,akamai.com,23.55.237.239,N/A
+578,planetlab2.cs.aueb.gr,google.com,173.194.113.72,4 6 . 0 1 4
+579,planetlab2.cs.colorado.edu,akamai.com,23.59.205.239,N/A
+580,planetlab2.cs.colorado.edu,google.com,74.125.225.165,2 . 7 0 3
+581,planetlab2.cs.du.edu,akamai.com,23.66.173.239,N/A
+582,planetlab2.cs.du.edu,google.com,74.125.225.167,1 . 3 6 6
+583,planetlab2.cs.okstate.edu,akamai.com,23.63.189.239,N/A
+584,planetlab2.cs.okstate.edu,google.com,164.58.87.46,N/A
+585,planetlab2.cs.otago.ac.nz,akamai.com,23.62.253.239,N/A
+586,planetlab2.cs.otago.ac.nz,google.com,202.124.127.26,N/A
+587,planetlab2.cs.pitt.edu,akamai.com,23.66.173.239,N/A
+588,planetlab2.cs.pitt.edu,google.com,74.125.228.195,8 . 9 4 4
+589,planetlab2.cs.purdue.edu,akamai.com,23.63.189.239,N/A
+590,planetlab2.cs.purdue.edu,google.com,74.125.225.129,7 . 2 3 1
+591,planetlab2.cs.ubc.ca,akamai.com,23.74.77.239,N/A
+592,planetlab2.cs.ubc.ca,google.com,173.194.33.37,3 . 9 1 2
+593,planetlab2.cs.uit.no,akamai.com,2.19.125.239,N/A
+594,planetlab2.cs.uit.no,google.com,173.194.40.231,2 3 . 7 3 8
+595,planetlab2.cs.uiuc.edu,akamai.com,23.63.189.239,N/A
+596,planetlab2.cs.uiuc.edu,google.com,74.125.225.72,4 . 7 3 8
+597,planetlab2.cs.umass.edu,akamai.com,23.36.93.239,N/A
+598,planetlab2.cs.umass.edu,google.com,192.189.138.208,N/A
+599,planetlab2.cs.uml.edu,akamai.com,23.7.125.239,N/A
+600,planetlab2.cs.uml.edu,google.com,74.125.194.101,4 8 . 7 6 7
+601,planetlab2.cs.unc.edu,akamai.com,23.63.189.239,N/A
+602,planetlab2.cs.unc.edu,google.com,74.125.21.138,1 5 . 3 9 5
+603,planetlab2.cs.uoi.gr,akamai.com,23.34.189.239,N/A
+604,planetlab2.cs.uoregon.edu,akamai.com,23.74.77.239,N/A
+605,planetlab2.cs.uoregon.edu,google.com,173.194.33.135,6 . 2 0 8
+606,planetlab2.cs.vu.nl,akamai.com,23.54.77.239,N/A
+607,planetlab2.cs.vu.nl,google.com,173.194.65.138,4 . 5 9 8
+608,planetlab2.csee.usf.edu,akamai.com,23.202.29.239,N/A
+609,planetlab2.csee.usf.edu,google.com,173.194.37.133,6 . 0 5 8
+610,planetlab2.csg.uzh.ch,akamai.com,95.101.205.239,N/A
+611,planetlab2.csg.uzh.ch,google.com,173.194.116.70,0 . 8 6 6
+612,planetlab2.csie.nuk.edu.tw,akamai.com,96.7.109.239,N/A
+613,planetlab2.csie.nuk.edu.tw,google.com,202.169.175.88,N/A
+614,planetlab2.csuohio.edu,akamai.com,23.63.189.239,N/A
+615,planetlab2.csuohio.edu,google.com,74.125.225.32,1 2 . 4 6 6
+616,planetlab2.cti.espol.edu.ec,akamai.com,23.194.61.239,N/A
+617,planetlab2.cti.espol.edu.ec,google.com,181.198.79.134,N/A
+618,planetlab2.diku.dk,akamai.com,23.78.61.239,N/A
+619,planetlab2.diku.dk,google.com,74.125.136.139,1 6 . 0 7 0
+620,planetlab2.dit.upm.es,akamai.com,23.38.93.239,N/A
+621,planetlab2.dit.upm.es,google.com,173.194.41.230,2 . 1 1 1
+622,planetlab2.eecs.jacobs-university.de,akamai.com,96.7.109.239,N/A
+623,planetlab2.eecs.jacobs-university.de,google.com,173.194.113.137,6 . 7 6 7
+624,planetlab2.eecs.ucf.edu,akamai.com,23.7.125.239,N/A
+625,planetlab2.eecs.ucf.edu,google.com,173.194.37.129,5 . 5 4 9
+626,planetlab2.eurecom.fr,akamai.com,23.38.93.239,N/A
+627,planetlab2.eurecom.fr,google.com,173.194.35.96,2 . 8 2 3
+628,planetlab2.exp-math.uni-essen.de,akamai.com,2.16.19.182,N/A
+629,planetlab2.exp-math.uni-essen.de,google.com,173.194.39.4,9 . 2 4 2
+630,planetlab2.extern.kuleuven.be,akamai.com,2.23.205.239,N/A
+631,planetlab2.extern.kuleuven.be,google.com,74.125.136.139,1 1 . 2 8 8
+632,planetlab2.fct.ualg.pt,akamai.com,23.54.77.239,N/A
+633,planetlab2.fct.ualg.pt,google.com,173.194.45.2,6 . 1 8 7
+634,planetlab2.ics.forth.gr,akamai.com,2.23.205.239,N/A
+635,planetlab2.ics.forth.gr,google.com,173.194.112.37,N/A
+636,planetlab2.ie.cuhk.edu.hk,akamai.com,23.67.189.239,N/A
+637,planetlab2.ie.cuhk.edu.hk,google.com,74.125.128.100,4 . 9 5 3
+638,planetlab2.ifi.uio.no,akamai.com,23.54.13.239,N/A
+639,planetlab2.ifi.uio.no,google.com,74.125.232.102,8 . 4 6 2
+640,planetlab2.informatik.uni-erlangen.de,akamai.com,23.51.189.239,N/A
+641,planetlab2.informatik.uni-erlangen.de,google.com,173.194.69.139,2 3 . 8 0 0
+642,planetlab2.informatik.uni-wuerzburg.de,akamai.com,2.22.141.239,N/A
+643,planetlab2.informatik.uni-wuerzburg.de,google.com,173.194.70.101,4 . 4 3 4
+644,planetlab2.ionio.gr,akamai.com,23.34.189.239,N/A
+645,planetlab2.ionio.gr,google.com,194.177.211.111,N/A
+646,planetlab2.jcp-consult.net,akamai.com,23.52.189.239,N/A
+647,planetlab2.jcp-consult.net,google.com,173.194.40.132,6 0 . 4 7 1
+648,planetlab2.jhu.edu,akamai.com,23.66.173.239,N/A
+649,planetlab2.jhu.edu,google.com,74.125.228.225,3 . 5 6 9
+650,planetlab2.koganei.itrc.net,akamai.com,23.51.93.239,N/A
+651,planetlab2.koganei.itrc.net,google.com,74.125.235.174,2 . 1 0 8
+652,planetlab2.lkn.ei.tum.de,akamai.com,95.101.205.239,N/A
+653,planetlab2.lkn.ei.tum.de,google.com,173.194.112.7,9 . 2 6 8
+654,planetlab2.mini.pw.edu.pl,akamai.com,96.6.114.94,N/A
+655,planetlab2.mini.pw.edu.pl,google.com,173.194.116.99,2 5 . 2 6 5
+656,planetlab2.montefiore.ulg.ac.be,akamai.com,23.212.205.239,N/A
+657,planetlab2.montefiore.ulg.ac.be,google.com,173.194.41.136,1 5 . 6 2 0
+658,planetlab2.mta.ac.il,akamai.com,23.212.205.239,N/A
+659,planetlab2.mta.ac.il,google.com,212.199.219.251,N/A
+660,planetlab2.netlab.uky.edu,akamai.com,23.66.173.239,N/A
+661,planetlab2.netlab.uky.edu,google.com,74.125.225.72,4 7 . 3 4 1
+662,planetlab2.nrl.eecs.qmul.ac.uk,akamai.com,23.212.205.239,N/A
+663,planetlab2.nrl.eecs.qmul.ac.uk,google.com,173.194.34.130,1 2 . 8 1 6
+664,planetlab2.pjwstk.edu.pl,akamai.com,23.54.77.239,N/A
+665,planetlab2.pjwstk.edu.pl,google.com,173.194.70.100,N/A
+666,planetlab2.poly.edu,akamai.com,23.66.173.239,N/A
+667,planetlab2.poly.edu,google.com,74.125.226.166,2 0 . 4 9 2
+668,planetlab2.pop-mg.rnp.br,akamai.com,23.44.177.150,N/A
+669,planetlab2.pop-mg.rnp.br,google.com,173.194.118.2,4 6 . 1 3 0
+670,planetlab2.pop-pa.rnp.br,akamai.com,23.202.68.188,N/A
+671,planetlab2.pop-pa.rnp.br,google.com,173.194.42.238,1 3 6 . 4 2 1
+672,planetlab2.postel.org,akamai.com,23.66.173.239,N/A
+673,planetlab2.postel.org,google.com,74.125.224.46,1 . 6 0 5
+674,planetlab2.rd.tut.fi,akamai.com,2.22.141.239,N/A
+675,planetlab2.rd.tut.fi,google.com,74.125.232.96,1 0 . 7 6 2
+676,planetlab2.rutgers.edu,akamai.com,23.66.173.239,N/A
+677,planetlab2.rutgers.edu,google.com,74.125.226.7,3 . 9 9 9
+678,planetlab2.s3.kth.se,akamai.com,23.34.189.239,N/A
+679,planetlab2.s3.kth.se,google.com,74.125.232.101,1 . 3 2 5
+680,planetlab2.science.unitn.it,akamai.com,23.14.205.239,N/A
+681,planetlab2.science.unitn.it,google.com,173.194.113.238,8 . 0 2 1
+682,planetlab2.sics.se,akamai.com,95.101.205.239,N/A
+683,planetlab2.sics.se,google.com,173.194.40.238,1 . 2 9 0
+684,planetlab2.tamu.edu,akamai.com,23.7.125.239,N/A
+685,planetlab2.tamu.edu,google.com,74.125.227.232,6 . 2 7 7
+686,planetlab2.tau.ac.il,akamai.com,23.34.189.239,N/A
+687,planetlab2.tau.ac.il,google.com,128.139.200.24,N/A
+688,planetlab2.thlab.net,akamai.com,23.212.205.239,N/A
+689,planetlab2.thlab.net,google.com,173.194.41.131,1 0 . 6 0 3
+690,planetlab2.tsuniv.edu,akamai.com,23.66.173.239,N/A
+691,planetlab2.tsuniv.edu,google.com,74.125.21.139,1 9 . 4 3 9
+692,planetlab2.u-strasbg.fr,akamai.com,23.54.141.239,N/A
+693,planetlab2.u-strasbg.fr,google.com,193.51.224.174,N/A
+694,planetlab2.ucsd.edu,akamai.com,23.210.189.239,N/A
+695,planetlab2.ucsd.edu,google.com,74.125.224.206,9 . 9 1 1
+696,planetlab2.unineuchatel.ch,akamai.com,23.51.189.239,N/A
+697,planetlab2.unineuchatel.ch,google.com,173.194.116.32,2 . 9 4 4
+698,planetlab2.unl.edu,akamai.com,23.43.205.239,N/A
+699,planetlab2.unl.edu,google.com,74.125.225.104,N/A
+700,planetlab2.unr.edu,akamai.com,23.66.173.239,N/A
+701,planetlab2.unr.edu,google.com,74.125.25.113,4 2 . 6 0 3
+702,planetlab2.upc.es,akamai.com,2.23.205.239,N/A
+703,planetlab2.upc.es,google.com,91.213.30.143,N/A
+704,planetlab2.urv.cat,akamai.com,23.34.189.239,N/A
+705,planetlab2.urv.cat,google.com,173.194.34.227,1 4 . 2 5 0
+706,planetlab2.uta.edu,akamai.com,23.55.221.239,N/A
+707,planetlab2.uta.edu,google.com,74.125.227.98,1 . 1 1 5
+708,planetlab2.utdallas.edu,akamai.com,23.66.173.239,N/A
+709,planetlab2.utdallas.edu,google.com,208.76.225.53,N/A
+710,planetlab2.utt.fr,akamai.com,23.55.157.239,N/A
+711,planetlab2.utt.fr,google.com,193.51.224.165,N/A
+712,planetlab2.virtues.fi,akamai.com,2.19.125.239,N/A
+713,planetlab2.virtues.fi,google.com,173.194.32.1,1 3 . 1 0 5
+714,planetlab2.wiwi.hu-berlin.de,akamai.com,23.52.189.239,N/A
+715,planetlab2.wiwi.hu-berlin.de,google.com,173.194.69.102,2 . 7 3 5
+716,planetlab2.xeno.cl.cam.ac.uk,akamai.com,2.20.157.239,N/A
+717,planetlab2.xeno.cl.cam.ac.uk,google.com,173.194.34.132,6 . 2 1 2
+718,planetlab3.arizona-gigapop.net,akamai.com,23.63.189.239,N/A
+719,planetlab3.arizona-gigapop.net,google.com,74.125.227.164,2 4 . 6 2 1
+720,planetlab3.bupt.edu.cn,akamai.com,23.59.141.239,N/A
+721,planetlab3.bupt.edu.cn,google.com,173.194.127.130,2 0 8 . 6 8 8
+722,planetlab3.cesnet.cz,akamai.com,95.101.205.239,N/A
+723,planetlab3.cesnet.cz,google.com,173.194.33.164,1 5 0 . 7 4 1
+724,planetlab3.cnds.jhu.edu,akamai.com,23.66.173.239,N/A
+725,planetlab3.cnds.jhu.edu,google.com,74.125.228.72,5 . 0 2 7
+726,planetlab3.cs.columbia.edu,akamai.com,23.54.77.239,N/A
+727,planetlab3.cs.columbia.edu,google.com,74.125.228.195,9 . 4 1 8
+728,planetlab3.cs.st-andrews.ac.uk,akamai.com,23.54.77.239,N/A
+729,planetlab3.cs.st-andrews.ac.uk,google.com,64.15.119.59,N/A
+730,planetlab3.cs.uoregon.edu,akamai.com,23.74.77.239,N/A
+731,planetlab3.cs.uoregon.edu,google.com,173.194.33.136,6 . 3 2 9
+732,planetlab3.csee.usf.edu,akamai.com,23.7.125.239,N/A
+733,planetlab3.csee.usf.edu,google.com,173.194.37.142,5 . 9 7 4
+734,planetlab3.di.unito.it,akamai.com,96.7.109.239,N/A
+735,planetlab3.di.unito.it,google.com,173.194.40.0,3 9 5 . 7 1 0
+736,planetlab3.hiit.fi,akamai.com,23.34.189.239,N/A
+737,planetlab3.hiit.fi,google.com,173.194.40.233,8 . 3 2 1
+738,planetlab3.inf.ethz.ch,akamai.com,92.122.152.97,N/A
+739,planetlab3.inf.ethz.ch,google.com,173.194.40.70,0 . 8 3 3
+740,planetlab3.informatik.uni-erlangen.de,akamai.com,2.20.125.239,N/A
+741,planetlab3.informatik.uni-erlangen.de,google.com,173.194.69.138,1 5 . 0 0 4
+742,planetlab3.mini.pw.edu.pl,akamai.com,23.59.125.239,N/A
+743,planetlab3.mini.pw.edu.pl,google.com,173.194.116.97,2 5 . 5 1 8
+744,planetlab3.tamu.edu,akamai.com,172.226.61.239,N/A
+745,planetlab3.tamu.edu,google.com,173.194.115.32,6 . 2 5 4
+746,planetlab3.ucsd.edu,akamai.com,23.66.173.239,N/A
+747,planetlab3.ucsd.edu,google.com,74.125.224.192,9 . 8 9 2
+748,planetlab3.upc.es,akamai.com,23.52.189.239,N/A
+749,planetlab3.upc.es,google.com,91.213.30.143,N/A
+750,planetlab3.wail.wisc.edu,akamai.com,23.66.173.239,N/A
+751,planetlab3.wail.wisc.edu,google.com,173.194.46.103,1 9 . 1 1 2
+752,planetlab3.williams.edu,akamai.com,23.7.125.239,N/A
+753,planetlab3.williams.edu,google.com,74.125.226.39,8 . 2 6 0
+754,planetlab3.xeno.cl.cam.ac.uk,akamai.com,23.52.189.239,N/A
+755,planetlab3.xeno.cl.cam.ac.uk,google.com,173.194.34.135,6 . 2 6 5
+756,planetlab4.cs.st-andrews.ac.uk,akamai.com,23.59.205.239,N/A
+757,planetlab4.cs.st-andrews.ac.uk,google.com,173.194.41.104,1 1 . 7 8 2
+758,planetlab4.cs.uiuc.edu,akamai.com,23.44.77.239,N/A
+759,planetlab4.cs.uiuc.edu,google.com,74.125.225.65,3 . 5 9 7
+760,planetlab4.cs.uoregon.edu,akamai.com,23.74.77.239,N/A
+761,planetlab4.cs.uoregon.edu,google.com,173.194.33.129,6 . 2 6 9
+762,planetlab4.csee.usf.edu,akamai.com,23.7.125.239,N/A
+763,planetlab4.csee.usf.edu,google.com,74.125.229.199,6 . 0 0 1
+764,planetlab4.goto.info.waseda.ac.jp,akamai.com,23.44.141.239,N/A
+765,planetlab4.goto.info.waseda.ac.jp,google.com,74.125.235.71,1 . 2 5 5
+766,planetlab4.hiit.fi,akamai.com,23.51.93.239,N/A
+767,planetlab4.hiit.fi,google.com,173.194.40.232,8 . 4 5 0
+768,planetlab4.inf.ethz.ch,akamai.com,23.14.205.239,N/A
+769,planetlab4.inf.ethz.ch,google.com,173.194.40.78,0 . 6 9 1
+770,planetlab4.mini.pw.edu.pl,akamai.com,23.59.125.239,N/A
+771,planetlab4.mini.pw.edu.pl,google.com,173.194.116.110,2 5 . 3 1 5
+772,planetlab4.postel.org,akamai.com,23.66.173.239,N/A
+773,planetlab4.postel.org,google.com,74.125.224.40,1 . 9 4 6
+774,planetlab4.tamu.edu,akamai.com,23.55.221.239,N/A
+775,planetlab4.tamu.edu,google.com,74.125.227.226,8 . 4 6 0
+776,planetlab4.wail.wisc.edu,akamai.com,23.63.189.239,N/A
+777,planetlab4.wail.wisc.edu,google.com,173.194.46.110,1 8 . 6 6 8
+778,planetlab4.williams.edu,akamai.com,23.66.173.239,N/A
+779,planetlab4.williams.edu,google.com,74.125.226.35,8 . 7 9 6
+780,planetlab5.csee.usf.edu,akamai.com,23.66.173.239,N/A
+781,planetlab5.csee.usf.edu,google.com,74.125.229.200,5 . 9 9 2
+782,planetlab5.millennium.berkeley.edu,akamai.com,23.55.221.239,N/A
+783,planetlab5.millennium.berkeley.edu,google.com,74.125.239.142,3 . 4 8 1
+784,planetlab5.williams.edu,akamai.com,23.194.173.239,N/A
+785,planetlab5.williams.edu,google.com,74.125.226.32,8 . 1 0 5
+786,planetlab6.csee.usf.edu,akamai.com,23.1.125.239,N/A
+787,planetlab6.csee.usf.edu,google.com,173.194.37.135,6 . 0 2 1
+788,planetlab6.goto.info.waseda.ac.jp,akamai.com,23.67.189.239,N/A
+789,planetlab6.goto.info.waseda.ac.jp,google.com,74.125.235.68,1 . 2 4 4
+790,planetlabeu-1.tssg.org,akamai.com,23.34.189.239,N/A
+791,planetlabeu-1.tssg.org,google.com,74.125.24.100,4 . 3 8 1
+792,planetlabeu-2.tssg.org,akamai.com,23.54.77.239,N/A
+793,planetlabeu-2.tssg.org,google.com,74.125.24.100,4 . 4 0 9
+794,planetlabone.ccs.neu.edu,akamai.com,23.7.125.239,N/A
+795,planetlabone.ccs.neu.edu,google.com,4.53.56.104,N/A
+796,planetlabpc0.upf.edu,akamai.com,23.52.189.239,N/A
+797,planetlabpc0.upf.edu,google.com,173.194.34.229,1 2 . 1 8 3
+798,planetlabtwo.ccs.neu.edu,akamai.com,23.59.205.239,N/A
+799,planetlabtwo.ccs.neu.edu,google.com,4.53.56.88,N/A
+800,planetvs1.informatik.uni-stuttgart.de,akamai.com,23.198.93.239,N/A
+801,planetvs1.informatik.uni-stuttgart.de,google.com,173.194.70.101,5 . 0 9 2
+802,planetvs2.informatik.uni-stuttgart.de,akamai.com,23.38.93.239,N/A
+803,planetvs2.informatik.uni-stuttgart.de,google.com,173.194.70.139,4 . 6 2 6
+804,ple1.ait.ac.th,akamai.com,96.7.109.239,N/A
+805,ple1.ait.ac.th,google.com,61.91.16.98,N/A
+806,ple1.cesnet.cz,akamai.com,23.52.189.239,N/A
+807,ple1.cesnet.cz,google.com,74.125.237.165,3 4 5 . 6 9 5
+808,ple1.dmcs.p.lodz.pl,akamai.com,23.52.189.239,N/A
+809,ple1.dmcs.p.lodz.pl,google.com,212.191.227.95,N/A
+810,ple1.zcu.cz,akamai.com,23.55.237.239,N/A
+811,ple1.zcu.cz,google.com,173.194.118.36,2 4 0 . 1 9 4
+812,ple2.ait.ac.th,akamai.com,95.101.205.239,N/A
+813,ple2.ait.ac.th,google.com,61.91.17.172,N/A
+814,ple2.cesnet.cz,akamai.com,23.55.237.239,N/A
+815,ple2.cesnet.cz,google.com,74.125.237.169,3 3 9 . 7 2 7
+816,ple2.dmcs.p.lodz.pl,akamai.com,23.52.189.239,N/A
+817,ple2.dmcs.p.lodz.pl,google.com,212.191.227.110,N/A
+818,ple2.ipv6.lip6.fr,akamai.com,23.52.189.239,N/A
+819,ple2.ipv6.lip6.fr,google.com,173.194.40.200,3 . 1 4 7
+820,ple2.tu.koszalin.pl,akamai.com,23.12.29.239,N/A
+821,ple2.tu.koszalin.pl,google.com,173.194.70.138,2 7 . 2 5 7
+822,ple3.ipv6.lip6.fr,akamai.com,23.52.221.239,N/A
+823,ple3.ipv6.lip6.fr,google.com,173.194.40.192,3 . 5 5 9
+824,ple4.ipv6.lip6.fr,akamai.com,23.33.237.239,N/A
+825,ple4.ipv6.lip6.fr,google.com,173.194.40.206,3 . 2 9 8
+826,ple6.ipv6.lip6.fr,akamai.com,23.54.141.239,N/A
+827,ple6.ipv6.lip6.fr,google.com,173.194.40.195,3 . 5 1 5
+828,plewifi.ipv6.lip6.fr,akamai.com,23.52.189.239,N/A
+829,plewifi.ipv6.lip6.fr,google.com,173.194.40.197,3 . 6 9 3
+830,pli1-pa-4.hpl.hp.com,akamai.com,23.52.61.239,N/A
+831,pli1-pa-4.hpl.hp.com,google.com,74.125.239.101,2 . 1 7 2
+832,pli1-pa-5.hpl.hp.com,akamai.com,96.7.109.239,N/A
+833,pli1-pa-5.hpl.hp.com,google.com,74.125.239.104,1 . 9 6 2
+834,pli1-pa-6.hpl.hp.com,akamai.com,23.66.173.239,N/A
+835,pli1-pa-6.hpl.hp.com,google.com,74.125.239.104,2 . 0 6 0
+836,plink.cs.uwaterloo.ca,akamai.com,23.66.173.239,N/A
+837,plink.cs.uwaterloo.ca,google.com,71.19.173.91,N/A
+838,pllx1.parc.xerox.com,akamai.com,23.59.205.239,N/A
+839,pllx1.parc.xerox.com,google.com,74.125.239.105,1 6 . 9 7 3
+840,pllx2.parc.xerox.com,akamai.com,23.7.125.239,N/A
+841,pllx2.parc.xerox.com,google.com,74.125.239.100,1 6 . 9 2 9
+842,pln.zju.edu.cn,akamai.com,96.7.109.239,N/A
+843,pln.zju.edu.cn,google.com,74.125.128.102,2 4 2 . 3 7 1
+844,plnode-03.gpolab.bbn.com,akamai.com,23.54.77.239,N/A
+845,plnode-03.gpolab.bbn.com,google.com,74.125.22.113,2 0 . 9 8 9
+846,plnode-04.gpolab.bbn.com,akamai.com,23.54.77.239,N/A
+847,plnode-04.gpolab.bbn.com,google.com,74.125.22.102,2 1 . 6 4 3
+848,pluto.cs.brown.edu,akamai.com,23.66.173.239,N/A
+849,pluto.cs.brown.edu,google.com,4.53.56.93,N/A
+850,prata.mimuw.edu.pl,akamai.com,23.212.205.239,N/A
+851,prata.mimuw.edu.pl,google.com,213.189.45.84,N/A
+852,pub1-s.ane.cmc.osaka-u.ac.jp,akamai.com,23.44.141.239,N/A
+853,pub1-s.ane.cmc.osaka-u.ac.jp,google.com,74.125.235.193,2 . 7 7 5
+854,pub2-s.ane.cmc.osaka-u.ac.jp,akamai.com,96.7.109.239,N/A
+855,pub2-s.ane.cmc.osaka-u.ac.jp,google.com,74.125.235.192,2 . 4 3 6
+856,ricepl-1.cs.rice.edu,akamai.com,23.66.173.239,N/A
+857,ricepl-1.cs.rice.edu,google.com,173.194.115.46,6 . 8 8 0
+858,ricepl-4.cs.rice.edu,akamai.com,23.204.93.239,N/A
+859,ricepl-4.cs.rice.edu,google.com,173.194.115.65,1 0 . 2 6 3
+860,ricepl-5.cs.rice.edu,akamai.com,23.7.93.239,N/A
+861,ricepl-5.cs.rice.edu,google.com,173.194.115.69,1 0 . 0 1 3
+862,righthand.eecs.harvard.edu,akamai.com,23.66.173.239,N/A
+863,righthand.eecs.harvard.edu,google.com,4.53.56.119,N/A
+864,roam1.cs.ou.edu,akamai.com,23.66.173.239,N/A
+865,roam1.cs.ou.edu,google.com,164.58.87.53,N/A
+866,rochefort.infonet.fundp.ac.be,akamai.com,2.22.141.239,N/A
+867,rochefort.infonet.fundp.ac.be,google.com,74.125.136.101,1 5 . 0 5 4
+868,roti.mimuw.edu.pl,akamai.com,23.212.205.239,N/A
+869,roti.mimuw.edu.pl,google.com,213.189.45.59,N/A
+870,salt.planetlab.cs.umd.edu,akamai.com,23.66.173.239,N/A
+871,salt.planetlab.cs.umd.edu,google.com,74.125.228.226,3 . 0 7 3
+872,saturn.planetlab.carleton.ca,akamai.com,23.66.173.239,N/A
+873,saturn.planetlab.carleton.ca,google.com,74.125.226.101,5 . 6 0 6
+874,stella.planetlab.ntua.gr,akamai.com,23.34.189.239,N/A
+875,stella.planetlab.ntua.gr,google.com,173.194.112.162,4 6 . 2 8 3
+876,utet.ii.uam.es,akamai.com,23.52.189.239,N/A
+877,utet.ii.uam.es,google.com,173.194.34.206,2 . 9 3 8
+878,vicky.planetlab.ntua.gr,akamai.com,95.101.205.239,N/A
+879,vicky.planetlab.ntua.gr,google.com,173.194.112.169,4 4 . 0 8 7
+880,vn4.cse.wustl.edu,akamai.com,23.54.77.239,N/A
+881,vn4.cse.wustl.edu,google.com,74.125.225.71,8 . 6 1 1
+882,vn5.cse.wustl.edu,akamai.com,23.66.173.239,N/A
+883,vn5.cse.wustl.edu,google.com,74.125.225.67,8 . 8 9 9
+884,whitefall.planetlab.cs.umd.edu,akamai.com,23.66.173.239,N/A
+885,whitefall.planetlab.cs.umd.edu,google.com,173.194.121.6,3 . 9 1 2
+886,zoi.di.uoa.gr,akamai.com,2.23.205.239,N/A
+887,zoi.di.uoa.gr,google.com,173.194.116.197,4 9 . 2 0 6

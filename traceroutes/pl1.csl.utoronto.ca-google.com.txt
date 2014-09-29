@@ -1,0 +1,10 @@
+traceroute to google.com (74.125.226.103), 30 hops max, 60 byte packets
+ 1  bcit-ece-research4.gw.utoronto.ca (142.150.238.1)  0.383 ms  0.441 ms  0.495 ms
+ 2  lupus-gpb.gw.utoronto.ca (128.100.96.16)  1.299 ms  1.336 ms  1.376 ms
+ 3  ut-hub-utoronto1-if-re.gtanet.ca (205.211.94.233)  1.243 ms  1.573 ms  1.504 ms
+ 4  ORION-GTANET-RNE.DIST1-TORO.IP.orion.on.ca (66.97.23.57)  0.860 ms  1.029 ms  1.137 ms
+ 5  be201.gw01-toro.orion.on.ca (66.97.16.22)  0.800 ms  0.940 ms  0.985 ms
+ 6  74.125.48.230 (74.125.48.230)  0.622 ms  0.644 ms  0.614 ms
+ 7  216.239.47.114 (216.239.47.114)  0.751 ms  0.759 ms  0.752 ms
+ 8  209.85.250.207 (209.85.250.207)  1.533 ms  1.168 ms  1.298 ms
+ 9  yyz08s13-in-f7.1e100.net (74.125.226.103)  0.634 ms  0.672 ms  0.638 ms

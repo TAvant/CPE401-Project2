@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.54.77.239), 30 hops max, 60 byte packets
+ 1  projectgw.tmit.bme.hu (152.66.245.190)  0.181 ms  0.176 ms  0.180 ms
+ 2  vl121.ixion.net.bme.hu (152.66.245.254)  0.590 ms  0.597 ms  0.764 ms
+ 3  xge10-2.taz.net.bme.hu (152.66.0.121)  0.754 ms  0.827 ms  0.825 ms
+ 4  tg0-1-0-1.rtr.bme.hbone.hu (152.66.0.126)  1.122 ms  1.130 ms  1.172 ms
+ 5  tg0-1-0-6.rtr1.vh.hbone.hu (195.111.97.101)  1.169 ms  1.360 ms  1.366 ms
+ 6  te3-2.ccr01.bud03.atlas.cogentco.com (149.11.10.9)  1.327 ms  0.975 ms  0.891 ms
+ 7  te0-1-0-5.ccr21.bud01.atlas.cogentco.com (130.117.48.225)  1.609 ms  1.602 ms te0-4-0-5.ccr21.bud01.atlas.cogentco.com (154.54.37.138)  1.583 ms
+ 8  be2197.ccr22.bts01.atlas.cogentco.com (130.117.1.97)  8.005 ms  8.140 ms  8.136 ms
+ 9  be2225.ccr22.muc01.atlas.cogentco.com (154.54.37.97)  15.227 ms be2224.ccr21.muc01.atlas.cogentco.com (154.54.36.9)  15.718 ms be2225.ccr22.muc01.atlas.cogentco.com (154.54.37.97)  15.191 ms
+10  be2228.ccr21.fra03.atlas.cogentco.com (154.54.38.49)  20.711 ms be2230.mpd21.fra03.atlas.cogentco.com (154.54.38.97)  20.777 ms be2231.mpd22.fra03.atlas.cogentco.com (154.54.38.189)  21.011 ms
+11  be2009.mag21.fra03.atlas.cogentco.com (154.54.74.146)  20.762 ms  21.219 ms be2027.mag21.fra03.atlas.cogentco.com (154.54.74.142)  20.873 ms
+12  dtag.fra03.atlas.cogentco.com (130.117.14.150)  25.926 ms  25.841 ms  25.900 ms
+13  lon-sa4-i.LON.GB.NET.DTAG.DE (62.154.14.2)  34.184 ms  34.075 ms  34.047 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

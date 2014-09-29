@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.34.189.239), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  212.175.32.129.dynamic.ttnet.com.tr (212.175.32.129)  0.868 ms  0.903 ms  0.885 ms
+ 3  212.174.167.209 (212.174.167.209)  1.605 ms  2.090 ms  2.397 ms
+ 4  gayrettepe-t2-4-buyukdere-t3-1.turktelekom.com.tr.213.212.81.in-addr.arpa (81.212.213.180)  1.781 ms  2.055 ms  2.318 ms
+ 5  gayrettepe-t2-2-gayrettepe-t2-4.turktelekom.com.tr.29.212.81.in-addr.arpa (81.212.29.86)  2.024 ms  2.013 ms  2.951 ms
+ 6  * * *
+ 7  amsix-ams8.netarch.akamai.com (195.69.145.208)  58.117 ms  53.408 ms  58.047 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

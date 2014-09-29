@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.34.189.239), 30 hops max, 60 byte packets
+ 1  193.136.166.124 (193.136.166.124)  0.168 ms * *
+ 2  router2-alameda.ist.utl.pt (193.136.134.181)  1.611 ms  1.710 ms  2.596 ms
+ 3  gatekeeper1.ist.utl.pt (193.136.134.157)  1.234 ms  1.422 ms  1.407 ms
+ 4  brites1.utl.pt (193.136.134.10)  1.388 ms  1.336 ms  1.314 ms
+ 5  gt3.fccn.pt (193.136.1.93)  1.835 ms  1.859 ms  1.841 ms
+ 6  ROUTER4.10GE.CR1.Lisboa.fccn.pt (193.137.0.4)  1.804 ms  1.745 ms  1.803 ms
+ 7  fccn.mx2.lis.pt.geant.net (62.40.124.97)  2.237 ms  2.226 ms  2.170 ms
+ 8  xe-1-0-0.mx1.lis.pt.geant.net (62.40.98.104)  2.066 ms  2.106 ms  2.162 ms
+ 9  xe-4-0-2.rt1.lon.uk.geant.net (62.40.98.103)  40.499 ms  40.469 ms  40.566 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  48.130 ms  48.127 ms  47.988 ms
+11  amsix-ams8.netarch.akamai.com (195.69.145.208)  48.728 ms  48.788 ms  48.622 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

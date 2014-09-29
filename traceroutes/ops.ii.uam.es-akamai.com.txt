@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.200.173.239), 30 hops max, 60 byte packets
+ 1  lamasa.teseo.uam.es (150.244.56.1)  1.526 ms  1.582 ms  1.640 ms
+ 2  matrix.teseo.uam.es (150.244.1.71)  0.809 ms  0.844 ms  0.825 ms
+ 3  superlopez.teseo.uam.es (150.244.1.209)  1.705 ms  1.727 ms  1.656 ms
+ 4  r01-vlan600-te2-3.net.redimadrid.es (193.145.14.14)  2.171 ms  2.366 ms  2.246 ms
+ 5  193.145.14.130 (193.145.14.130)  2.643 ms  2.745 ms  2.847 ms
+ 6  130.206.212.93 (130.206.212.93)  2.556 ms  2.062 ms  2.054 ms
+ 7  nttverio-1.espanix.net (193.149.1.36)  3.450 ms  3.208 ms  3.301 ms
+ 8  ae-6.r23.londen03.uk.bb.gin.ntt.net (129.250.4.137)  25.471 ms  25.749 ms  25.615 ms
+ 9  as-0.r20.parsfr01.fr.bb.gin.ntt.net (129.250.5.9)  33.264 ms  33.401 ms  32.673 ms
+10  po-1.r02.parsfr01.fr.bb.gin.ntt.net (129.250.5.137)  36.627 ms  33.277 ms  34.073 ms
+11  po-0.akamai.parsfr01.fr.bb.gin.ntt.net (81.25.197.10)  35.440 ms  35.333 ms  36.380 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

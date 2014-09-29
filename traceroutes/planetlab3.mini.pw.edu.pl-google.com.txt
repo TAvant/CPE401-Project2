@@ -1,0 +1,13 @@
+traceroute to google.com (173.194.116.97), 30 hops max, 60 byte packets
+ 1  gateway.mini.pw.edu.pl (194.29.178.254)  1.259 ms  1.663 ms  2.116 ms
+ 2  mini-coi.rtr.pw.edu.pl (194.29.132.1)  0.388 ms  0.477 ms  0.556 ms
+ 3  c7304.rtr.pw.edu.pl (194.29.132.161)  0.209 ms  0.214 ms  0.209 ms
+ 4  pw-r1-ge2-0-8-501.warman.nask.pl (148.81.253.69)  0.425 ms  0.413 ms  0.397 ms
+ 5  z-nask.poznan-gw3.10Gb.rtr.pionier.gov.pl (212.191.224.73)  4.678 ms  4.723 ms  4.708 ms
+ 6  pionier.mx1.poz.pl.geant.net (62.40.125.245)  4.815 ms  4.754 ms  4.737 ms
+ 7  ae3.mx1.fra.de.geant.net (62.40.98.130)  25.501 ms  25.548 ms  25.533 ms
+ 8  ae4.rt1.fra.de.geant.net (62.40.98.135)  25.557 ms  25.511 ms  25.533 ms
+ 9  google-gw.rt1.fra.de.geant.net (62.40.125.202)  24.956 ms  24.941 ms  24.971 ms
+10  209.85.240.64 (209.85.240.64)  25.384 ms  49.297 ms  26.726 ms
+11  64.233.175.143 (64.233.175.143)  25.676 ms  25.675 ms  25.838 ms
+12  173.194.116.97 (173.194.116.97)  25.459 ms  25.523 ms  25.518 ms

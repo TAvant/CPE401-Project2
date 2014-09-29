@@ -1,0 +1,13 @@
+traceroute to google.com (173.194.40.200), 30 hops max, 60 byte packets
+ 1  132.227.62.65 (132.227.62.65)  0.587 ms  0.506 ms  0.349 ms
+ 2  10.1.1.1 (10.1.1.1)  1.437 ms  1.431 ms  1.406 ms
+ 3  r-interco2-lab-upmc.reseau.jussieu.fr (134.157.167.124)  2.143 ms  2.872 ms  2.844 ms
+ 4  r-jusrap-reel.reseau.jussieu.fr (134.157.254.124)  2.065 ms  2.041 ms  2.768 ms
+ 5  interco-6.01-jussieu.rap.prd.fr (195.221.127.181)  29.977 ms  29.921 ms  29.586 ms
+ 6  vl165-te3-2-jussieu-rtr-021.noc.renater.fr (193.51.181.102)  2.273 ms  2.041 ms  2.009 ms
+ 7  te0-1-0-3-paris2-rtr-001.noc.renater.fr (193.51.189.225)  92.218 ms  93.814 ms  94.527 ms
+ 8  * * *
+ 9  193.51.182.197 (193.51.182.197)  3.367 ms  3.147 ms  3.120 ms
+10  72.14.238.228 (72.14.238.228)  3.101 ms  3.075 ms  13.303 ms
+11  209.85.243.51 (209.85.243.51)  9.840 ms  6.733 ms  6.675 ms
+12  par10s12-in-f8.1e100.net (173.194.40.200)  3.132 ms  3.164 ms  3.147 ms

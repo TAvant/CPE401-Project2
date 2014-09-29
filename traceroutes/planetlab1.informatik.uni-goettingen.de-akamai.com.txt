@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.61.239), 30 hops max, 60 byte packets
+ 1  gr-gwdg1-umin-ext.gwdg.de (134.76.249.238)  0.489 ms  0.359 ms  0.409 ms
+ 2  cr-han1-te0-0-0-16.x-win.dfn.de (188.1.231.125)  2.234 ms  2.336 ms  2.333 ms
+ 3  cr-tub1-hundredgige0-6-0-0-7.x-win.dfn.de (188.1.144.190)  12.871 ms  12.915 ms  12.903 ms
+ 4  hbg-b1-link.telia.net (80.239.128.181)  33.691 ms  33.685 ms  14.390 ms
+ 5  hbg-bb2-link.telia.net (80.91.249.202)  14.495 ms  14.561 ms  14.549 ms
+ 6  adm-bb4-link.telia.net (80.91.246.220)  21.499 ms adm-bb4-link.telia.net (213.155.134.68)  21.478 ms adm-bb4-link.telia.net (62.115.136.130)  21.401 ms
+ 7  adm-b5-link.telia.net (213.155.130.43)  21.628 ms adm-b5-link.telia.net (80.91.246.99)  24.756 ms adm-b5-link.telia.net (213.155.130.43)  21.628 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

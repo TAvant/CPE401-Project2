@@ -1,0 +1,12 @@
+traceroute to google.com (173.194.35.4), 30 hops max, 60 byte packets
+ 1  158.110.28.254 (158.110.28.254)  2.141 ms  2.181 ms  2.403 ms
+ 2  udccr0.cc.uniud.it (158.110.1.1)  0.555 ms  0.551 ms  0.540 ms
+ 3  ru-uniud-l1-rx1-pd2.pd2.garr.net (193.204.218.105)  7.881 ms  7.919 ms  7.909 ms
+ 4  rx1-pd2-rx1-bo1.bo1.garr.net (90.147.80.13)  11.359 ms  10.434 ms  10.490 ms
+ 5  rx1-bo1-r-bo1.bo1.garr.net (90.147.80.33)  15.491 ms rx1-bo1-rx1-mi1.mi1.garr.net (90.147.80.109)  13.467 ms  12.594 ms
+ 6  rx1-mi1-rx1-mi2.mi2.garr.net (90.147.80.82)  15.181 ms rx1-mi1-r-mi1.mi1.garr.net (90.147.80.93)  13.876 ms rx1-mi1-rx1-mi2.mi2.garr.net (90.147.80.82)  15.994 ms
+ 7  r-mi1-r-mi2.mi2.garr.net (90.147.80.17)  15.003 ms rx1-mi2-r-mi2.mi2.garr.net (90.147.80.73)  15.339 ms r-mi1-r-mi2.mi2.garr.net (90.147.80.17)  13.083 ms
+ 8  r-mi2-google.mi2.garr.net (193.206.129.130)  13.373 ms  13.261 ms  11.182 ms
+ 9  216.239.47.128 (216.239.47.128)  109.751 ms  12.979 ms  108.280 ms
+10  209.85.241.65 (209.85.241.65)  11.652 ms  11.698 ms  11.339 ms
+11  mil01s16-in-f4.1e100.net (173.194.35.4)  13.050 ms  16.311 ms  13.202 ms

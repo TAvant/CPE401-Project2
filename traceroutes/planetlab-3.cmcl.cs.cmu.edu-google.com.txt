@@ -1,0 +1,11 @@
+traceroute to google.com (74.125.228.197), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  1.684 ms  1.601 ms  1.573 ms
+ 2  new-weh-core-to-gates.net.cs.cmu.edu (172.19.219.101)  1.619 ms  1.640 ms  1.616 ms
+ 3  128.2.35.177 (128.2.35.177)  0.309 ms  0.322 ms  0.331 ms
+ 4  CORE255-VL918.GW.CMU.NET (128.2.255.155)  0.473 ms  0.475 ms  0.524 ms
+ 5  POD-I-NH-VL987.GW.CMU.NET (128.2.255.251)  0.489 ms POD-I-CYH-VL987.GW.CMU.NET (128.2.255.250)  0.451 ms  0.496 ms
+ 6  packetnet.cmu.3rox.net (147.73.16.105)  17.010 ms  17.022 ms  16.991 ms
+ 7  72.14.213.79 (72.14.213.79)  9.668 ms  9.587 ms  9.508 ms
+ 8  216.239.46.248 (216.239.46.248)  18.562 ms  12.323 ms  8.373 ms
+ 9  72.14.233.91 (72.14.233.91)  9.321 ms  9.491 ms  9.643 ms
+10  iad23s23-in-f5.1e100.net (74.125.228.197)  8.749 ms  8.812 ms  8.777 ms

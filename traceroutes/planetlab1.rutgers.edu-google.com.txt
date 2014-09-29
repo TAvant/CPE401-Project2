@@ -1,0 +1,16 @@
+traceroute to google.com (74.125.226.66), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  2.124 ms  2.423 ms  2.666 ms
+ 2  vlan104-ar01-cor-hill.runet.rutgers.net (172.28.1.33)  0.426 ms  0.467 ms  0.965 ms
+ 3  gigabitethernet1-9-dr01-asb-bus.runet.rutgers.net (172.28.10.38)  1.219 ms  1.420 ms  1.422 ms
+ 4  tengigabitethernet1-4-cr01-alex-nbp.runet.rutgers.net (172.28.195.2)  70.823 ms  71.066 ms  71.033 ms
+ 5  xe-2-3-0-0-cr01-fsci-nbp.runet.rutgers.net (172.28.193.93)  1.060 ms  1.033 ms  0.982 ms
+ 6  xe-2-2-0-0-cr01-broad-cam.runet.rutgers.net (172.28.193.102)  2.359 ms  2.266 ms  2.228 ms
+ 7  xe-2-2-0-0-er01-broad-ext.runet.rutgers.net (172.28.193.17)  1.963 ms  2.116 ms  2.080 ms
+ 8   (64.125.193.197)  2.027 ms  1.998 ms  1.959 ms
+ 9  ae4.cr1.lga5.us.above.net (64.125.31.34)  4.390 ms  4.392 ms  4.355 ms
+10  ae1.cr2.lga5.us.above.net (64.125.29.38)  4.663 ms  4.798 ms  4.765 ms
+11  ae3.er4.lga5.us.above.net (64.125.31.246)  31.333 ms  3.900 ms  4.075 ms
+12  72.14.223.26 (72.14.223.26)  4.038 ms  4.003 ms  3.966 ms
+13  209.85.248.178 (209.85.248.178)  8.335 ms  4.716 ms  6.497 ms
+14  209.85.245.181 (209.85.245.181)  5.182 ms  5.044 ms  5.173 ms
+15  lga15s44-in-f2.1e100.net (74.125.226.66)  4.354 ms  4.017 ms  4.161 ms

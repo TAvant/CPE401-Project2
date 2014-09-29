@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  planet-labs-int.cse.ohio-state.edu (164.107.127.1)  158.922 ms  158.746 ms  158.667 ms
+ 2  se4-vl870.net.ohio-state.edu (140.254.68.65)  159.079 ms  159.107 ms  159.085 ms
+ 3  kc1-teng8-2.net.ohio-state.edu (164.107.2.149)  159.026 ms  172.138 ms  172.135 ms
+ 4  kc3-teng1-1.net.ohio-state.edu (164.107.2.193)  172.142 ms  172.097 ms  172.142 ms
+ 5  clmbk-r9-xe-1-0-1s330.core.oar.net (199.18.169.1)  171.964 ms  171.972 ms  171.926 ms
+ 6  clmbn-r0-xe-1-2-1s100.core.oar.net (199.218.38.33)  172.028 ms  27.703 ms  40.580 ms
+ 7  clmbq-r9-xe-0-0-1s100.bb.oar.net (199.218.39.110)  40.643 ms  154.996 ms  154.976 ms
+ 8  jfk-edge-25.inet.qwest.net (216.206.237.97)  208.736 ms  208.859 ms  208.811 ms
+ 9  nyc-edge-04.inet.qwest.net (205.171.30.62)  179.910 ms  179.874 ms  179.796 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.62.253.239), 30 hops max, 60 byte packets
+ 1  gw-planetlab-otago.otago.ac.nz (139.80.206.129)  0.573 ms  0.639 ms  0.689 ms
+ 2  offramp-hsrp-444.otago.ac.nz (139.80.96.2)  0.499 ms  0.593 ms  0.662 ms
+ 3  10.3.4.2 (10.3.4.2)  3.093 ms  3.172 ms  3.168 ms
+ 4  exodus-internet.otago.ac.nz (139.80.244.2)  1.565 ms  1.557 ms  1.546 ms
+ 5  GigabitEthernet0-3-921.otdun-rt1.fx.net.nz (131.203.250.81)  14.150 ms  14.139 ms  14.026 ms
+ 6  202.53.187.209 (202.53.187.209)  24.953 ms  24.617 ms  24.904 ms
+ 7  202.53.187.210 (202.53.187.210)  26.167 ms  26.606 ms  26.581 ms
+ 8  175.45.93.113 (175.45.93.113)  25.359 ms  25.337 ms  25.326 ms
+ 9  ten-0-2-0-3.cor01.alb01.akl.VOCUS.net.nz (114.31.202.88)  63.631 ms  63.118 ms  63.318 ms
+10  ten-0-3-0-2.cor03.syd03.nsw.VOCUS.net.au (114.31.202.85)  103.886 ms ten-0-0-0-2.cor03.syd03.nsw.VOCUS.net.au (114.31.199.116)  63.167 ms ten-0-3-0-2.cor03.syd03.nsw.VOCUS.net.au (114.31.202.85)  102.770 ms
+11  ten-0-0-0-0.cor01.bne05.qld.VOCUS.net.au (114.31.194.169)  102.734 ms  101.467 ms  101.411 ms
+12  ten-1-2-0.bdr01.bne03.qld.VOCUS.net.au (114.31.194.173)  101.155 ms  100.731 ms  100.707 ms
+13  as20940.qld.ix.asn.au (218.100.76.16)  61.342 ms  60.985 ms  61.178 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

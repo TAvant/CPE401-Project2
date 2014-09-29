@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.55.221.239), 30 hops max, 60 byte packets
+ 1  128.208.4.103 (128.208.4.103)  0.556 ms  0.531 ms  0.514 ms
+ 2  lo0--2.uwcr-ads-1.infra.washington.edu (198.48.65.2)  0.936 ms  0.927 ms  0.913 ms
+ 3  10.132.2.66 (10.132.2.66)  2.033 ms  2.023 ms  2.010 ms
+ 4  ae0--4000.iccr-sttlwa01-02.infra.pnw-gigapop.net (209.124.188.132)  0.946 ms  12.314 ms  12.469 ms
+ 5  xe-0-5-0-5.r05.sttlwa01.us.ce.gin.ntt.net (198.104.202.6)  1.234 ms  1.225 ms  1.211 ms
+ 6  xe-0-5-0-5.r05.sttlwa01.us.bb.gin.ntt.net (198.104.202.5)  1.349 ms  1.431 ms  1.414 ms
+ 7  ae-7.r20.sttlwa01.us.bb.gin.ntt.net (129.250.5.46)  1.262 ms  1.199 ms  1.218 ms
+ 8  ae-5.r21.snjsca04.us.bb.gin.ntt.net (129.250.3.39)  20.367 ms  25.588 ms  18.529 ms
+ 9  ae-2.r07.snjsca04.us.bb.gin.ntt.net (129.250.5.57)  21.322 ms  18.849 ms  18.771 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.44.157.239), 30 hops max, 60 byte packets
+ 1  GW-UP-0-ge2-0-1-cs.du.edu (130.253.21.126)  0.319 ms  0.270 ms  0.251 ms
+ 2  core-1200-xe-0-1-1-vlan847-policed.du.edu (130.253.101.18)  0.863 ms  0.850 ms  0.836 ms
+ 3  gr-0-2-10.core-910.frgp.net (192.43.217.206)  0.990 ms  0.974 ms  0.958 ms
+ 4  den-b1-link.telia.net (213.248.78.205)  0.942 ms  0.952 ms  0.941 ms
+ 5  chi-bb1-link.telia.net (213.155.133.190)  25.266 ms chi-bb1-link.telia.net (80.91.246.118)  25.350 ms chi-bb1-link.telia.net (213.155.133.190)  25.323 ms
+ 6  ae-3.r05.chcgil09.us.bb.gin.ntt.net (129.250.8.177)  25.688 ms  25.802 ms  26.031 ms
+ 7  ae-6.r20.chcgil09.us.bb.gin.ntt.net (129.250.2.24)  25.469 ms  25.468 ms  25.386 ms
+ 8  ae-5.r20.sttlwa01.us.bb.gin.ntt.net (129.250.3.190)  63.312 ms  63.711 ms  58.740 ms
+ 9  ae-6.r20.tokyjp05.jp.bb.gin.ntt.net (129.250.3.13)  150.479 ms  164.077 ms  159.385 ms
+10  ae-19.r25.tokyjp05.jp.bb.gin.ntt.net (129.250.6.213)  167.472 ms  147.448 ms ae-19.r24.tokyjp05.jp.bb.gin.ntt.net (129.250.6.209)  163.832 ms
+11  ae-1.r00.tokyjp05.jp.bb.gin.ntt.net (129.250.2.21)  152.777 ms  148.355 ms ae-2.r00.tokyjp05.jp.bb.gin.ntt.net (129.250.2.23)  154.461 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

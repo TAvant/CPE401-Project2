@@ -1,0 +1,10 @@
+traceroute to google.com (74.125.237.165), 30 hops max, 60 byte packets
+ 1  br1-gw-1-125.net.auckland.ac.nz (130.216.1.125)  0.270 ms  0.295 ms  0.338 ms
+ 2  anr02-wlg.reannz.co.nz (210.7.32.2)  9.411 ms  9.535 ms  9.522 ms
+ 3  xe-0-0-0-300-and01-akl.reannz.co.nz (210.7.36.1)  9.516 ms  9.515 ms  9.502 ms
+ 4  xe-0-0-0-303-ani01-akl.reannz.co.nz (210.7.36.227)  9.446 ms  9.437 ms  9.456 ms
+ 5  xe-0-0-3-42-ani09-syd.reannz.co.nz (210.7.36.182)  34.690 ms  34.822 ms  34.812 ms
+ 6  15169.syd.equinix.com (202.167.228.73)  34.848 ms  34.861 ms  34.931 ms
+ 7  66.249.95.232 (66.249.95.232)  35.288 ms  35.380 ms  35.315 ms
+ 8  72.14.232.31 (72.14.232.31)  35.950 ms  36.119 ms  36.119 ms
+ 9  syd01s18-in-f5.1e100.net (74.125.237.165)  35.239 ms  35.270 ms  35.258 ms

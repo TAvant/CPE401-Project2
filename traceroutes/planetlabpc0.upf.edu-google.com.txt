@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.34.229), 30 hops max, 60 byte packets
+ 1  193.145.46.254 (193.145.46.254)  0.330 ms  0.311 ms  0.365 ms
+ 2  vlan-359-core-2.r.upf.edu (192.168.55.38)  0.430 ms  0.445 ms  0.502 ms
+ 3  netdirect-vpn17.upf.edu (193.145.47.17)  0.653 ms  0.711 ms  0.644 ms
+ 4  anella-upf.cesca.cat (84.88.18.89)  4.843 ms  4.813 ms  4.777 ms
+ 5  ANELLA-VAL2.AE2-455.uv.rt1.val.red.rediris.es (130.206.211.73)  5.866 ms  5.962 ms  5.922 ms
+ 6  UV.AE5.telmad.rt4.mad.red.rediris.es (130.206.245.90)  12.164 ms  12.132 ms  12.244 ms
+ 7  google-router.red.rediris.es (130.206.255.2)  12.253 ms  12.236 ms  12.213 ms
+ 8  72.14.235.20 (72.14.235.20)  22.036 ms  38.587 ms  22.074 ms
+ 9  72.14.237.126 (72.14.237.126)  12.450 ms  12.669 ms  12.808 ms
+10  mad01s09-in-f5.1e100.net (173.194.34.229)  12.172 ms  12.239 ms  12.183 ms

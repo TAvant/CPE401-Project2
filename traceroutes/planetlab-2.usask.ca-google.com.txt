@@ -1,0 +1,5 @@
+traceroute to google.com (142.165.4.152), 30 hops max, 60 byte packets
+ 1  10.248.3.2 (10.248.3.2)  0.562 ms  0.701 ms  0.684 ms
+ 2  10.248.3.1 (10.248.3.1)  0.615 ms  0.577 ms  0.621 ms
+ 3  ge-7-3-601.sktn01d38pe3.core.sasktel.net (207.195.105.145)  5.431 ms  5.395 ms  5.357 ms
+ 4  ge-7-3-601.sktn01d38pe3.core.sasktel.net (207.195.105.145)  5.270 ms !X * *

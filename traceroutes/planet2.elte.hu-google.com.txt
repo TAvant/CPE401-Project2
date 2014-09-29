@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.39.101), 30 hops max, 60 byte packets
+ 1  157.181.175.254 (157.181.175.254)  0.289 ms  0.365 ms  0.445 ms
+ 2  taurus.taurus-leo.elte.hu (157.181.126.45)  0.336 ms  0.423 ms  0.499 ms
+ 3  sup720.hbone-elte.elte.hu (157.181.141.9)  0.436 ms  0.479 ms  0.554 ms
+ 4  tg0-2-0-6.rtr2.vh.hbone.hu (195.111.97.181)  0.983 ms  1.020 ms  1.054 ms
+ 5  be1.rtr1.vh.hbone.hu (195.111.96.56)  1.341 ms  1.427 ms  1.220 ms
+ 6  bix.google.com (193.188.137.163)  1.044 ms  1.213 ms  4.466 ms
+ 7  * * *
+ 8  72.14.234.255 (72.14.234.255)  15.690 ms  15.827 ms  16.014 ms
+ 9  bud02s02-in-f5.1e100.net (173.194.39.101)  15.004 ms  15.039 ms  15.110 ms

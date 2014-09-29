@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.198.93.239), 30 hops max, 60 byte packets
+ 1  renater-gw-208.irisa.fr (131.254.208.1)  0.207 ms  0.188 ms  0.176 ms
+ 2  * * *
+ 3  te4-1-caen-rtr-021.noc.renater.fr (193.51.189.54)  3.085 ms  6.934 ms  3.154 ms
+ 4  193.51.179.58 (193.51.179.58)  8.288 ms  8.293 ms  8.280 ms
+ 5  ge3-0-0-xcr1.prp.cw.net (195.10.54.65)  7.112 ms  7.106 ms  7.095 ms
+ 6  ae0-ucr1.pld.cw.net (195.2.21.226)  7.157 ms  7.139 ms  7.173 ms
+ 7  prs-b7-link.telia.net (213.248.104.217)  20.000 ms prs-b2-link.telia.net (80.239.130.213)  7.208 ms  7.212 ms
+ 8  prs-bb1-link.telia.net (213.155.134.222)  7.491 ms prs-bb2-link.telia.net (213.155.134.226)  7.175 ms prs-bb2-link.telia.net (213.155.135.38)  7.209 ms
+ 9  ffm-bb1-link.telia.net (80.91.245.102)  16.881 ms ffm-bb2-link.telia.net (80.91.246.180)  16.576 ms ffm-bb1-link.telia.net (80.91.245.102)  16.850 ms
+10  ffm-b10-link.telia.net (62.115.137.179)  16.590 ms ffm-b10-link.telia.net (62.115.137.225)  16.911 ms ffm-b10-link.telia.net (62.115.137.183)  16.612 ms
+11  as5580-ic-155268-ffm-b10.c.telia.net (80.239.195.254)  23.995 ms  22.051 ms  19.371 ms
+12  eth13-1.core1.par2.fr.atrato.net (78.152.44.244)  17.485 ms  17.401 ms  17.417 ms
+13  eth7-1.core1.lon2.uk.atrato.net (78.152.44.242)  27.563 ms  27.919 ms  27.644 ms
+14  eth2-6.r1.lon2.uk.atrato.net (78.152.44.93)  26.155 ms  26.191 ms  26.421 ms
+15  akamai-20940-gw.lon02-1.uk.as5580.net (78.152.39.74)  27.892 ms  28.785 ms  28.961 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,31 @@
+traceroute to akamai.com (96.7.109.239), 30 hops max, 60 byte packets
+ 1  br1-gw-1-125.net.auckland.ac.nz (130.216.1.125)  0.299 ms  0.310 ms  0.366 ms
+ 2  203.167.201.41 (203.167.201.41)  0.335 ms  0.331 ms  0.334 ms
+ 3  unknown.telstraglobal.net (134.159.174.37)  1.774 ms  1.794 ms  1.780 ms
+ 4  i-0-0-4-0.sydo-core02.bx.telstraglobal.net (202.84.142.153)  28.581 ms i-0-7-4-1.sydo-core02.bx.telstraglobal.net (202.84.140.181)  29.594 ms  29.592 ms
+ 5  i-0-6-0-1.sydo-core01.bi.telstraglobal.net (202.84.223.41)  25.680 ms i-0-6-0-6.sydo-core01.bi.telstraglobal.net (202.84.223.37)  25.550 ms i-0-3-2-0.sydo-core01.bi.telstraglobal.net (202.84.220.190)  25.127 ms
+ 6  i-0-5-2-0.hkth-core01.bx.telstraglobal.net (202.84.143.22)  141.084 ms i-0-2-0-4.hkth-core01.bx.telstraglobal.net (202.84.141.133)  139.278 ms i-0-4-2-0.hkth-core01.bx.telstraglobal.net (202.84.144.85)  210.971 ms
+ 7  i-0-0-0-2.hkth12.bi.telstraglobal.net (202.84.153.178)  139.425 ms i-0-0-0-0.hkth12.bi.telstraglobal.net (202.84.153.141)  139.750 ms  139.182 ms
+ 8  tata-peer.hkth12.pr.telstraglobal.net (134.159.128.6)  150.651 ms  150.575 ms  151.213 ms
+ 9  180.87.112.50 (180.87.112.50)  153.203 ms  152.566 ms  153.022 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.46.110), 30 hops max, 60 byte packets
+ 1  svi-303.cisco1.cs.wisc.edu (198.133.224.130)  0.349 ms  0.401 ms  0.422 ms
+ 2  ge-5-1.cisco-border1.cs.wisc.edu (128.105.1.1)  1.119 ms  1.511 ms  1.493 ms
+ 3  r-cssc-b280c-7-core-vlan-493.net.wisc.edu (144.92.128.194)  1.969 ms  1.957 ms  2.424 ms
+ 4  r-uwmadison-isp-xe-1-2-0-945.wiscnet.net (216.56.60.225)  0.910 ms  0.905 ms  0.873 ms
+ 5  r-equinix-isp-xe-0-0-0-3946.wiscnet.net (140.189.9.30)  18.802 ms r-equinix-isp-xe-3-0-0-3997.wiscnet.net (140.189.8.2)  18.670 ms r-equinix-isp-xe-3-1-0-2234.wiscnet.net (140.189.8.118)  18.756 ms
+ 6  74.125.49.37 (74.125.49.37)  18.723 ms 205.213.119.62 (205.213.119.62)  18.743 ms 74.125.49.37 (74.125.49.37)  18.724 ms
+ 7  * * *
+ 8  209.85.245.225 (209.85.245.225)  19.346 ms  19.310 ms  19.229 ms
+ 9  ord08s13-in-f14.1e100.net (173.194.46.110)  18.700 ms  18.690 ms  18.668 ms

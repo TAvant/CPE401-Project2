@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  chm01-v150-vrrp.ns.utk.edu (160.36.56.3)  1.224 ms  1.354 ms  1.465 ms
+ 2  10.8.2.26 (10.8.2.26)  1.189 ms  1.288 ms  1.395 ms
+ 3  bhm01v18.ns.utk.edu (160.36.2.37)  1.523 ms  1.976 ms  1.916 ms
+ 4  level3-utk.ns.utk.edu (160.36.2.105)  5.763 ms  5.760 ms  5.745 ms
+ 5  vlan52.ebr2.Atlanta2.Level3.net (4.69.150.126)  20.579 ms  20.603 ms  20.520 ms
+ 6  * * *
+ 7  ae-2-2.ebr1.Washington1.Level3.net (4.69.132.86)  20.183 ms  19.787 ms  19.924 ms
+ 8  ae-61-61.csw1.Washington1.Level3.net (4.69.134.130)  19.685 ms ae-71-71.csw2.Washington1.Level3.net (4.69.134.134)  19.337 ms  19.685 ms
+ 9  ae-2-70.edge1.Washington4.Level3.net (4.69.149.79)  19.509 ms ae-3-80.edge1.Washington4.Level3.net (4.69.149.143)  19.928 ms ae-2-70.edge1.Washington4.Level3.net (4.69.149.79)  19.530 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

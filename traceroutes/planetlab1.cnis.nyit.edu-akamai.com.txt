@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  10.240.166.245 (10.240.166.245)  5.818 ms  6.018 ms  6.028 ms
+ 2  67.59.226.81 (67.59.226.81)  8.345 ms  8.340 ms  8.340 ms
+ 3  rtr3-ge1-7.mhe.hcvlny.cv.net (167.206.34.1)  9.318 ms  9.416 ms dstswr2-ge3-7.rh.rslyny.cv.net (167.206.34.13)  11.148 ms
+ 4  451be0cd.cst.lightpath.net (65.19.99.205)  10.499 ms 451be075.cst.lightpath.net (65.19.107.117)  10.175 ms 451be07d.cst.lightpath.net (65.19.99.125)  10.684 ms
+ 5  451be0c2.cst.lightpath.net (65.19.120.194)  10.496 ms 451be0ce.cst.lightpath.net (65.19.120.206)  10.667 ms 451be0c2.cst.lightpath.net (65.19.120.194)  10.797 ms
+ 6  xe-10-0-1.edge3.NewYork1.Level3.net (4.31.16.153)  9.880 ms xe-5-0-0.edge3.NewYork1.Level3.net (4.31.26.73)  8.013 ms xe-10-2-1.edge3.NewYork1.Level3.net (4.26.35.173)  8.133 ms
+ 7  vlan60.csw1.NewYork1.Level3.net (4.69.155.62)  8.115 ms vlan80.csw3.NewYork1.Level3.net (4.69.155.190)  8.306 ms vlan60.csw1.NewYork1.Level3.net (4.69.155.62)  8.345 ms
+ 8  ae-71-71.ebr1.NewYork1.Level3.net (4.69.134.69)  8.395 ms ae-61-61.ebr1.NewYork1.Level3.net (4.69.134.65)  10.372 ms ae-72-72.ebr2.NewYork1.Level3.net (4.69.148.37)  10.821 ms
+ 9  ae-45-45.ebr2.NewYork2.Level3.net (4.69.141.22)  10.493 ms ae-4-4.ebr1.NewYork2.Level3.net (4.69.141.18)  10.793 ms ae-47-47.ebr1.NewYork2.Level3.net (4.69.201.46)  10.800 ms
+10  ae-2-52.edge3.NewYork2.Level3.net (4.69.138.228)  10.929 ms ae-1-51.edge3.NewYork2.Level3.net (4.69.138.196)  10.923 ms  11.207 ms
+11  64.208.110.209 (64.208.110.209)  11.352 ms  11.453 ms  9.581 ms
+12  jfk-brdr-04.inet.qwest.net (63.235.40.57)  7.758 ms  10.214 ms  10.454 ms
+13  nyc-edge-04.inet.qwest.net (205.171.30.66)  10.824 ms  10.617 ms  10.708 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

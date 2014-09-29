@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.41.201), 30 hops max, 60 byte packets
+ 1  cisco.di.uminho.pt (193.136.19.254)  1.332 ms  1.101 ms  1.096 ms
+ 2  172.16.115.254 (172.16.115.254)  0.920 ms  0.939 ms  0.924 ms
+ 3  172.16.2.2 (172.16.2.2)  0.911 ms  0.893 ms  0.874 ms
+ 4  172.16.4.1 (172.16.4.1)  0.856 ms  0.849 ms  0.816 ms
+ 5  Router2.GE.Porto.fccn.pt (193.136.4.101)  1.466 ms  1.467 ms  1.447 ms
+ 6  Router3.10GE.DWDM.Lisboa.fccn.pt (193.136.1.1)  5.837 ms  5.770 ms  5.754 ms
+ 7  ROUTER10.10GE.CR1.Lisboa.fccn.pt (193.137.0.8)  5.788 ms  5.779 ms  5.763 ms
+ 8  Google.AS15169.gigapix.pt (193.136.250.20)  6.446 ms  6.436 ms  6.034 ms
+ 9  209.85.254.68 (209.85.254.68)  6.796 ms  6.776 ms  6.925 ms
+10  lis01s05-in-f9.1e100.net (173.194.41.201)  6.648 ms  6.651 ms  6.633 ms

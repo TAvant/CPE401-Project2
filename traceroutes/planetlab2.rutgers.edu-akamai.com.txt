@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  vlan51-lcsr-gw.rutgers.edu (165.230.49.113)  1.119 ms  2.085 ms  2.236 ms
+ 2  vlan104-ar01-cor-hill.runet.rutgers.net (172.28.1.33)  0.447 ms  0.482 ms  0.562 ms
+ 3  gigabitethernet1-9-dr01-hill-bus.runet.rutgers.net (172.28.6.38)  0.668 ms  0.494 ms  0.471 ms
+ 4  tengigabitethernet1-4-cr01-hill-nbp.runet.rutgers.net (172.28.194.2)  0.408 ms  0.441 ms  0.448 ms
+ 5  xe-0-2-0-0-cr02-hill-nbp.runet.rutgers.net (172.28.193.194)  0.264 ms  0.235 ms  0.217 ms
+ 6  xe-2-2-0-0-cr01-halsey-nwk.runet.rutgers.net (172.28.193.98)  1.780 ms  1.164 ms  1.118 ms
+ 7  xe-2-2-0-0-er01-halsey-ext.runet.rutgers.net (172.28.193.81)  1.193 ms  1.396 ms  1.136 ms
+ 8   (64.125.193.193)  20.065 ms  20.239 ms  20.210 ms
+ 9  xe-3-1-0.cr1.lga5.us.above.net (64.125.27.134)  7.705 ms  7.687 ms  7.719 ms
+10  xe-0-2-1.er1.lga5.us.above.net (64.125.30.206)  3.338 ms *  5.161 ms
+11  above-qwest.lga5.us.above.net (64.125.13.246)  3.455 ms  3.631 ms  2.828 ms
+12  nyc-edge-04.inet.qwest.net (205.171.30.66)  2.943 ms  2.924 ms  2.970 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

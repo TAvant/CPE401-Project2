@@ -1,0 +1,12 @@
+traceroute to google.com (74.125.232.96), 30 hops max, 60 byte packets
+ 1  rdnet-gw1-vlan730.rd.tut.fi (193.166.167.2)  0.405 ms  0.374 ms  0.358 ms
+ 2  surf-gw-1-2-0-560.cc.tut.fi (130.230.1.129)  1.267 ms  1.266 ms  1.249 ms
+ 3  funet-tut6-rtr-xe-0-0-0.cc.tut.fi (130.230.1.237)  0.685 ms  0.677 ms  0.661 ms
+ 4  csc6-ae1-0-tut6.funet.fi (193.166.255.77)  3.481 ms  3.392 ms  3.393 ms
+ 5  fi-csc.nordu.net (109.105.102.56)  75.391 ms  75.612 ms  75.595 ms
+ 6  se-tug.nordu.net (109.105.97.89)  99.588 ms  96.794 ms  96.774 ms
+ 7  se-tug2.nordu.net (109.105.97.18)  10.196 ms  10.310 ms  10.307 ms
+ 8  google-gw.nordu.net (109.105.98.6)  10.525 ms  10.515 ms  10.503 ms
+ 9  216.239.43.122 (216.239.43.122)  16.772 ms  10.936 ms  11.018 ms
+10  209.85.253.149 (209.85.253.149)  11.381 ms  11.036 ms  11.042 ms
+11  arn02s05-in-f0.1e100.net (74.125.232.96)  10.795 ms  10.754 ms  10.762 ms

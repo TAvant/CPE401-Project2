@@ -1,0 +1,11 @@
+traceroute to google.com (74.125.224.199), 30 hops max, 60 byte packets
+ 1  csworld52.cs.ucsb.edu (128.111.52.1)  0.947 ms  0.925 ms  0.915 ms
+ 2  574-c-v1071.noc.ucsb.edu (128.111.4.52)  1.683 ms  1.672 ms  1.658 ms
+ 3  r2--574-c--2.commserv.ucsb.edu (128.111.252.148)  0.768 ms  0.794 ms  1.044 ms
+ 4  r1--r2--1.commserv.ucsb.edu (128.111.252.168)  7.891 ms  7.881 ms  7.867 ms
+ 5  lax-agg5--ucsb-10g.cenic.net (137.164.23.90)  4.028 ms  4.059 ms  4.257 ms
+ 6  dc-lax-core1--lax-agg6-10ge-3.cenic.net (137.164.46.222)  7.503 ms dc-lax-core1--lax-agg6-10ge-2.cenic.net (137.164.46.220)  5.232 ms dc-lax-core1--lax-agg6-10ge-1.cenic.net (137.164.46.218)  5.204 ms
+ 7  72.14.223.85 (72.14.223.85)  3.413 ms  3.411 ms  3.399 ms
+ 8  * 64.233.174.238 (64.233.174.238)  3.453 ms *
+ 9  72.14.236.13 (72.14.236.13)  3.653 ms  3.978 ms  4.010 ms
+10  lax02s02-in-f7.1e100.net (74.125.224.199)  3.355 ms  3.389 ms  3.377 ms

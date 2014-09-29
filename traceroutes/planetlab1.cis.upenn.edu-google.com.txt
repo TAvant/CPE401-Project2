@@ -1,0 +1,13 @@
+traceroute to google.com (173.194.43.33), 30 hops max, 60 byte packets
+ 1  SUBNET-6-ROUTER.CIS.UPENN.EDU (158.130.6.1)  53.142 ms  53.201 ms  53.188 ms
+ 2  isc-uplink-2.seas.upenn.edu (158.130.128.2)  5.840 ms  5.832 ms  5.818 ms
+ 3  vagelos.vag-brdr.router.upenn.edu (128.91.238.193)  0.408 ms  0.438 ms  0.426 ms
+ 4  xe-7-2-1.bar1.Philadelphia1.Level3.net (4.30.44.1)  0.413 ms  0.648 ms  0.628 ms
+ 5  ae-11-11.bar2.Philadelphia1.Level3.net (4.69.153.90)  18.780 ms  30.567 ms  30.685 ms
+ 6  ae-6-6.ebr2.NewYork1.Level3.net (4.69.133.170)  2.731 ms  2.517 ms  2.491 ms
+ 7  ae-92-92.csw4.NewYork1.Level3.net (4.69.148.46)  2.470 ms ae-82-82.csw3.NewYork1.Level3.net (4.69.148.42)  9.890 ms ae-92-92.csw4.NewYork1.Level3.net (4.69.148.46)  2.671 ms
+ 8  ae-2-70.edge1.NewYork1.Level3.net (4.69.155.78)  2.658 ms ae-3-80.edge1.NewYork1.Level3.net (4.69.155.142)  2.660 ms  2.722 ms
+ 9  Google-level3-3x10G.NewYork.Level3.net (4.68.70.54)  2.720 ms  2.694 ms  2.691 ms
+10  209.85.248.180 (209.85.248.180)  2.840 ms  11.427 ms  11.304 ms
+11  72.14.237.254 (72.14.237.254)  3.355 ms  3.373 ms  3.392 ms
+12  lga15s35-in-f1.1e100.net (173.194.43.33)  3.085 ms  3.005 ms  3.049 ms

@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.189.239), 30 hops max, 60 byte packets
+ 1  jcpnrm-237-9.pck.nerim.net (80.65.237.9)  50.509 ms  49.995 ms  49.538 ms
+ 2  lo9-lns951-tip-courbevoie.nerim.net (178.132.16.247)  42.313 ms  43.937 ms  45.676 ms
+ 3  vl131.agr-cbe-1.nerim.net (194.79.131.61)  46.792 ms  48.916 ms  48.952 ms
+ 4  xe0-0-1-179.edg-cbe-3.nerim.net (194.79.128.217)  55.095 ms  55.096 ms  55.120 ms
+ 5  te3-4-83.bbn-cbe-2.nerim.net (194.79.128.214)  57.406 ms  58.288 ms  59.154 ms
+ 6  te2-1-95.bbn-sde-1.nerim.net (194.79.131.85)  60.568 ms  36.431 ms  36.049 ms
+ 7  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  37.387 ms  40.824 ms  40.200 ms
+ 8  prs-b8-link.telia.net (213.155.129.253)  41.147 ms  42.423 ms  43.391 ms
+ 9  prs-bb2-link.telia.net (213.155.131.16)  36.492 ms prs-bb1-link.telia.net (213.155.131.0)  41.675 ms prs-bb2-link.telia.net (213.155.136.208)  123.686 ms
+10  ldn-bb1-link.telia.net (80.91.247.35)  52.578 ms ldn-bb1-link.telia.net (213.155.134.37)  53.849 ms ldn-bb1-link.telia.net (80.91.254.208)  55.765 ms
+11  ldn-b3-link.telia.net (80.91.245.29)  56.651 ms ldn-b3-link.telia.net (80.91.245.27)  59.084 ms ldn-b3-link.telia.net (80.91.245.29)  59.907 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

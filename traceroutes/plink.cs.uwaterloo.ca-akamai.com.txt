@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.66.173.239), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.234 ms  4.212 ms  4.196 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.908 ms  0.907 ms  0.892 ms
+ 3  te2-12-cn-rt-rac.ns.uwaterloo.ca (172.16.31.121)  0.347 ms  0.337 ms  0.550 ms
+ 4  te4-9-ext-rt-mc.ns.uwaterloo.ca (172.16.31.229)  0.768 ms  0.761 ms  0.745 ms
+ 5  te0-0-0-23.ccr22.yyz02.atlas.cogentco.com (38.99.202.213)  8.953 ms  8.938 ms  8.921 ms
+ 6  be2437.ccr21.alb02.atlas.cogentco.com (66.28.4.197)  17.893 ms  17.937 ms  18.162 ms
+ 7  be2109.mpd22.jfk02.atlas.cogentco.com (154.54.3.137)  21.089 ms be2106.ccr21.jfk02.atlas.cogentco.com (154.54.3.49)  21.072 ms be2107.ccr22.jfk02.atlas.cogentco.com (154.54.3.93)  21.058 ms
+ 8  be2324.ccr21.jfk04.atlas.cogentco.com (154.54.47.18)  21.578 ms be2326.ccr21.jfk04.atlas.cogentco.com (154.54.44.70)  21.568 ms be2327.ccr21.jfk04.atlas.cogentco.com (154.54.1.162)  21.540 ms
+ 9  qwest.jfk04.atlas.cogentco.com (154.54.11.182)  20.786 ms qwest.jfk04.atlas.cogentco.com (154.54.9.2)  20.684 ms  20.732 ms
+10  nyc-edge-04.inet.qwest.net (205.171.30.62)  20.731 ms nyc-edge-04.inet.qwest.net (205.171.30.66)  20.882 ms  20.869 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

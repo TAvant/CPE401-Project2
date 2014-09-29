@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.117.226), 30 hops max, 60 byte packets
+ 1  ve-302.alaxala3.sfc.wide.ad.jp (203.178.143.84)  0.600 ms  0.677 ms  0.755 ms
+ 2  ve100.juniper2.fujisawa.wide.ad.jp (203.178.137.94)  2.922 ms  2.907 ms  2.896 ms
+ 3  ve-46.foundry4.nezu.wide.ad.jp (203.178.136.93)  1.294 ms  1.271 ms  1.247 ms
+ 4  ve-42.foundry6.otemachi.wide.ad.jp (203.178.136.65)  1.423 ms  1.438 ms  1.429 ms
+ 5  ve-5.alala1.otemachi.wide.ad.jp (203.178.140.215)  3.378 ms  5.357 ms  7.406 ms
+ 6  as15169.dix-ie.jp (202.249.2.189)  1.804 ms  1.944 ms  1.926 ms
+ 7  209.85.255.80 (209.85.255.80)  1.983 ms  2.001 ms  1.953 ms
+ 8  209.85.249.192 (209.85.249.192)  44.074 ms  44.074 ms  7.201 ms
+ 9  72.14.234.29 (72.14.234.29)  2.574 ms  2.729 ms  2.378 ms
+10  nrt04s12-in-f2.1e100.net (173.194.117.226)  2.233 ms  2.190 ms  2.165 ms

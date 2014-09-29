@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.189.239), 30 hops max, 60 byte packets
+ 1  arenys0-2.ac.upc.es (147.83.30.130)  0.478 ms  0.497 ms  0.538 ms
+ 2  10.10.100.13 (10.10.100.13)  0.583 ms  0.660 ms  0.714 ms
+ 3  10.10.124.50 (10.10.124.50)  0.808 ms  0.775 ms  0.826 ms
+ 4  10.10.124.14 (10.10.124.14)  0.868 ms  0.915 ms  0.958 ms
+ 5  anella-upc.cesca.cat (84.88.18.17)  2.134 ms  2.138 ms  2.161 ms
+ 6  ANELLA-VAL1.AE2-454.uv.rt1.val.red.rediris.es (130.206.211.69)  6.120 ms  5.752 ms  5.833 ms
+ 7  UV.AE5.telmad.rt4.mad.red.rediris.es (130.206.245.90)  11.896 ms  11.816 ms  11.893 ms
+ 8  213.242.113.77 (213.242.113.77)  11.976 ms  12.020 ms  12.066 ms
+ 9  vl-3503-ve-117.ebr1.Paris1.Level3.net (4.69.158.197)  28.272 ms vl-3504-ve-118.ebr1.Paris1.Level3.net (4.69.158.201)  28.407 ms vl-3502-ve-116.ebr1.Paris1.Level3.net (4.69.158.193)  28.552 ms
+10  ae-81-81.csw3.Paris1.Level3.net (4.69.161.86)  28.679 ms ae-71-71.csw2.Paris1.Level3.net (4.69.161.82)  28.061 ms  28.164 ms
+11  ae-1-60.edge3.Paris1.Level3.net (4.69.168.6)  30.771 ms  29.458 ms  29.456 ms
+12  prs-b7-link.telia.net (213.248.89.189)  28.175 ms telia-level3.paris1.Level3.net (4.68.111.194)  28.140 ms telia-level3.paris1.Level3.net (4.68.62.250)  28.235 ms
+13  prs-bb1-link.telia.net (213.155.134.220)  28.396 ms prs-bb1-link.telia.net (213.155.134.222)  28.465 ms prs-bb1-link.telia.net (213.155.134.220)  28.560 ms
+14  ldn-bb2-link.telia.net (80.91.247.241)  35.126 ms ldn-bb1-link.telia.net (213.155.134.37)  35.556 ms ldn-bb1-link.telia.net (80.91.247.35)  35.583 ms
+15  ldn-b3-link.telia.net (62.115.137.95)  35.198 ms ldn-b3-link.telia.net (62.115.137.93)  35.472 ms ldn-b3-link.telia.net (80.91.250.241)  35.559 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

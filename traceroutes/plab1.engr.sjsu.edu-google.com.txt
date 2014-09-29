@@ -1,0 +1,9 @@
+traceroute to google.com (74.125.239.103), 30 hops max, 60 byte packets
+ 1  130.65.6.238 (130.65.6.238)  0.358 ms  0.480 ms  0.886 ms
+ 2  dc-oak-agg2--sjsu-vl-160-10ge.cenic.net (137.164.3.146)  1.597 ms  1.588 ms  1.572 ms
+ 3  dc-oak-core1--oak-agg2-10ge.cenic.net (137.164.47.117)  5.972 ms  5.977 ms  5.980 ms
+ 4  dc-paix-px1--oak-core1-ge.cenic.net (137.164.47.174)  2.971 ms  2.959 ms  2.939 ms
+ 5  google--paix-px1-2.cenic.net (198.32.251.130)  3.115 ms  3.228 ms  3.205 ms
+ 6  209.85.240.114 (209.85.240.114)  4.493 ms  3.705 ms  3.556 ms
+ 7  66.249.95.29 (66.249.95.29)  4.245 ms  3.981 ms  4.386 ms
+ 8  nuq05s01-in-f7.1e100.net (74.125.239.103)  3.487 ms  3.471 ms  3.505 ms

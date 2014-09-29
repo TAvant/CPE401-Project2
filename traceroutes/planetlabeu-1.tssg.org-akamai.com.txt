@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.34.189.239), 30 hops max, 60 byte packets
+ 1  blanch-sr1-vlan7.services.hea.net (193.1.31.125)  3.187 ms  3.256 ms  3.343 ms
+ 2  te0-8-0-1-cr2-cwt.hea.net (193.1.236.1)  8.661 ms  8.729 ms  8.717 ms
+ 3  heanet.mx1.dub.ie.geant.net (62.40.125.125)  3.788 ms  3.789 ms  3.807 ms
+ 4  ae7.mx1.lon.uk.geant.net (62.40.98.93)  13.618 ms  13.612 ms  13.639 ms
+ 5  ae0.mx1.ams.nl.geant.net (62.40.98.81)  21.153 ms  21.228 ms  21.210 ms
+ 6  amsix-ams8.netarch.akamai.com (195.69.145.208)  21.696 ms  21.625 ms  21.657 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

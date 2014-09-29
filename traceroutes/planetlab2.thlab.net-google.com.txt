@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.41.131), 30 hops max, 60 byte packets
+ 1  141.11.0.167 (141.11.0.167)  0.495 ms  0.769 ms  1.270 ms
+ 2  141.11.0.12 (141.11.0.12)  5.373 ms  5.703 ms  5.721 ms
+ 3  192.168.0.2 (192.168.0.2)  134.447 ms  134.478 ms  134.522 ms
+ 4  vl231.mag01.par04.atlas.cogentco.com (149.6.165.61)  6.133 ms  6.154 ms  6.191 ms
+ 5  te0-7-0-1.ccr21.par04.atlas.cogentco.com (154.54.58.254)  8.039 ms te0-0-0-1.ccr21.par04.atlas.cogentco.com (154.54.56.165)  6.564 ms  7.049 ms
+ 6  be2309.ccr22.par01.atlas.cogentco.com (154.54.73.241)  8.037 ms be2313.mpd22.par01.atlas.cogentco.com (154.54.73.253)  4.171 ms be2310.mpd21.par01.atlas.cogentco.com (154.54.73.249)  4.819 ms
+ 7  be2272.ccr22.lon13.atlas.cogentco.com (130.117.49.121)  11.789 ms be2273.mpd21.lon13.atlas.cogentco.com (130.117.50.93)  11.820 ms  12.712 ms
+ 8  be2317.ccr22.lon01.atlas.cogentco.com (154.54.73.178)  12.752 ms  12.839 ms be2315.ccr22.lon01.atlas.cogentco.com (154.54.73.110)  12.731 ms
+ 9  te4-2.ccr01.lon18.atlas.cogentco.com (154.54.62.58)  13.809 ms te3-2.ccr01.lon18.atlas.cogentco.com (154.54.62.66)  14.559 ms te4-2.ccr01.lon18.atlas.cogentco.com (154.54.62.58)  14.482 ms
+10  149.6.146.30 (149.6.146.30)  14.538 ms 149.14.8.50 (149.14.8.50)  14.529 ms 149.6.146.30 (149.6.146.30)  14.546 ms
+11  209.85.255.78 (209.85.255.78)  11.518 ms  11.219 ms  11.152 ms
+12  72.14.238.55 (72.14.238.55)  11.216 ms  11.256 ms  12.128 ms
+13  lhr08s03-in-f3.1e100.net (173.194.41.131)  11.117 ms  11.109 ms  10.603 ms

@@ -1,0 +1,7 @@
+traceroute to google.com (173.194.45.3), 30 hops max, 60 byte packets
+ 1  193.136.227.190 (193.136.227.190)  2.210 ms  2.178 ms  2.168 ms
+ 2  GT9.GE.LISBOA.fccn.pt (193.137.1.1)  5.996 ms  6.006 ms  5.983 ms
+ 3  ROUTER10.10GE.CR2.Lisboa.fccn.pt (193.137.0.24)  5.960 ms  5.993 ms  5.973 ms
+ 4  Google.AS15169.gigapix.pt (193.136.250.20)  6.457 ms  6.433 ms  6.427 ms
+ 5  209.85.254.70 (209.85.254.70)  6.670 ms  6.922 ms  7.131 ms
+ 6  lis01s06-in-f3.1e100.net (173.194.45.3)  6.236 ms  6.150 ms  6.153 ms

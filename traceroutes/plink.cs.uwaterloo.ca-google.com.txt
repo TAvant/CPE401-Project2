@@ -1,0 +1,31 @@
+traceroute to google.com (71.19.173.91), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  4.863 ms  4.838 ms  4.823 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.795 ms  1.016 ms  0.995 ms
+ 3  te2-12-cn-rt-rac.ns.uwaterloo.ca (172.16.31.121)  20.959 ms  21.026 ms  21.014 ms
+ 4  te4-9-ext-rt-mc.ns.uwaterloo.ca (172.16.31.229)  0.715 ms  0.698 ms  0.681 ms
+ 5  66.97.28.65 (66.97.28.65)  0.880 ms  0.874 ms  1.083 ms
+ 6  be119.p01-york.orion.on.ca (66.97.16.109)  4.052 ms  4.121 ms  4.329 ms
+ 7  be202.gw01-toro.orion.on.ca (66.97.16.26)  4.057 ms  4.298 ms  4.515 ms
+ 8  gw-allstream.torontointernetxchange.net (206.108.34.4)  3.246 ms  3.246 ms  3.217 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

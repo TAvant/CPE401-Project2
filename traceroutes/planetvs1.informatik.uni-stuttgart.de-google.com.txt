@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.70.101), 30 hops max, 60 byte packets
+ 1  dcore1-210.informatik.uni-stuttgart.de (129.69.210.253)  0.357 ms  0.396 ms  0.410 ms
+ 2  gwcampus2.mgmt.informatik.uni-stuttgart.de (192.168.215.5)  0.607 ms  0.722 ms  0.801 ms
+ 3  141.58.196.44 (141.58.196.44)  0.915 ms  0.957 ms  1.235 ms
+ 4  c6-border_r2-te1_1.in.uni-stuttgart.net (141.58.196.6)  0.197 ms c6-border_r1-te4_1.in.uni-stuttgart.net (141.58.196.2)  0.412 ms  0.485 ms
+ 5  Stuttgart-NWZ-1-10GE-0-1-0-5.belwue.net (129.143.101.89)  0.766 ms  0.820 ms Stuttgart-AL30-1-10GE-0-1-0-3.belwue.net (129.143.101.137)  0.914 ms
+ 6  Karlsruhe-RZ-1-10GE-0-1-0-1.belwue.net (129.143.59.214)  1.722 ms Karlsruhe-RZ-1-10GE-0-0-0-1.belwue.net (129.143.59.210)  1.735 ms Karlsruhe-Bib-1-10GE-0-3-0-4.belwue.net (129.143.57.46)  1.835 ms
+ 7  Frankfurt-DECIX-1-10GE-0-2-0-1.belwue.net (129.143.59.218)  4.202 ms Mannheim-RZ-1-10GE-0-0-0-1.belwue.net (129.143.59.54)  2.895 ms Frankfurt-DECIX-1-10GE-0-2-0-1.belwue.net (129.143.59.218)  4.174 ms
+ 8  de-cix20.net.google.com (80.81.193.108)  4.042 ms  4.029 ms Frankfurt-DECIX-1-10GE-0-0-0-0.belwue.net (129.143.59.102)  4.023 ms
+ 9  de-cix20.net.google.com (80.81.193.108)  3.990 ms  3.981 ms  3.976 ms
+10  72.14.238.44 (72.14.238.44)  4.148 ms 209.85.251.248 (209.85.251.248)  4.447 ms 72.14.238.44 (72.14.238.44)  4.127 ms
+11  209.85.254.118 (209.85.254.118)  4.493 ms 72.14.234.235 (72.14.234.235)  4.991 ms 72.14.234.237 (72.14.234.237)  4.590 ms
+12  209.85.254.114 (209.85.254.114)  10.177 ms * 209.85.254.116 (209.85.254.116)  4.701 ms
+13  fa-in-f101.1e100.net (173.194.70.101)  4.675 ms  5.055 ms  5.092 ms

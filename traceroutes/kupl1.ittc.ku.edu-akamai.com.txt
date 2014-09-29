@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.63.189.239), 30 hops max, 60 byte packets
+ 1  129.237.161.254 (129.237.161.254)  0.245 ms  0.125 ms  0.135 ms
+ 2  129.237.2.170 (129.237.2.170)  0.537 ms  0.541 ms  0.563 ms
+ 3  CSFCORE1-po8.net.ku.edu (129.237.2.74)  0.429 ms  0.449 ms  0.473 ms
+ 4  CSFC7601-te-6-8.net.ku.edu (129.237.2.130)  0.372 ms  0.400 ms  0.348 ms
+ 5  kanren-ku-compctr-border.peer.net.kanren.net (164.113.216.185)  0.420 ms  0.533 ms  0.615 ms
+ 6  bb-kc-walnut-e3-1.bb.net.kanren.net (164.113.193.49)  1.270 ms  9.583 ms  9.574 ms
+ 7  xe-4-3-0.505.chic0.tr-cps.internet2.edu (64.57.21.201)  12.539 ms  12.544 ms  12.541 ms
+ 8  equinix-ord.netarch.akamai.com (206.223.119.102)  13.363 ms  13.537 ms  13.415 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

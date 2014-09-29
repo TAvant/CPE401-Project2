@@ -1,0 +1,10 @@
+traceroute to google.com (74.125.226.224), 30 hops max, 60 byte packets
+ 1  10.240.166.245 (10.240.166.245)  6.095 ms  6.123 ms  6.114 ms
+ 2  67.59.226.89 (67.59.226.89)  6.317 ms  6.312 ms  6.308 ms
+ 3  dstswr1-ge3-7.rh.rslyny.cv.net (167.206.34.9)  10.079 ms  11.262 ms rtr4-ge1-7.mhe.hcvlny.cv.net (167.206.34.5)  10.996 ms
+ 4  451be0cd.cst.lightpath.net (65.19.99.205)  10.293 ms 451be075.cst.lightpath.net (65.19.99.117)  10.511 ms 451be0c5.cst.lightpath.net (65.19.99.197)  11.224 ms
+ 5  451be0c2.cst.lightpath.net (65.19.120.194)  10.557 ms 451be0ce.cst.lightpath.net (65.19.120.206)  10.659 ms 451be0c2.cst.lightpath.net (65.19.120.194)  10.924 ms
+ 6  72.14.215.203 (72.14.215.203)  10.747 ms  11.200 ms  11.263 ms
+ 7  209.85.247.31 (209.85.247.31)  11.245 ms  6.131 ms  10.017 ms
+ 8  72.14.239.252 (72.14.239.252)  10.719 ms  10.483 ms  10.887 ms
+ 9  lga15s29-in-f0.1e100.net (74.125.226.224)  10.258 ms  10.065 ms  10.324 ms

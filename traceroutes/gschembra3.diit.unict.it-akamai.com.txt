@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.55.157.239), 30 hops max, 60 byte packets
+ 1  ing-gw2.cdc.unict.it (151.97.6.6)  6.169 ms  6.255 ms *
+ 2  151.97.19.161 (151.97.19.161)  7.165 ms  7.405 ms  7.653 ms
+ 3  192.168.255.73 (192.168.255.73)  6.706 ms  6.812 ms  6.927 ms
+ 4  ru-uni-logical-ip-ct.ct1.garr.net (193.206.137.66)  6.617 ms  6.605 ms  6.591 ms
+ 5  rx1-ct1-rx1-bo1.bo1.garr.net (90.147.80.189)  29.527 ms  27.708 ms  27.760 ms
+ 6  rx1-bo1-rx1-mi1.mi1.garr.net (90.147.80.109)  30.239 ms  30.197 ms rx1-bo1-r-bo1.bo1.garr.net (90.147.80.33)  26.215 ms
+ 7  r-bo1-r-mi1-l4.mi1.garr.net (90.147.80.5)  26.443 ms rx1-mi1-r-mi1.mi1.garr.net (90.147.80.93)  27.471 ms r-bo1-r-mi1-l4.mi1.garr.net (90.147.80.5)  26.537 ms
+ 8  xe-0-3-1.csr1.lin1.gblx.net (64.215.30.89)  26.786 ms  26.776 ms  29.499 ms
+ 9  te4-3-10G.ar3.CDG2.gblx.net (67.16.148.105)  46.812 ms  45.765 ms po10-20g.ar3.CDG2.gblx.net (67.16.130.221)  38.381 ms
+10  xe-0-0-0-5.r04.parsfr01.fr.bb.gin.ntt.net (129.250.9.145)  45.964 ms  45.982 ms  48.061 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

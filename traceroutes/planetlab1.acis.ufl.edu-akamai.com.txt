@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.1.125.239), 30 hops max, 60 byte packets
+ 1  aerv1-core-msfc-1-v281-1.ns.ufl.edu (10.244.32.1)  0.972 ms  1.151 ms  1.316 ms
+ 2  elmv1-core-msfc-1-v738-1.ns.ufl.edu (128.227.123.21)  0.331 ms  0.369 ms  0.350 ms
+ 3  ctx36-nexus-msfc-1-v46-1.ns.ufl.edu (128.227.236.53)  19.858 ms  19.965 ms  19.953 ms
+ 4  ctx36-ewan-msfc-1-v50-1.ns.ufl.edu (128.227.236.86)  0.454 ms  0.536 ms  0.593 ms
+ 5  ssrb230a-ewan-msfc-1-v723-1.ns.ufl.edu (128.227.0.97)  0.944 ms  1.030 ms  1.082 ms
+ 6  tlh-flrcore-asr9010-1-te0103-1909.net.flrnet.org (108.59.28.242)  4.941 ms  5.183 ms  5.212 ms
+ 7  tpa-flrcore-asr9010-1-be1-1.net.flrnet.org (108.59.31.22)  15.438 ms  15.379 ms  15.545 ms
+ 8  mia-flrcore-asr9010-1-be1-1.net.flrnet.org (108.59.31.20)  16.030 ms  15.850 ms  14.995 ms
+ 9  nota.netarch.akamai.com (198.32.124.114)  13.902 ms  13.900 ms  13.883 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

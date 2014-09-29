@@ -1,0 +1,14 @@
+traceroute to google.com (74.125.232.101), 30 hops max, 60 byte packets
+ 1  130.237.43.3 (130.237.43.3)  5.363 ms  5.341 ms  5.447 ms
+ 2  vss1-vss2-p2p.gw.kth.se (130.237.211.102)  7.044 ms  7.040 ms  7.028 ms
+ 3  cn6-vss1-p2p.gw.kth.se (130.237.211.118)  5.374 ms  5.698 ms  5.688 ms
+ 4  * * *
+ 5  kth-br2.sunet.se (193.11.0.197)  5.226 ms  5.198 ms  5.171 ms
+ 6  m1tug-ae4.sunet.se (130.242.85.209)  5.502 ms  0.823 ms  0.809 ms
+ 7  t1tug-ae1-v1.sunet.se (130.242.83.41)  0.797 ms  0.888 ms  1.001 ms
+ 8  se-tug.nordu.net (109.105.102.17)  0.984 ms  0.940 ms  0.937 ms
+ 9  se-tug2.nordu.net (109.105.97.18)  0.930 ms  0.903 ms  69.317 ms
+10  google-gw.nordu.net (109.105.98.6)  1.255 ms  1.176 ms  1.169 ms
+11  216.239.43.122 (216.239.43.122)  6.562 ms  1.320 ms  1.525 ms
+12  209.85.253.149 (209.85.253.149)  2.050 ms  1.716 ms  1.863 ms
+13  arn02s05-in-f5.1e100.net (74.125.232.101)  1.430 ms  1.427 ms  1.325 ms

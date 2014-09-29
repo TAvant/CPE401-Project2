@@ -1,0 +1,13 @@
+traceroute to google.com (173.194.37.136), 30 hops max, 60 byte packets
+ 1  aerv1-core-msfc-1-v281-1.ns.ufl.edu (10.244.32.1)  1.937 ms  2.109 ms  2.292 ms
+ 2  elmv1-core-msfc-1-v738-1.ns.ufl.edu (128.227.123.21)  0.339 ms  0.324 ms  0.368 ms
+ 3  ctx36-nexus-msfc-1-v46-1.ns.ufl.edu (128.227.236.53)  0.395 ms  0.385 ms  0.431 ms
+ 4  ctx36-ewan-msfc-1-v50-1.ns.ufl.edu (128.227.236.86)  0.407 ms  0.478 ms  0.541 ms
+ 5  ssrb230a-ewan-msfc-1-v723-1.ns.ufl.edu (128.227.0.97)  128.837 ms  128.897 ms  128.930 ms
+ 6  tlh-flrcore-asr9010-1-te0103-1909.net.flrnet.org (108.59.28.242)  4.956 ms  5.122 ms  5.136 ms
+ 7  tpa-flrcore-asr9010-1-be1-1.net.flrnet.org (108.59.31.22)  14.619 ms  14.605 ms  14.634 ms
+ 8  mia-flrcore-asr9010-1-be1-1.net.flrnet.org (108.59.31.20)  14.796 ms  15.118 ms  15.201 ms
+ 9  peer-google-mia-flrnetcp-1.net.flrnet.org (108.59.27.3)  13.907 ms  13.898 ms  13.908 ms
+10  209.85.253.118 (209.85.253.118)  14.011 ms *  14.016 ms
+11  209.85.241.145 (209.85.241.145)  14.248 ms  14.599 ms  14.687 ms
+12  mia05s18-in-f8.1e100.net (173.194.37.136)  14.435 ms  14.413 ms  14.513 ms

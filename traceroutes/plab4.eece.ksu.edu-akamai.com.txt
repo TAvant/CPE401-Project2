@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.38.173.239), 30 hops max, 60 byte packets
+ 1  129.130.252.137 (129.130.252.137)  0.525 ms  0.532 ms  0.754 ms
+ 2  129.130.18.4 (129.130.18.4)  1.062 ms  1.311 ms  1.034 ms
+ 3  kanren-ksu-pplant-border.peer.net.kanren.net (164.113.212.5)  5.945 ms  5.919 ms  5.891 ms
+ 4  bb-ksu-hale-e2-1.bb.net.kanren.net (164.113.193.22)  1.863 ms  1.852 ms  1.838 ms
+ 5  bb-kc-walnut-e2-4.bb.net.kanren.net (164.113.193.53)  10.610 ms  10.587 ms  10.559 ms
+ 6  bb-kc-grand-e2-1.bb.net.kanren.net (164.113.192.41)  14.085 ms  13.900 ms  11.837 ms
+ 7  te0-0-1-0.ccr22.mci01.atlas.cogentco.com (38.104.86.181)  4.771 ms  4.740 ms  4.671 ms
+ 8  be2133.ccr22.sfo01.atlas.cogentco.com (154.54.30.65)  42.538 ms  42.525 ms  42.437 ms
+ 9  be2165.ccr22.sjc01.atlas.cogentco.com (154.54.28.66)  43.442 ms  44.357 ms  44.362 ms
+10  be2047.ccr21.sjc03.atlas.cogentco.com (154.54.5.114)  44.326 ms  44.315 ms  44.311 ms
+11  verio.iad01.atlas.cogentco.com (154.54.10.42)  44.281 ms  45.237 ms  45.190 ms
+12  ae-8.r21.snjsca04.us.bb.gin.ntt.net (129.250.5.56)  43.565 ms  44.925 ms  43.991 ms
+13  ae-7.r20.osakjp02.jp.bb.gin.ntt.net (129.250.2.165)  162.991 ms  167.640 ms  162.745 ms
+14  ae-5.r23.osakjp02.jp.bb.gin.ntt.net (129.250.6.144)  161.834 ms ae-5.r22.osakjp02.jp.bb.gin.ntt.net (129.250.6.192)  163.235 ms ae-4.r22.osakjp02.jp.bb.gin.ntt.net (129.250.6.188)  156.915 ms
+15  ae-2.a21.osakjp01.jp.ra.gin.ntt.net (61.200.80.142)  179.217 ms ae-1.a21.osakjp01.jp.ra.gin.ntt.net (61.200.80.138)  157.570 ms ae-2.a21.osakjp01.jp.ra.gin.ntt.net (61.200.80.142)  180.190 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

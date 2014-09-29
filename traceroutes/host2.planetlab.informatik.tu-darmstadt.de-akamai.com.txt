@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.34.189.239), 30 hops max, 60 byte packets
+ 1  melbourne.dvs.informatik.tu-darmstadt.de (130.83.166.241)  0.257 ms  0.245 ms  0.233 ms
+ 2  130.83.164.250 (130.83.164.250)  0.773 ms  0.765 ms  0.760 ms
+ 3  130.83.253.250 (130.83.253.250)  0.732 ms  0.731 ms  0.737 ms
+ 4  cores101-rsm1311x.net.hrz.tu-darmstadt.de (130.83.254.13)  5.546 ms  5.539 ms  5.530 ms
+ 5  te-0-1-0.br-tud1.sm.tu.da.man-da.net (82.195.78.50)  0.679 ms  0.655 ms  0.649 ms
+ 6  te-2-2-0-400.core1.sm.tu.da.man-da.net (82.195.78.41)  0.641 ms  0.638 ms  0.620 ms
+ 7  te-2-3-0-403.core1.rz.hda.da.man-da.net (82.195.67.245)  0.971 ms  0.801 ms  0.794 ms
+ 8  te-0-0-0-0.core1.fra1.ix.f.man-da.net (82.195.67.77)  1.475 ms  1.459 ms te-1-0-0-0.core1.fra1.ix.f.man-da.net (82.195.67.210)  1.413 ms
+ 9  te-0-2-0.peer1.sara.ams.man-da.net (82.195.67.90)  6.789 ms  6.776 ms  6.768 ms
+10  amsix-ams8.netarch.akamai.com (195.69.145.208)  7.633 ms  7.379 ms  7.601 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

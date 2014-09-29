@@ -1,0 +1,11 @@
+traceroute to google.com (173.194.41.128), 30 hops max, 60 byte packets
+ 1  planetlab-hsrp-master.net.ic.ac.uk (193.63.75.30)  0.771 ms * *
+ 2  rachael-dcrt1.net.ic.ac.uk (194.82.153.120)  0.438 ms  0.508 ms  0.619 ms
+ 3  te0-4-0-1.londic-rbr1.ja.net (146.97.137.153)  1.570 ms  1.547 ms  1.518 ms
+ 4  ae24.londpg-sbr1.ja.net (146.97.37.197)  0.617 ms  0.759 ms  0.627 ms
+ 5  * * *
+ 6  po1.lond-ban3.ja.net (146.97.35.106)  1.207 ms  1.273 ms  1.203 ms
+ 7  72.14.196.137 (72.14.196.137)  15.490 ms  15.684 ms  15.115 ms
+ 8  209.85.255.78 (209.85.255.78)  15.083 ms  1.318 ms  1.347 ms
+ 9  72.14.238.55 (72.14.238.55)  1.697 ms  2.073 ms  2.052 ms
+10  lhr08s03-in-f0.1e100.net (173.194.41.128)  1.321 ms  1.387 ms  1.362 ms

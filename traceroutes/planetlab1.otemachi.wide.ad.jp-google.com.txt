@@ -1,0 +1,8 @@
+traceroute to google.com (74.125.235.100), 30 hops max, 60 byte packets
+ 1  foundry6.otemachi.wide.ad.jp (203.178.133.1)  0.331 ms  0.313 ms  0.311 ms
+ 2  ve-5.alala1.otemachi.wide.ad.jp (203.178.140.215)  2.086 ms  4.144 ms  6.147 ms
+ 3  as15169.dix-ie.jp (202.249.2.189)  0.637 ms  0.834 ms  0.814 ms
+ 4  209.85.255.80 (209.85.255.80)  0.869 ms  0.868 ms  0.945 ms
+ 5  209.85.249.195 (209.85.249.195)  1.124 ms  1.024 ms  1.075 ms
+ 6  209.85.251.39 (209.85.251.39)  1.255 ms  1.269 ms  1.369 ms
+ 7  nrt19s02-in-f4.1e100.net (74.125.235.100)  0.833 ms  0.883 ms  0.925 ms

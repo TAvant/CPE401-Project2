@@ -1,0 +1,9 @@
+traceroute to google.com (173.194.45.7), 30 hops max, 60 byte packets
+ 1  gt1-planetlab.core.ua.pt (193.137.173.209)  0.422 ms  0.653 ms  0.710 ms
+ 2  nx2-ibgp.core.ua.pt (10.0.34.1)  0.599 ms  0.608 ms  0.746 ms
+ 3  Router2.Campanha.fccn.pt (193.136.4.26)  1.002 ms  0.992 ms  0.986 ms
+ 4  Router3.10GE.DWDM.Lisboa.fccn.pt (193.136.1.1)  5.748 ms  5.801 ms *
+ 5  ROUTER10.10GE.CR2.Lisboa.fccn.pt (193.137.0.24)  5.517 ms  5.505 ms  5.496 ms
+ 6  Google.AS15169.gigapix.pt (193.136.250.20)  5.652 ms  5.640 ms  5.641 ms
+ 7  209.85.254.70 (209.85.254.70)  6.175 ms  6.420 ms  6.511 ms
+ 8  lis01s06-in-f7.1e100.net (173.194.45.7)  5.761 ms  5.765 ms  5.753 ms

@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.194.173.239), 30 hops max, 60 byte packets
+ 1  gw.cc.stevens-tech.edu (155.246.151.13)  0.316 ms  0.307 ms  0.417 ms
+ 2  ge-8-37.car1.Newark1.Level3.net (4.28.0.173)  4.931 ms  4.918 ms  4.898 ms
+ 3  ae-31-51.ebr1.Newark1.Level3.net (4.69.156.30)  4.932 ms  4.915 ms  5.053 ms
+ 4  ae-10-10.ebr2.NewYork1.Level3.net (4.69.132.97)  5.056 ms  5.033 ms  4.856 ms
+ 5  ae-92-92.csw4.NewYork1.Level3.net (4.69.148.46)  6.569 ms  4.944 ms  4.901 ms
+ 6  ae-2-70.edge8.NewYork1.Level3.net (4.69.155.79)  4.912 ms ae-3-80.edge8.NewYork1.Level3.net (4.69.155.143)  4.837 ms  4.710 ms
+ 7  NTT-level3-40G.NewYork1.Level3.net (4.68.110.74)  5.122 ms  4.972 ms  4.673 ms
+ 8  ae-2.r23.nycmny01.us.bb.gin.ntt.net (129.250.4.148)  4.632 ms  10.334 ms  10.362 ms
+ 9  ae-3.r20.chcgil09.us.bb.gin.ntt.net (129.250.2.40)  22.248 ms  35.895 ms  28.603 ms
+10  ae-1.r05.chcgil09.us.bb.gin.ntt.net (129.250.2.25)  23.492 ms  24.554 ms  22.581 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

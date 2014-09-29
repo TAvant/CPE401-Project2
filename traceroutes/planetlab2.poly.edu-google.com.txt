@@ -1,0 +1,12 @@
+traceroute to google.com (74.125.226.166), 30 hops max, 60 byte packets
+ 1  128.238.88.1 (128.238.88.1)  0.373 ms  0.418 ms  0.724 ms
+ 2  162.220.41.65.lightower.net (162.220.41.65)  0.898 ms  0.963 ms  1.010 ms
+ 3  ae1-nycmnyaaj41.lightower.net (72.22.160.171)  1.628 ms  1.711 ms  1.921 ms
+ 4  ae5-nycmnyzrj91.lightower.net (72.22.160.173)  1.740 ms  1.879 ms  1.941 ms
+ 5  ae2.nycmnyzrj42.lightower.net (64.72.64.111)  1.983 ms  2.010 ms  2.068 ms
+ 6  10ge3-2.core1.nyc5.he.net (216.66.50.105)  2.285 ms  1.010 ms  1.077 ms
+ 7  10ge11-1.core1.nyc4.he.net (184.105.213.217)  11.382 ms  11.379 ms  3.049 ms
+ 8  72.14.213.150 (72.14.213.150)  3.141 ms  3.209 ms  3.257 ms
+ 9  209.85.248.180 (209.85.248.180)  3.490 ms  3.538 ms  3.610 ms
+10  209.85.245.183 (209.85.245.183)  4.288 ms  4.479 ms  4.653 ms
+11  lga15s45-in-f6.1e100.net (74.125.226.166)  3.858 ms  14.831 ms  20.492 ms

@@ -1,0 +1,11 @@
+traceroute to google.com (74.125.225.67), 30 hops max, 60 byte packets
+ 1  gateway-19-1.seas.wustl.edu (128.252.19.62)  0.837 ms  0.815 ms  0.801 ms
+ 2  * * eth7-5-eps-core.nts.wustl.edu (128.252.1.49)  1.253 ms
+ 3  * eth7-2-commodity-core.nts.wustl.edu (128.252.100.126)  1.979 ms  2.216 ms
+ 4  te3-6.ccr01.stl03.atlas.cogentco.com (38.104.162.77)  1.936 ms  1.897 ms  2.138 ms
+ 5  te0-17-0-28.ccr41.ord01.atlas.cogentco.com (154.54.88.25)  9.028 ms te0-1-0-28.ccr42.ord01.atlas.cogentco.com (154.54.27.29)  9.021 ms  9.010 ms
+ 6  * * be2006.ccr21.ord03.atlas.cogentco.com (154.54.5.18)  10.312 ms
+ 7  38.88.204.78 (38.88.204.78)  8.405 ms *  9.612 ms
+ 8  * 209.85.254.128 (209.85.254.128)  8.571 ms *
+ 9  209.85.250.30 (209.85.250.30)  9.107 ms  8.985 ms  9.019 ms
+10  ord08s07-in-f3.1e100.net (74.125.225.67)  8.969 ms  8.910 ms  8.899 ms

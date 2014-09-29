@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.44.221.239), 30 hops max, 60 byte packets
+ 1  sn-049.gate.tu-berlin.de (130.149.49.1)  0.393 ms  0.423 ms  0.476 ms
+ 2  en-hft.gate.tu-berlin.de (130.149.126.57)  0.969 ms  1.025 ms  1.352 ms
+ 3  cr-tub1-te0-0-0-15.x-win.dfn.de (188.1.235.117)  0.967 ms  0.952 ms  1.046 ms
+ 4  hbg-b1-link.telia.net (80.239.128.181)  4.823 ms  4.813 ms  4.796 ms
+ 5  hbg-bb2-link.telia.net (213.155.135.84)  7.558 ms  7.229 ms  4.688 ms
+ 6  adm-bb4-link.telia.net (80.91.246.220)  11.708 ms adm-bb4-link.telia.net (80.91.246.208)  11.711 ms adm-bb4-link.telia.net (80.91.245.74)  11.706 ms
+ 7  adm-b5-link.telia.net (213.155.134.43)  62.712 ms adm-b5-link.telia.net (80.91.253.171)  10.922 ms  11.160 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

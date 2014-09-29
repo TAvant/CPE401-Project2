@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.52.189.239), 30 hops max, 60 byte packets
+ 1  129.130.252.137 (129.130.252.137)  2.435 ms  2.455 ms  2.442 ms
+ 2  129.130.18.4 (129.130.18.4)  2.731 ms  3.635 ms  3.610 ms
+ 3  kanren-ksu-pplant-border.peer.net.kanren.net (164.113.212.5)  2.680 ms  2.656 ms  2.895 ms
+ 4  bb-ksu-hale-e2-1.bb.net.kanren.net (164.113.193.22)  3.519 ms  3.507 ms  3.494 ms
+ 5  bb-kc-walnut-e2-4.bb.net.kanren.net (164.113.193.53)  6.448 ms  5.656 ms  5.647 ms
+ 6  10ge3-2.core1.mci1.he.net (184.105.253.141)  6.386 ms  4.621 ms  3.434 ms
+ 7  10ge5-2.core1.mci3.he.net (184.105.213.34)  12.375 ms  6.560 ms  6.542 ms
+ 8  kanc-b1-link.telia.net (213.248.73.209)  7.496 ms  7.469 ms  6.463 ms
+ 9  chi-bb1-link.telia.net (213.155.130.176)  38.782 ms  38.769 ms  38.736 ms
+10  nyk-bb1-link.telia.net (213.155.131.240)  41.622 ms nyk-bb1-link.telia.net (62.115.137.30)  41.611 ms nyk-bb1-link.telia.net (80.91.247.16)  42.355 ms
+11  ldn-bb1-link.telia.net (80.91.248.202)  112.584 ms  113.523 ms  112.831 ms
+12  ldn-b3-link.telia.net (62.115.137.93)  111.329 ms ldn-b3-link.telia.net (62.115.137.199)  111.288 ms ldn-b3-link.telia.net (80.91.250.241)  111.852 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

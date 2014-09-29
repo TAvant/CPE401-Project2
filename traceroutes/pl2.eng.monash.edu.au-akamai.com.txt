@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.23.205.239), 30 hops max, 60 byte packets
+ 1  west1-gw-v252.net.monash.edu.au (130.194.252.253)  0.599 ms  0.805 ms  0.790 ms
+ 2  clay0-gw-t2-3.net.monash.edu.au (130.194.28.226)  0.500 ms  0.509 ms  0.734 ms
+ 3  monash1-gw-v591.net.monash.edu.au (130.194.29.146)  0.470 ms  0.694 ms  0.694 ms
+ 4  gigabitethernet1.er1.monash.cpe.aarnet.net.au (202.158.200.233)  0.354 ms  0.401 ms  0.399 ms
+ 5  ge-2-1-0.bb1.a.mel.aarnet.net.au (202.158.207.249)  0.870 ms  1.098 ms  1.091 ms
+ 6  ge-0-0-0.bb1.b.mel.aarnet.net.au (202.158.194.182)  0.815 ms  0.838 ms  1.009 ms
+ 7  so-0-1-0.bb1.a.cbr.aarnet.net.au (202.158.194.41)  8.627 ms  8.673 ms  8.667 ms
+ 8  ge-0-0-0.bb1.b.cbr.aarnet.net.au (202.158.194.206)  8.648 ms  8.640 ms  8.638 ms
+ 9  so-0-1-0.bb1.b.syd.aarnet.net.au (202.158.194.29)  12.487 ms  12.524 ms  12.515 ms
+10  so-1-0-0.bb1.a.sin.aarnet.net.au (202.158.194.245)  154.779 ms  154.769 ms  154.759 ms
+11  AAR-0002.gw3.sin1.asianetcom.net (202.147.33.173)  154.723 ms  154.719 ms  154.720 ms
+12  te0-0-2-0.wr1.sin0.asianetcom.net (61.14.157.109)  158.749 ms  158.158 ms  157.122 ms
+13  gi4-0-0.gw2.sin3.asianetcom.net (61.14.157.134)  156.624 ms  156.782 ms  156.762 ms
+14  p1273.sgw.equinix.com (202.79.197.32)  156.533 ms  156.281 ms  156.261 ms
+15  ae3-xcr1.mar.cw.net (195.2.30.149)  320.850 ms  320.641 ms  320.586 ms
+16  ae7-xcr1.prp.cw.net (195.2.10.53)  325.399 ms  325.379 ms  325.351 ms
+17  195.2.9.193 (195.2.9.193)  340.055 ms  320.629 ms  320.603 ms
+18  ae13-xcr1.lnd.cw.net (195.2.10.241)  319.832 ms  321.320 ms  321.415 ms
+19  ae15-xcr1.lns.cw.net (195.2.30.114)  319.653 ms  320.148 ms  318.628 ms
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

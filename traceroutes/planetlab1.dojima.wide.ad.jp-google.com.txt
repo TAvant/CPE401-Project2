@@ -1,0 +1,10 @@
+traceroute to google.com (74.125.235.101), 30 hops max, 60 byte packets
+ 1  cisco3.dojima.wide.ad.jp (203.178.133.9)  0.382 ms  0.666 ms  0.829 ms
+ 2  ve-2.cisco2.dojima.wide.ad.jp (203.178.138.45)  0.549 ms  0.533 ms  0.510 ms
+ 3  ve-21.foundry6.otemachi.wide.ad.jp (203.178.136.117)  8.532 ms  8.541 ms  8.538 ms
+ 4  ve-5.alala1.otemachi.wide.ad.jp (203.178.140.215)  10.397 ms  12.317 ms  14.329 ms
+ 5  as15169.dix-ie.jp (202.249.2.189)  8.915 ms  8.913 ms  8.932 ms
+ 6  209.85.255.80 (209.85.255.80)  9.024 ms  9.140 ms  9.136 ms
+ 7  209.85.249.195 (209.85.249.195)  36.617 ms  36.638 ms  9.423 ms
+ 8  209.85.251.39 (209.85.251.39)  9.393 ms  9.528 ms  9.304 ms
+ 9  nrt19s02-in-f5.1e100.net (74.125.235.101)  9.070 ms  9.071 ms  9.052 ms

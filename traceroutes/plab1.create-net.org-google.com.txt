@@ -1,0 +1,9 @@
+traceroute to google.com (173.194.35.8), 30 hops max, 60 byte packets
+ 1  193.206.22.129 (193.206.22.129)  1.694 ms  1.046 ms  2.185 ms
+ 2  ru-createnet-rc-tn.tn.garr.net (193.206.143.101)  2.828 ms  3.466 ms  3.431 ms
+ 3  rx1-rm1-rx2-rm2.rm1.garr.net (90.147.81.197)  13.252 ms  11.919 ms  14.520 ms
+ 4  rx2-mi2-r-mi2.mi2.garr.net (90.147.80.77)  8.604 ms  9.263 ms  9.225 ms
+ 5  r-mi2-google.mi2.garr.net (193.206.129.130)  10.667 ms  11.146 ms  11.478 ms
+ 6  216.239.47.128 (216.239.47.128)  9.799 ms  22.764 ms  10.944 ms
+ 7  209.85.241.65 (209.85.241.65)  12.773 ms  12.731 ms  13.344 ms
+ 8  mil01s16-in-f8.1e100.net (173.194.35.8)  12.022 ms  11.635 ms  11.503 ms

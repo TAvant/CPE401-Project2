@@ -1,0 +1,31 @@
+traceroute to akamai.com (23.59.205.239), 30 hops max, 60 byte packets
+ 1  138.251.214.9 (138.251.214.9)  2.291 ms  2.434 ms  2.602 ms
+ 2  oux-6513-jhb.st-and.ac.uk (138.251.2.185)  0.581 ms  0.683 ms  0.757 ms
+ 3  138.251.0.158 (138.251.0.158)  0.449 ms  0.626 ms  0.849 ms
+ 4  138.251.0.67 (138.251.0.67)  1.538 ms  1.300 ms  1.446 ms
+ 5  xe-0-1-0.dund-ban1.ja.net (146.97.128.69)  1.414 ms  1.413 ms  1.429 ms
+ 6  ae1.dund-ban3.ja.net (146.97.64.97)  1.400 ms  1.146 ms  1.059 ms
+ 7  ae24.leedaq-sbr1.ja.net (146.97.37.181)  6.725 ms  6.720 ms  6.509 ms
+ 8  ae29.lowdss-sbr1.ja.net (146.97.33.50)  8.236 ms  7.817 ms  7.859 ms
+ 9  ae31.londtw-sbr1.ja.net (146.97.33.30)  15.593 ms  15.526 ms  15.518 ms
+10  ae29.londtn-sbr1.ja.net (146.97.33.10)  11.378 ms  11.370 ms  11.315 ms
+11  ldn-b4-link.telia.net (213.248.84.177)  11.239 ms  11.190 ms  11.178 ms
+12  ldn-bb2-link.telia.net (213.155.132.196)  11.183 ms ldn-bb1-link.telia.net (80.91.247.91)  11.143 ms ldn-bb2-link.telia.net (80.91.249.181)  11.167 ms
+13  nyk-bb2-link.telia.net (80.91.253.118)  80.902 ms ash-bb4-link.telia.net (80.91.251.207)  86.143 ms nyk-bb2-link.telia.net (213.248.65.94)  80.930 ms
+14  sjo-bb1-link.telia.net (213.155.135.159)  157.208 ms sjo-bb1-link.telia.net (213.155.130.131)  155.831 ms sjo-bb1-link.telia.net (80.91.252.46)  157.329 ms
+15  akamai-ic-301048-sjo-bb1.c.telia.net (62.115.13.202)  154.827 ms  154.840 ms  157.658 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

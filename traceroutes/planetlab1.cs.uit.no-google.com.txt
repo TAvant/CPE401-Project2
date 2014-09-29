@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.40.225), 30 hops max, 60 byte packets
+ 1  ifi-gsw.infra.uit.no (129.242.19.193)  7.556 ms  7.720 ms  7.897 ms
+ 2  munin-gw.infra.uit.no (129.242.24.81)  0.327 ms  0.384 ms  0.442 ms
+ 3  tromso-gw2.uninett.no (129.242.1.9)  0.296 ms  0.343 ms  0.388 ms
+ 4  ma2-gw.uninett.no (128.39.255.97)  0.221 ms  0.258 ms  0.212 ms
+ 5  narvik-gw1.uninett.no (128.39.230.209)  4.124 ms  4.115 ms  4.154 ms
+ 6  narvik-gw3.uninett.no (128.39.255.229)  3.853 ms  3.843 ms  3.818 ms
+ 7  se-lla.nordu.net (109.105.102.69)  9.959 ms  9.969 ms  9.985 ms
+ 8  se-tug2.nordu.net (109.105.97.109)  23.370 ms  23.393 ms  23.385 ms
+ 9  se-tug2.nordu.net (109.105.97.18)  23.352 ms  79.622 ms  79.643 ms
+10  google-gw.nordu.net (109.105.98.6)  23.471 ms  23.521 ms  23.504 ms
+11  216.239.43.122 (216.239.43.122)  23.740 ms  34.859 ms  33.037 ms
+12  209.85.253.151 (209.85.253.151)  24.005 ms  24.155 ms  24.307 ms
+13  arn02s06-in-f1.1e100.net (173.194.40.225)  23.684 ms  23.738 ms  23.686 ms

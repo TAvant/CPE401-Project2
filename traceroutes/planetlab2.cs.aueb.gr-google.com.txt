@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.113.72), 30 hops max, 60 byte packets
+ 1  cslab254.cs.aueb.gr (195.251.248.254)  0.507 ms  0.533 ms  0.756 ms
+ 2  aueb-2-gw.koletti-1.access-link.grnet.gr (195.251.24.5)  0.386 ms  0.414 ms  0.407 ms
+ 3  eie2-to-koletti1.backbone.grnet.gr (195.251.27.46)  0.670 ms  0.652 ms  0.635 ms
+ 4  grnet.mx2.ath.gr.geant.net (62.40.124.89)  0.617 ms  0.590 ms  0.572 ms
+ 5  ae1.mx1.ath.gr.geant.net (62.40.112.215)  0.562 ms  0.642 ms  0.534 ms
+ 6  ae2.mx1.mil2.it.geant.net (62.40.98.150)  30.142 ms  32.579 ms  32.395 ms
+ 7  ae2.mx1.gen.ch.geant.net (62.40.98.112)  37.155 ms  34.995 ms  37.197 ms
+ 8  ae1.mx1.fra.de.geant.net (62.40.98.109)  45.612 ms  45.613 ms  45.595 ms
+ 9  ae4.rt1.fra.de.geant.net (62.40.98.135)  45.584 ms  45.552 ms  45.548 ms
+10  google-gw.rt1.fra.de.geant.net (62.40.125.202)  43.363 ms  43.353 ms  43.397 ms
+11  209.85.240.64 (209.85.240.64)  48.282 ms  139.567 ms  46.111 ms
+12  209.85.242.209 (209.85.242.209)  44.161 ms  46.307 ms  44.097 ms
+13  fra02s21-in-f8.1e100.net (173.194.113.72)  48.239 ms  46.016 ms  46.014 ms

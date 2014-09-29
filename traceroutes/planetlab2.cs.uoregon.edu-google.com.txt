@@ -1,0 +1,10 @@
+traceroute to google.com (173.194.33.135), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.391 ms  0.445 ms  0.493 ms
+ 2  vl-3.uonet9-gw.uoregon.edu (128.223.3.9)  0.317 ms  0.326 ms  0.360 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.181)  0.225 ms  0.233 ms  0.223 ms
+ 4  eugn-core2-gw.nero.net (207.98.64.162)  0.950 ms  0.982 ms  1.011 ms
+ 5  ptck-core2-gw.nero.net (207.98.64.10)  3.138 ms  3.127 ms  3.127 ms
+ 6  * * *
+ 7  66.249.94.212 (66.249.94.212)  6.140 ms  6.256 ms  6.247 ms
+ 8  209.85.244.61 (209.85.244.61)  6.509 ms  6.619 ms  6.855 ms
+ 9  sea09s17-in-f7.1e100.net (173.194.33.135)  6.188 ms  6.225 ms  6.208 ms

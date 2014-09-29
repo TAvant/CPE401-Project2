@@ -1,0 +1,14 @@
+traceroute to google.com (173.194.40.229), 30 hops max, 60 byte packets
+ 1  lanplex4.sics.se (193.10.64.1)  0.994 ms  1.318 ms  1.552 ms
+ 2  he-sics-p2p.gw.kth.se (130.237.211.173)  1.648 ms  1.909 ms  1.909 ms
+ 3  cn6-vss1-p2p.gw.kth.se (130.237.211.118)  0.705 ms  0.691 ms  0.786 ms
+ 4  br1g-cn6-p2p.gw.kth.se (130.237.0.1)  0.592 ms  0.600 ms  0.586 ms
+ 5  kth-br2.sunet.se (193.11.0.197)  19.415 ms  19.430 ms  19.410 ms
+ 6  m1tug-ae4.sunet.se (130.242.85.209)  0.774 ms  0.770 ms  0.727 ms
+ 7  t1tug-ae1-v1.sunet.se (130.242.83.41)  0.811 ms  0.852 ms  0.845 ms
+ 8  se-tug.nordu.net (109.105.102.17)  33.066 ms  33.059 ms  28.628 ms
+ 9  se-tug2.nordu.net (109.105.97.18)  0.861 ms  0.890 ms  0.871 ms
+10  google-gw.nordu.net (109.105.98.6)  1.016 ms  1.003 ms  0.982 ms
+11  216.239.43.122 (216.239.43.122)  8.970 ms  1.301 ms  1.299 ms
+12  209.85.253.151 (209.85.253.151)  1.605 ms  1.730 ms  1.840 ms
+13  arn02s06-in-f5.1e100.net (173.194.40.229)  1.234 ms  1.265 ms  1.253 ms

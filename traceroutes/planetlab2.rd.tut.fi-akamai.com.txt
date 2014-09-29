@@ -1,0 +1,31 @@
+traceroute to akamai.com (2.22.141.239), 30 hops max, 60 byte packets
+ 1  rdnet-gw1-vlan730.rd.tut.fi (193.166.167.2)  0.514 ms  0.642 ms  0.626 ms
+ 2  surf-gw-1-2-0-560.cc.tut.fi (130.230.1.129)  0.721 ms  0.726 ms  0.779 ms
+ 3  funet-tut6-rtr-xe-0-0-0.cc.tut.fi (130.230.1.237)  0.824 ms  0.814 ms  0.800 ms
+ 4  csc6-ae1-0-tut6.funet.fi (193.166.255.77)  3.578 ms  3.571 ms  3.556 ms
+ 5  fi-csc.nordu.net (109.105.102.56)  3.523 ms  3.520 ms  3.506 ms
+ 6  se-fre.nordu.net (109.105.97.93)  20.290 ms  18.597 ms  18.577 ms
+ 7  s-b3-link.telia.net (213.248.97.17)  10.887 ms  12.214 ms  12.202 ms
+ 8  s-bb4-link.telia.net (80.91.253.226)  11.152 ms s-bb3-link.telia.net (62.115.137.158)  11.335 ms s-bb4-link.telia.net (80.91.253.226)  11.304 ms
+ 9  kbn-bb1-link.telia.net (80.91.247.161)  20.939 ms kbn-bb2-link.telia.net (213.155.130.51)  24.585 ms kbn-bb1-link.telia.net (62.115.136.186)  20.740 ms
+10  kbn-b3-link.telia.net (80.91.252.23)  20.732 ms kbn-b3-link.telia.net (213.155.135.173)  19.419 ms  19.410 ms
+11  ae0.cph10.ip4.tinet.net (77.67.73.113)  20.913 ms  21.318 ms  34.707 ms
+12  xe-10-2-3.lon10.ip4.tinet.net (141.136.106.21)  39.809 ms  39.762 ms  39.741 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
